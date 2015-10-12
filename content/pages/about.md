@@ -13,12 +13,13 @@ mi interés y mi atención, citando a continuación algunos de ellos
 como ejemplo:
 
 * Manga y anime
+* Gastronomía japonesa
 * Cultura del té
-* Filosofía japonesa
 * Artes marciales
+* Filosofía japonesa
 * Ikebana y jardín japonés
-* Cine, música y artes escénicas
 * Cerámica y porcelana
+* Cine, música y artes escénicas
 
 Espero que os guste y os agradezco la visita.
 
