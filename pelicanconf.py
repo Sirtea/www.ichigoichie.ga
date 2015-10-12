@@ -81,8 +81,7 @@ SITEMAP = {
 
 # Settings del theme
 THEME = '../../themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'readable'
-#~ BOOTSTRAP_THEME = 'lumen'
+BOOTSTRAP_THEME = 'cosmo'
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
