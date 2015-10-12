@@ -94,8 +94,14 @@ DISPLAY_TAGS_INLINE = True
 CUSTOM_CSS = 'static/custom.css'
 
 # Static paths
-STATIC_PATHS = ['images', 'extra/custom.css', 'extra/CNAME']
+STATIC_PATHS = [
+    'images',
+    'extra/custom.css',
+    'extra/CNAME',
+    'extra/google85de17e42482bf61',
+]
 EXTRA_PATH_METADATA = {
     'extra/custom.css': {'path': 'static/custom.css'},
     'extra/CNAME': {'path': 'CNAME'},
+    'extra/google85de17e42482bf61': {'path': 'google85de17e42482bf61.html'},
 }
