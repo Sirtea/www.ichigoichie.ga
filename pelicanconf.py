@@ -81,7 +81,7 @@ SITEMAP = {
 
 # Settings del theme
 THEME = '../../themes/pelican-bootstrap3'
-BOOTSTRAP_THEME = 'cosmo'
+BOOTSTRAP_THEME = 'united'
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
 SHOW_DATE_MODIFIED = True
