@@ -22,3 +22,6 @@ DELETE_OUTPUT_DIRECTORY = True
 
 DISQUS_SITENAME = "ichigoichie-gmb"
 GOOGLE_ANALYTICS = "UA-68486572-2"
+
+# Settings de cookie consent
+COOKIE_TEXT = 'De acuerdo a la ley vigente, estoy obligada que mi sitio usa cookies.'

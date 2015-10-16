@@ -80,7 +80,7 @@ SITEMAP = {
 }
 
 # Settings del theme
-THEME = '../../themes/pelican-bootstrap3'
+THEME = '../../themes/pelican-bootstrap3-gmb'
 BOOTSTRAP_THEME = 'united'
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
