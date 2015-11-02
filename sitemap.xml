@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2015-10-29T15:35:18-00:00</lastmod>
+<lastmod>2015-11-02T13:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2015-10-29T15:35:18-00:00</lastmod>
+<lastmod>2015-11-02T13:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2015-10-29T15:35:18-00:00</lastmod>
+<lastmod>2015-11-02T13:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2015-10-29T15:35:18-00:00</lastmod>
+<lastmod>2015-11-02T13:28:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2015-10-29T15:35:18-00:00</lastmod>
+<lastmod>2015-11-02T13:28:41-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2015/11/tu-caracter-segun-tu-grupo-sanguineo.html</loc>
+<lastmod>2015-11-02T13:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -60,6 +67,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
+<lastmod>2015-11-02T13:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/category/filosofia.html</loc>
 <lastmod>2015-10-15T20:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -67,15 +81,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/salsa.html</loc>
-<lastmod>2015-10-26T14:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.ga/tag/teriyaki.html</loc>
-<lastmod>2015-10-26T14:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/sangre.html</loc>
+<lastmod>2015-11-02T13:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -88,8 +95,36 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/author/aki.html</loc>
+<loc>http://www.ichigoichie.ga/tag/discriminacion.html</loc>
+<lastmod>2015-11-02T13:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/teriyaki.html</loc>
 <lastmod>2015-10-26T14:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/salsa.html</loc>
+<lastmod>2015-10-26T14:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/grupo-sanguineo.html</loc>
+<lastmod>2015-11-02T13:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/author/aki.html</loc>
+<lastmod>2015-11-02T13:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
