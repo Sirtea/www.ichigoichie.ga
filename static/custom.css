@@ -6,3 +6,8 @@ img {
 p {
     text-align: justify;
 }
+
+iframe {
+    display: block;
+    margin: auto;
+}

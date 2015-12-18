@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2015-12-10T17:35:46-00:00</lastmod>
+<lastmod>2015-12-18T14:05:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2015-12-10T17:35:46-00:00</lastmod>
+<lastmod>2015-12-18T14:05:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2015-12-10T17:35:46-00:00</lastmod>
+<lastmod>2015-12-18T14:05:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2015-12-10T17:35:46-00:00</lastmod>
+<lastmod>2015-12-18T14:05:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2015-12-10T17:35:46-00:00</lastmod>
+<lastmod>2015-12-18T14:05:47-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2015/12/el-video-viral-de-durex.html</loc>
+<lastmod>2015-12-18T15:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -117,7 +124,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2015-11-02T13:00:00-00:15</lastmod>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -151,8 +158,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
-<lastmod>2015-11-20T17:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/viral.html</loc>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -186,6 +193,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
+<lastmod>2015-11-20T17:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/tetera.html</loc>
 <lastmod>2015-11-26T22:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -195,6 +209,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/sencha.html</loc>
 <lastmod>2015-12-01T13:30:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/salon-del-manga.html</loc>
+<lastmod>2015-11-20T17:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -214,8 +235,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/salon-del-manga.html</loc>
-<lastmod>2015-11-20T17:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/preservativos.html</loc>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/durex.html</loc>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -223,6 +251,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/discriminacion.html</loc>
 <lastmod>2015-11-02T13:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/teriyaki.html</loc>
+<lastmod>2015-10-26T14:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -242,15 +277,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/teriyaki.html</loc>
-<lastmod>2015-10-26T14:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/shijuhatte.html</loc>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2015-12-10T18:15:00-00:15</lastmod>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
