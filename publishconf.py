@@ -25,3 +25,12 @@ GOOGLE_ANALYTICS = "UA-68486572-2"
 
 # Settings de cookie consent
 COOKIE_TEXT = 'De acuerdo a la ley vigente, tengo que informarte de que mi sitio usa cookies.'
+
+# AdSense settings
+ADSENSE_SIDEBAR_NAME = 'Sidebar ichigoichie'
+ADSENSE_SIDEBAR_CLIENT = 'ca-pub-6984858420847602'
+ADSENSE_SIDEBAR_SLOT = '8756576178'
+
+ADSENSE_BANNER_NAME = 'Banner ichigoichie'
+ADSENSE_BANNER_CLIENT = 'ca-pub-6984858420847602'
+ADSENSE_BANNER_SLOT = '7279842970'
