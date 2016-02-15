@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-02-08T08:45:54-00:00</lastmod>
+<lastmod>2016-02-15T08:22:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-02-08T08:45:54-00:00</lastmod>
+<lastmod>2016-02-15T08:22:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-02-08T08:45:54-00:00</lastmod>
+<lastmod>2016-02-15T08:22:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-02-08T08:45:54-00:00</lastmod>
+<lastmod>2016-02-15T08:22:25-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-02-08T08:45:54-00:00</lastmod>
+<lastmod>2016-02-15T08:22:25-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/02/encontrando-un-cuchillo-japones-amor-a-primera-vista.html</loc>
+<lastmod>2016-02-08T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -166,7 +173,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -284,8 +291,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/envolver.html</loc>
-<lastmod>2016-02-01T09:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/osoji.html</loc>
+<lastmod>2016-01-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -314,6 +321,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/ichi-go-ichi-e.html</loc>
 <lastmod>2015-10-15T20:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/yanagiba.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -389,6 +403,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/miyabi.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/yunomi.html</loc>
 <lastmod>2015-11-26T22:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -459,6 +480,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/santoku.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/evento.html</loc>
 <lastmod>2015-11-20T17:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -522,6 +550,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/cuchillo.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/shijuhatte.html</loc>
 <lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -564,8 +599,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/osoji.html</loc>
-<lastmod>2016-01-04T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/envolver.html</loc>
+<lastmod>2016-02-01T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
