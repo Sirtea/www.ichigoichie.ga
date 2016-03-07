@@ -5,6 +5,7 @@ Category: Ikebana
 Tags: bonsai
 
 
+
 Bonsái es una palabra de origen japonés que significa literalmente "cultivar en bandeja". El arte del bonsái consiste en cultivar árboles y plantas, reduciendo su tamaño mediante técnicas como el trasplante y la poda, modelando su forma para crear un estilo que nos recuerde una bella escena de la naturaleza.
 
 Un bonsái no es una planta genéticamente empequeñecida. Se mantiene pequeña dándole forma, podando el tronco, las hojas y las raíces cada cierto tiempo, dependiendo de la especie. Si se cultiva adecuadamente, sobrevivirá el mismo tiempo que un árbol normal de la misma especie, pero si se hace de forma incorrecta, probablemente morirá.
