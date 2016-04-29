@@ -1,7 +1,7 @@
 Title: Bento: la comida mas kawaii
 Slug: bento-la-comida-mas-kawaii
 Date: 2016-03-21 09:00
-Category: Comida
+Category: Cocina
 Tags: bento, comida, kawaii
 
 
