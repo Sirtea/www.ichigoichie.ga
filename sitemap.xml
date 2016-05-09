@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-05-02T07:49:03-00:00</lastmod>
+<lastmod>2016-05-09T07:17:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-05-02T07:49:03-00:00</lastmod>
+<lastmod>2016-05-09T07:17:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-05-02T07:49:03-00:00</lastmod>
+<lastmod>2016-05-09T07:17:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-05-02T07:49:03-00:00</lastmod>
+<lastmod>2016-05-09T07:17:59-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-05-02T07:49:03-00:00</lastmod>
+<lastmod>2016-05-09T07:17:59-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/05/pulpos-y-cangrejos-de-salchichas-tipo-frankfurt.html</loc>
+<lastmod>2016-05-09T08:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -250,7 +257,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2016-05-02T08:00:00-00:15</lastmod>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -431,8 +438,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/shijuhatte.html</loc>
-<lastmod>2015-12-18T15:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/koi.html</loc>
+<lastmod>2016-01-18T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -523,7 +530,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/bento.html</loc>
-<lastmod>2016-03-21T09:00:00-00:15</lastmod>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -550,8 +557,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/koi.html</loc>
-<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/pulpo.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -706,6 +713,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/carpas.html</loc>
 <lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/salsa.html</loc>
+<lastmod>2015-10-26T14:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -977,6 +991,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/salchipulpo.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/shijuhatte.html</loc>
+<lastmod>2015-12-18T15:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/secundaria.html</loc>
 <lastmod>2016-03-14T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1005,8 +1033,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/salsa.html</loc>
-<lastmod>2015-10-26T14:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/salchicha.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1026,6 +1054,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/cangrejo.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/salon-del-manga.html</loc>
 <lastmod>2015-11-20T17:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1033,8 +1068,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/frankfurt.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-05-02T08:00:00-00:15</lastmod>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
