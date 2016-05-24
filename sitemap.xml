@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-05-16T14:36:04-00:00</lastmod>
+<lastmod>2016-05-24T23:32:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-05-16T14:36:04-00:00</lastmod>
+<lastmod>2016-05-24T23:32:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-05-16T14:36:04-00:00</lastmod>
+<lastmod>2016-05-24T23:32:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-05-16T14:36:04-00:00</lastmod>
+<lastmod>2016-05-24T23:32:10-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-05-16T14:36:04-00:00</lastmod>
+<lastmod>2016-05-24T23:32:10-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/05/influencias-japonesas-en-eurovision-2016.html</loc>
+<lastmod>2016-05-24T23:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -285,7 +292,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2016-04-11T08:30:00-00:15</lastmod>
+<lastmod>2016-05-24T23:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -515,6 +522,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/eurovision.html</loc>
+<lastmod>2016-05-24T23:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/origami.html</loc>
 <lastmod>2016-01-11T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -606,8 +620,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/okinawa.html</loc>
-<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/takeda-shingen.html</loc>
+<lastmod>2016-05-16T14:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -634,8 +648,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/takeda-shingen.html</loc>
-<lastmod>2016-05-16T14:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/okinawa.html</loc>
+<lastmod>2015-12-28T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1104,7 +1118,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-05-16T14:30:00-00:15</lastmod>
+<lastmod>2016-05-24T23:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/author/umi.html</loc>
+<lastmod>2016-05-24T23:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
