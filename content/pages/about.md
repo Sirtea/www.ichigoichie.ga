@@ -1,5 +1,5 @@
 Title: Sobre mí
-slug: about
+Slug: about
 
 
 
