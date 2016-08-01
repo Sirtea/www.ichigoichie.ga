@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-07-25T07:32:12-00:00</lastmod>
+<lastmod>2016-08-01T09:14:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-07-25T07:32:12-00:00</lastmod>
+<lastmod>2016-08-01T09:14:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-07-25T07:32:12-00:00</lastmod>
+<lastmod>2016-08-01T09:14:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-07-25T07:32:12-00:00</lastmod>
+<lastmod>2016-08-01T09:14:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-07-25T07:32:12-00:00</lastmod>
+<lastmod>2016-08-01T09:14:14-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/08/el-esperado-lanzamiento-de-pokemon-go-en-japon.html</loc>
+<lastmod>2016-08-01T11:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -355,7 +362,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -412,6 +419,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/floracion.html</loc>
 <lastmod>2016-03-28T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/mcdonalds.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -529,8 +543,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/kyusu.html</loc>
-<lastmod>2015-11-26T22:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/pokemon-go.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -599,6 +613,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/carpas.html</loc>
+<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/ano-nuevo.html</loc>
 <lastmod>2016-01-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -634,8 +655,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/saludo.html</loc>
-<lastmod>2016-04-04T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/arroz-tostado.html</loc>
+<lastmod>2016-07-04T07:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -683,6 +704,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/kyusu.html</loc>
+<lastmod>2015-11-26T22:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/preservativos.html</loc>
 <lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -704,8 +732,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/lineas.html</loc>
-<lastmod>2016-02-29T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/saludo.html</loc>
+<lastmod>2016-04-04T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -788,6 +816,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/niantic.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/bushido.html</loc>
 <lastmod>2016-01-25T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -804,13 +839,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/anime.html</loc>
 <lastmod>2016-03-07T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.ga/tag/7-minutos.html</loc>
-<lastmod>2015-12-21T16:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -879,8 +907,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/carpas.html</loc>
-<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/lineas.html</loc>
+<lastmod>2016-02-29T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -893,8 +921,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/corte.html</loc>
-<lastmod>2016-05-02T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/pokemon.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/primark.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1264,8 +1299,22 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/arroz-tostado.html</loc>
-<lastmod>2016-07-04T07:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/7-minutos.html</loc>
+<lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/corte.html</loc>
+<lastmod>2016-05-02T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/nintendo.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1335,7 +1384,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-07-25T08:00:00-00:15</lastmod>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
