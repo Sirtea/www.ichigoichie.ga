@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-10-03T06:41:32-00:00</lastmod>
+<lastmod>2016-10-10T06:42:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-10-03T06:41:32-00:00</lastmod>
+<lastmod>2016-10-10T06:42:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-10-03T06:41:32-00:00</lastmod>
+<lastmod>2016-10-10T06:42:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-10-03T06:41:32-00:00</lastmod>
+<lastmod>2016-10-10T06:42:56-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-10-03T06:41:32-00:00</lastmod>
+<lastmod>2016-10-10T06:42:56-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/10/de-carnivoros-a-herbivoros-como-se-categorizan-los-hombres-en-japon.html</loc>
+<lastmod>2016-10-10T08:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -425,7 +432,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2016-08-29T08:15:00-00:15</lastmod>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -907,6 +914,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
+<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/boku-dake-ga-inai-machi.html</loc>
 <lastmod>2016-03-07T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1194,6 +1208,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/sushi.html</loc>
+<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/pacto.html</loc>
 <lastmod>2016-04-11T08:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1376,8 +1397,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/sushi.html</loc>
-<lastmod>2016-01-18T09:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/herbivoros.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1481,6 +1502,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/carnivoros.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/japan-railways.html</loc>
 <lastmod>2016-03-14T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1502,8 +1530,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
-<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/hombres.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1636,7 +1664,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-10-03T08:00:00-00:15</lastmod>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
