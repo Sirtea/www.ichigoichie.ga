@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-10-24T07:09:33-00:00</lastmod>
+<lastmod>2016-10-31T09:20:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-10-24T07:09:33-00:00</lastmod>
+<lastmod>2016-10-31T09:20:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-10-24T07:09:33-00:00</lastmod>
+<lastmod>2016-10-31T09:20:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-10-24T07:09:33-00:00</lastmod>
+<lastmod>2016-10-31T09:20:01-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-10-24T07:09:33-00:00</lastmod>
+<lastmod>2016-10-31T09:20:01-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/10/una-sopa-deliciosa-y-facil-de-preparar-sopa-de-miso.html</loc>
+<lastmod>2016-10-31T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -425,7 +432,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2016-08-22T00:00:00-00:15</lastmod>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -802,6 +809,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/ichi-go-ichi-e.html</loc>
+<lastmod>2015-10-15T20:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/grullas.html</loc>
 <lastmod>2016-08-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -914,8 +928,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/ichi-go-ichi-e.html</loc>
-<lastmod>2015-10-15T20:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/cuchara.html</loc>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1026,6 +1040,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/tessei.html</loc>
+<lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/visita-al-templo.html</loc>
 <lastmod>2016-01-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1068,6 +1089,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/miso.html</loc>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/tama.html</loc>
 <lastmod>2016-08-29T08:15:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1098,6 +1126,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/dieta-de-okinawa.html</loc>
 <lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/tofu.html</loc>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1628,6 +1663,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/dashi.html</loc>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/arce.html</loc>
 <lastmod>2016-10-24T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1635,8 +1677,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/tessei.html</loc>
-<lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/sopa.html</loc>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1734,7 +1776,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<lastmod>2016-10-31T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
