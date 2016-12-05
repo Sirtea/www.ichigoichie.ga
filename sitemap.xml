@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-11-28T08:41:27-00:00</lastmod>
+<lastmod>2016-12-05T08:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-11-28T08:41:27-00:00</lastmod>
+<lastmod>2016-12-05T08:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-11-28T08:41:27-00:00</lastmod>
+<lastmod>2016-12-05T08:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-11-28T08:41:27-00:00</lastmod>
+<lastmod>2016-12-05T08:01:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-11-28T08:41:27-00:00</lastmod>
+<lastmod>2016-12-05T08:01:30-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/12/como-hacer-un-muneco-teru-teru-bouzu.html</loc>
+<lastmod>2016-12-05T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -467,7 +474,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura.html</loc>
-<lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -524,6 +531,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/category/viajes.html</loc>
 <lastmod>2016-07-11T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/bolas-de-arroz.html</loc>
+<lastmod>2016-11-14T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -676,8 +690,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
-<lastmod>2016-07-25T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/sherlock.html</loc>
+<lastmod>2016-06-06T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -706,13 +720,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/viral.html</loc>
 <lastmod>2015-12-18T15:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.ga/tag/ano-nuevo.html</loc>
-<lastmod>2016-01-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -802,8 +809,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/bolas-de-arroz.html</loc>
-<lastmod>2016-11-14T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/shinigami.html</loc>
+<lastmod>2016-11-07T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -879,6 +886,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/tutorial.html</loc>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/grullas.html</loc>
 <lastmod>2016-08-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -916,6 +930,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/sencha.html</loc>
 <lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/hombres.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1104,7 +1125,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/amuleto.html</loc>
-<lastmod>2016-10-17T08:00:00-00:15</lastmod>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1138,8 +1159,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/proverbio.html</loc>
-<lastmod>2016-09-19T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/ano-nuevo.html</loc>
+<lastmod>2016-01-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1355,13 +1376,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/shinigami.html</loc>
-<lastmod>2016-11-07T00:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.ga/tag/trabajo.html</loc>
 <lastmod>2016-04-18T08:10:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1523,8 +1537,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/sherlock.html</loc>
-<lastmod>2016-06-06T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/proverbio.html</loc>
+<lastmod>2016-09-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1628,15 +1642,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
-<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
+<lastmod>2016-07-25T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/lluvia.html</loc>
-<lastmod>2016-10-17T08:00:00-00:15</lastmod>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1657,7 +1671,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/teru-teru-bouzu.html</loc>
-<lastmod>2016-10-17T08:00:00-00:15</lastmod>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1726,8 +1740,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/hombres.html</loc>
-<lastmod>2016-10-10T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
+<lastmod>2016-07-18T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1874,7 +1888,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-11-28T08:00:00-00:15</lastmod>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
