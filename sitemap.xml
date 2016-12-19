@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2016-12-12T08:07:50-00:00</lastmod>
+<lastmod>2016-12-19T08:26:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2016-12-12T08:07:50-00:00</lastmod>
+<lastmod>2016-12-19T08:26:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2016-12-12T08:07:50-00:00</lastmod>
+<lastmod>2016-12-19T08:26:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2016-12-12T08:07:50-00:00</lastmod>
+<lastmod>2016-12-19T08:26:57-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2016-12-12T08:07:50-00:00</lastmod>
+<lastmod>2016-12-19T08:26:57-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2016/12/la-imagen-de-la-lealtad-el-perro-hachiko.html</loc>
+<lastmod>2016-12-19T08:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -481,7 +488,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura.html</loc>
-<lastmod>2016-12-12T08:00:00-00:15</lastmod>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -627,8 +634,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/bosque.html</loc>
-<lastmod>2016-11-28T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/hojicha.html</loc>
+<lastmod>2016-08-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -984,6 +991,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/perro.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/preservativos.html</loc>
 <lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1082,6 +1096,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/estatua.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/momiji.html</loc>
 <lastmod>2016-10-24T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1166,8 +1187,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/hojicha.html</loc>
-<lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/bosque.html</loc>
+<lastmod>2016-11-28T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1208,8 +1229,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/tama.html</loc>
-<lastmod>2016-08-29T08:15:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/manzana.html</loc>
+<lastmod>2016-06-13T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1224,6 +1245,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/mochi.html</loc>
 <lastmod>2016-01-04T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/hachiko.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1334,8 +1362,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/manzana.html</loc>
-<lastmod>2016-06-13T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/tama.html</loc>
+<lastmod>2016-08-29T08:15:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1364,6 +1392,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/tela.html</loc>
 <lastmod>2016-02-01T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/lealtad.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1462,6 +1497,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/educacion.html</loc>
 <lastmod>2016-03-14T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/fuurinkazan.html</loc>
+<lastmod>2016-05-16T14:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1621,8 +1663,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/fuurinkazan.html</loc>
-<lastmod>2016-05-16T14:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/akita.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1714,6 +1756,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/kyu-shirataki.html</loc>
 <lastmod>2016-03-14T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/shibuya.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1902,7 +1951,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2016-12-12T08:00:00-00:15</lastmod>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
