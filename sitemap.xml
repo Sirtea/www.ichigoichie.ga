@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-01-02T15:36:31-00:00</lastmod>
+<lastmod>2017-01-09T09:09:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-01-02T15:36:31-00:00</lastmod>
+<lastmod>2017-01-09T09:09:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-01-02T15:36:31-00:00</lastmod>
+<lastmod>2017-01-09T09:09:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-01-02T15:36:31-00:00</lastmod>
+<lastmod>2017-01-09T09:09:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-01-02T15:36:31-00:00</lastmod>
+<lastmod>2017-01-09T09:09:44-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/01/tostando-mi-propio-hojicha.html</loc>
+<lastmod>2017-01-09T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -509,7 +516,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura-del-te.html</loc>
-<lastmod>2016-07-04T07:00:00-00:15</lastmod>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -656,7 +663,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/hojicha.html</loc>
-<lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -725,6 +732,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/tostar.html</loc>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/genmaicha.html</loc>
 <lastmod>2016-07-04T07:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -734,13 +748,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/sherlock.html</loc>
 <lastmod>2016-06-06T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
-<lastmod>2016-07-25T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1110,6 +1117,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
+<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/boku-dake-ga-inai-machi.html</loc>
 <lastmod>2016-03-07T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1189,6 +1203,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/amuleto.html</loc>
 <lastmod>2016-12-05T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/horoku.html</loc>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1740,8 +1761,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/patinadora.html</loc>
-<lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/evento.html</loc>
+<lastmod>2016-07-25T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1993,7 +2014,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-01-02T10:00:00-00:15</lastmod>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
