@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-01-30T10:09:07-00:00</lastmod>
+<lastmod>2017-02-06T09:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-01-30T10:09:07-00:00</lastmod>
+<lastmod>2017-02-06T09:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-01-30T10:09:07-00:00</lastmod>
+<lastmod>2017-02-06T09:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-01-30T10:09:07-00:00</lastmod>
+<lastmod>2017-02-06T09:11:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-01-30T10:09:07-00:00</lastmod>
+<lastmod>2017-02-06T09:11:18-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/02/la-preparacion-del-te-matcha.html</loc>
+<lastmod>2017-02-06T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -537,7 +544,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura-del-te.html</loc>
-<lastmod>2017-01-09T10:00:00-00:15</lastmod>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -676,6 +683,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/hiroshima.html</loc>
+<lastmod>2016-08-08T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/paris.html</loc>
 <lastmod>2017-01-02T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -712,7 +726,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/te.html</loc>
-<lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -818,6 +832,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/banos-termales.html</loc>
 <lastmod>2016-04-25T08:30:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/chawan.html</loc>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1285,8 +1306,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/fenomeno.html</loc>
-<lastmod>2017-01-02T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/preparacion.html</loc>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1432,6 +1453,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/matcha.html</loc>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/salsa.html</loc>
 <lastmod>2015-10-26T14:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1469,6 +1497,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/disculpa.html</loc>
 <lastmod>2016-04-04T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/chasen.html</loc>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1663,6 +1698,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/chashaku.html</loc>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/gohei.html</loc>
 <lastmod>2016-10-03T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1733,8 +1775,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/hiroshima.html</loc>
-<lastmod>2016-08-08T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/fenomeno.html</loc>
+<lastmod>2017-01-02T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2126,7 +2168,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-01-30T10:00:00-00:15</lastmod>
+<lastmod>2017-02-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
