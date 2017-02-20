@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-02-13T08:15:28-00:00</lastmod>
+<lastmod>2017-02-20T10:12:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-02-13T08:15:28-00:00</lastmod>
+<lastmod>2017-02-20T10:12:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-02-13T08:15:28-00:00</lastmod>
+<lastmod>2017-02-20T10:12:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-02-13T08:15:28-00:00</lastmod>
+<lastmod>2017-02-20T10:12:46-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-02-13T08:15:28-00:00</lastmod>
+<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/02/la-santisima-trinidad-del-sabor-japones-salsa-de-soja-dashi-y-mirin.html</loc>
+<lastmod>2017-02-20T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -537,7 +544,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2017-01-30T10:00:00-00:15</lastmod>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -886,8 +893,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/cocteles.html</loc>
-<lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/mirin.html</loc>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -900,8 +907,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/samurai.html</loc>
-<lastmod>2016-05-16T14:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/cocteles.html</loc>
+<lastmod>2016-08-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1061,8 +1068,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/white-day.html</loc>
-<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/samurai.html</loc>
+<lastmod>2016-05-16T14:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1322,6 +1329,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/horoku.html</loc>
 <lastmod>2017-01-09T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/salsa-de-soja.html</loc>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2070,7 +2084,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/dashi.html</loc>
-<lastmod>2016-10-31T08:00:00-00:15</lastmod>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2153,6 +2167,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/white-day.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/tren-bala.html</loc>
 <lastmod>2015-12-21T16:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2189,7 +2210,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-02-13T10:00:00-00:15</lastmod>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
