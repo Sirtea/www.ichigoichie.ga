@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<lastmod>2017-02-28T09:20:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<lastmod>2017-02-28T09:20:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<lastmod>2017-02-28T09:20:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<lastmod>2017-02-28T09:20:19-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-02-20T10:12:46-00:00</lastmod>
+<lastmod>2017-02-28T09:20:19-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/02/el-ritual-del-temizu-o-la-purificacion-ritual-sintoista.html</loc>
+<lastmod>2017-02-27T00:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -551,7 +558,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura.html</loc>
-<lastmod>2017-02-13T10:00:00-00:15</lastmod>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -914,6 +921,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/purificacion.html</loc>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/yunomi.html</loc>
 <lastmod>2015-11-26T22:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1236,8 +1250,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/boku-dake-ga-inai-machi.html</loc>
-<lastmod>2016-03-07T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/temizu.html</loc>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1315,6 +1329,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/bushido.html</loc>
 <lastmod>2016-01-25T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/boku-dake-ga-inai-machi.html</loc>
+<lastmod>2016-03-07T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1993,7 +2014,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/shinto.html</loc>
-<lastmod>2016-10-03T08:00:00-00:15</lastmod>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2210,7 +2231,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-02-20T10:00:00-00:15</lastmod>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
