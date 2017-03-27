@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-03-20T09:03:21-00:00</lastmod>
+<lastmod>2017-03-27T08:39:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-03-20T09:03:21-00:00</lastmod>
+<lastmod>2017-03-27T08:39:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-03-20T09:03:21-00:00</lastmod>
+<lastmod>2017-03-27T08:39:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-03-20T09:03:21-00:00</lastmod>
+<lastmod>2017-03-27T08:39:14-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-03-20T09:03:21-00:00</lastmod>
+<lastmod>2017-03-27T08:39:14-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/03/sandwich-de-arroz-el-onigirazu.html</loc>
+<lastmod>2017-03-27T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -572,7 +579,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2017-03-06T00:00:00-00:15</lastmod>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -753,6 +760,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/onigirazu.html</loc>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/senbazuru.html</loc>
 <lastmod>2016-01-11T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -762,6 +776,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/gingko.html</loc>
 <lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/nori.html</loc>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -977,8 +998,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/mejora-continua.html</loc>
-<lastmod>2017-03-20T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/gohei.html</loc>
+<lastmod>2016-10-03T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -993,6 +1014,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/kaizen.html</loc>
 <lastmod>2017-03-20T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/arroz.html</loc>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1719,8 +1747,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/gastronomia.html</loc>
-<lastmod>2017-01-16T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/herbivoros.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1775,13 +1803,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/herbivoros.html</loc>
-<lastmod>2016-10-10T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.ga/tag/prioridad.html</loc>
 <lastmod>2016-03-14T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1824,8 +1845,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/gohei.html</loc>
-<lastmod>2016-10-03T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/mejora-continua.html</loc>
+<lastmod>2017-03-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2132,6 +2153,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/sandwich.html</loc>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/hombres.html</loc>
 <lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2251,6 +2279,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/frankfurt.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/white-day.html</loc>
 <lastmod>2016-02-08T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2279,8 +2314,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/frankfurt.html</loc>
-<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/gastronomia.html</loc>
+<lastmod>2017-01-16T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2294,7 +2329,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-03-20T10:00:00-00:15</lastmod>
+<lastmod>2017-03-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
