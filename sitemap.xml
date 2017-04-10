@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-04-03T08:21:55-00:00</lastmod>
+<lastmod>2017-04-10T07:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-04-03T08:21:55-00:00</lastmod>
+<lastmod>2017-04-10T07:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-04-03T08:21:55-00:00</lastmod>
+<lastmod>2017-04-10T07:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-04-03T08:21:55-00:00</lastmod>
+<lastmod>2017-04-10T07:39:08-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-04-03T08:21:55-00:00</lastmod>
+<lastmod>2017-04-10T07:39:08-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/04/un-japones-fallece-aplastado-por-seis-toneladas-de-revistas-pornograficas.html</loc>
+<lastmod>2017-04-10T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -607,7 +614,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2017-03-13T10:00:00-00:15</lastmod>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -760,8 +767,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/miyabi.html</loc>
-<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/hachiko.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -860,6 +867,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/sherlock.html</loc>
 <lastmod>2016-06-06T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/fallecimiento.html</loc>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1147,6 +1161,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/sabiduria.html</loc>
 <lastmod>2016-09-19T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/anciano.html</loc>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1537,8 +1558,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/hachiko.html</loc>
-<lastmod>2016-12-19T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/revistas-pornograficas.html</loc>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1670,6 +1691,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/miyabi.html</loc>
+<lastmod>2016-02-08T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/sake.html</loc>
 <lastmod>2016-08-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1768,8 +1796,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/herbivoros.html</loc>
-<lastmod>2016-10-10T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/gastronomia.html</loc>
+<lastmod>2017-01-16T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1819,6 +1847,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/limpieza.html</loc>
 <lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/herbivoros.html</loc>
+<lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2300,13 +2335,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/frankfurt.html</loc>
-<lastmod>2016-05-09T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.ga/tag/white-day.html</loc>
 <lastmod>2016-02-08T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2335,8 +2363,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/gastronomia.html</loc>
-<lastmod>2017-01-16T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/frankfurt.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2350,7 +2378,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-04-03T10:00:00-00:15</lastmod>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
