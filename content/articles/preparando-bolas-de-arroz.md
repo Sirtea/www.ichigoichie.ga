@@ -2,7 +2,7 @@ Title: Preparando bolas de arroz
 Slug: preparando-bolas-de-arroz
 Date: 2016-11-14 08:00
 Category: Cocina
-Tags: onigiris, bolas de arroz, bento
+Tags: receta, onigiris, bolas de arroz, bento
 
 
 

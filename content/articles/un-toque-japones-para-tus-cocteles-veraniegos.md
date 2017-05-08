@@ -2,7 +2,7 @@ Title: Un toque japonés para tus cócteles veraniegos
 Slug: un-toque-japones-para-tus-cocteles-veraniegos
 Date: 2016-08-15 10:00
 Category: Cocina
-Tags: verano, cócteles, té, mojito, sangría, hojicha, sencha, sake, umeshu
+Tags: receta, verano, cócteles, té, mojito, sangría, hojicha, sencha, sake, umeshu
 
 
 

@@ -2,7 +2,7 @@ Title: Una sopa deliciosa y fácil de preparar: sopa de miso
 Slug: una-sopa-deliciosa-y-facil-de-preparar-sopa-de-miso
 Date: 2016-10-31 08:00
 Category: Cocina
-Tags: sopa, miso, cuchara, dashi, tofu
+Tags: receta, sopa, miso, cuchara, dashi, tofu
 
 
 

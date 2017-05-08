@@ -2,7 +2,7 @@ Title: Cortando las manzanas en forma de conejo
 Slug: cortando-las-manzanas-en-forma-de-conejo
 Date: 2016-06-13 08:00
 Category: Cocina
-Tags: manzana, conejo, bento
+Tags: receta, manzana, conejo, bento
 
 
 

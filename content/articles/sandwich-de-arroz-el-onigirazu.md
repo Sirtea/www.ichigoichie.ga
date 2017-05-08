@@ -2,7 +2,7 @@ Title: Sándwich de arroz: el onigirazu
 Slug: sandwich-de-arroz-el-onigirazu
 Date: 2017-03-27 10:00
 Category: Cocina
-Tags: onigirazu, sándwich, arroz, nori
+Tags: receta, onigirazu, sándwich, arroz, nori
 
 
 

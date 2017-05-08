@@ -2,7 +2,7 @@ Title: Sunomono, la ensalada japonesa de pepino
 Slug: sunomono-la-ensalada-japonesa-de-pepino
 Date: 2017-01-30 10:00
 Category: Cocina
-Tags: encurtidos, sunomono, pepino
+Tags: receta, encurtidos, sunomono, pepino
 
 
 

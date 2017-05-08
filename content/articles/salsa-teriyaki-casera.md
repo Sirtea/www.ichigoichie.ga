@@ -2,7 +2,7 @@ Title: Salsa teriyaki casera
 Slug: salsa-teriyaki-casera
 Date: 2015-10-26 14:00
 Category: Cocina
-Tags: salsa, teriyaki
+Tags: receta, salsa, teriyaki
 
 
 

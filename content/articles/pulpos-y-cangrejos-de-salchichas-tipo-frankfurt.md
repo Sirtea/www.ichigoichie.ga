@@ -2,7 +2,7 @@ Title: Pulpos y cangrejos de salchichas tipo Frankfurt
 Slug: pulpos-y-cangrejos-de-salchichas-tipo-frankfurt
 Date: 2016-05-09 08:00
 Category: Cocina
-Tags: bento, salchicha, frankfurt, salchipulpo, pulpo, cangrejo
+Tags: receta, bento, salchicha, frankfurt, salchipulpo, pulpo, cangrejo
 
 
 

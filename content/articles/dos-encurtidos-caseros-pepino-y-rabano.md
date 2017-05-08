@@ -2,7 +2,7 @@ Title: Dos encurtidos caseros: pepino y rábano
 Slug: dos-encurtidos-caseros-pepino-y-rabano
 Date: 2017-03-06
 Category: Cocina
-Tags: encurtidos, pepino, rábano
+Tags: receta, encurtidos, pepino, rábano
 
 
 
