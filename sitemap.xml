@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-05-29T08:18:14-00:00</lastmod>
+<lastmod>2017-06-06T07:56:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-05-29T08:18:14-00:00</lastmod>
+<lastmod>2017-06-06T07:56:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-05-29T08:18:14-00:00</lastmod>
+<lastmod>2017-06-06T07:56:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-05-29T08:18:14-00:00</lastmod>
+<lastmod>2017-06-06T07:56:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-05-29T08:18:14-00:00</lastmod>
+<lastmod>2017-06-06T07:56:32-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/06/yasuke-el-esclavo-africano-que-llego-a-ser-samurai.html</loc>
+<lastmod>2017-06-06T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -663,7 +670,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/curiosidades.html</loc>
-<lastmod>2017-04-10T10:00:00-00:15</lastmod>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -713,6 +720,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/miso.html</loc>
 <lastmod>2016-10-31T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/muerte.html</loc>
+<lastmod>2016-04-18T08:10:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -809,8 +823,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/bosque.html</loc>
-<lastmod>2016-11-28T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/hojicha.html</loc>
+<lastmod>2017-01-09T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -956,6 +970,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/yasuke.html</loc>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/durex.html</loc>
 <lastmod>2015-12-18T15:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1041,7 +1062,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/samurai.html</loc>
-<lastmod>2017-05-01T10:00:00-00:15</lastmod>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1488,6 +1509,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/esclavo.html</loc>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/niantic.html</loc>
 <lastmod>2016-08-01T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1572,8 +1600,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/hojicha.html</loc>
-<lastmod>2017-01-09T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/bosque.html</loc>
+<lastmod>2016-11-28T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1873,8 +1901,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/muerte.html</loc>
-<lastmod>2016-04-18T08:10:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/jesuitas.html</loc>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1938,6 +1966,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/dreams-on-ice.html</loc>
 <lastmod>2016-07-18T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/negro.html</loc>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2525,7 +2560,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-05-29T10:00:00-00:15</lastmod>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
