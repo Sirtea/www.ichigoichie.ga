@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-06-12T07:55:17-00:00</lastmod>
+<lastmod>2017-06-19T07:54:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-06-12T07:55:17-00:00</lastmod>
+<lastmod>2017-06-19T07:54:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-06-12T07:55:17-00:00</lastmod>
+<lastmod>2017-06-19T07:54:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-06-12T07:55:17-00:00</lastmod>
+<lastmod>2017-06-19T07:54:11-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-06-12T07:55:17-00:00</lastmod>
+<lastmod>2017-06-19T07:54:11-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/06/comer-curry-en-japon-coco-ichibanya-curry-house.html</loc>
+<lastmod>2017-06-19T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -656,7 +663,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2017-06-12T10:00:00-00:15</lastmod>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -741,6 +748,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/palillos.html</loc>
 <lastmod>2016-12-12T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/coco-ichibanya.html</loc>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/banos-termales.html</loc>
+<lastmod>2016-04-25T08:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1005,8 +1026,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/banos-termales.html</loc>
-<lastmod>2016-04-25T08:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/curry-house.html</loc>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1054,8 +1075,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/sakura.html</loc>
-<lastmod>2016-03-28T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/restaurante.html</loc>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1628,8 +1649,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/ajin.html</loc>
-<lastmod>2016-03-07T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/curry.html</loc>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1922,6 +1943,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/sakura.html</loc>
+<lastmod>2016-03-28T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/ladybug.html</loc>
 <lastmod>2017-01-02T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1994,6 +2022,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/limpieza.html</loc>
 <lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/ajin.html</loc>
+<lastmod>2016-03-07T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2574,7 +2609,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-06-12T10:00:00-00:15</lastmod>
+<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
