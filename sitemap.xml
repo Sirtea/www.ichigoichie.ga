@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-06-26T09:05:17-00:00</lastmod>
+<lastmod>2017-07-04T07:59:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-06-26T09:05:17-00:00</lastmod>
+<lastmod>2017-07-04T07:59:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-06-26T09:05:17-00:00</lastmod>
+<lastmod>2017-07-04T07:59:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-06-26T09:05:17-00:00</lastmod>
+<lastmod>2017-07-04T07:59:53-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-06-26T09:05:17-00:00</lastmod>
+<lastmod>2017-07-04T07:59:53-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/07/la-bebida-ideal-para-el-desayuno-el-matcha-latte.html</loc>
+<lastmod>2017-07-03T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -670,7 +677,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cocina.html</loc>
-<lastmod>2017-06-19T10:00:00-00:15</lastmod>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1691,6 +1698,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/matcha-latte.html</loc>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/manzana.html</loc>
 <lastmod>2016-06-13T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1783,7 +1797,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/tag/matcha.html</loc>
-<lastmod>2017-02-06T10:00:00-00:15</lastmod>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2482,6 +2496,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/latte.html</loc>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/dashi.html</loc>
 <lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2623,7 +2644,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-06-26T10:00:00-00:15</lastmod>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
