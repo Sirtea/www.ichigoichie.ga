@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-07-10T07:24:43-00:00</lastmod>
+<lastmod>2017-07-17T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-07-10T07:24:43-00:00</lastmod>
+<lastmod>2017-07-17T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-07-10T07:24:43-00:00</lastmod>
+<lastmod>2017-07-17T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-07-10T07:24:43-00:00</lastmod>
+<lastmod>2017-07-17T09:42:31-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-07-10T07:24:43-00:00</lastmod>
+<lastmod>2017-07-17T09:42:31-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/07/ser-gay-en-japon.html</loc>
+<lastmod>2017-07-17T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -691,7 +698,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/cultura.html</loc>
-<lastmod>2017-06-26T10:00:00-00:15</lastmod>
+<lastmod>2017-07-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -804,6 +811,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/osoji.html</loc>
 <lastmod>2016-01-04T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/sexualidad.html</loc>
+<lastmod>2017-07-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1236,6 +1250,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/okinawa.html</loc>
+<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/congelados.html</loc>
 <lastmod>2017-05-22T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1558,8 +1579,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/okinawa.html</loc>
-<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/latte.html</loc>
+<lastmod>2017-07-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2034,8 +2055,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/pacto.html</loc>
-<lastmod>2016-04-11T08:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/gay.html</loc>
+<lastmod>2017-07-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2377,6 +2398,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/pacto.html</loc>
+<lastmod>2016-04-11T08:30:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/lluvia.html</loc>
 <lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2524,8 +2552,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/latte.html</loc>
-<lastmod>2017-07-03T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/homosexualidad.html</loc>
+<lastmod>2017-07-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2679,7 +2707,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-07-10T10:00:00-00:15</lastmod>
+<lastmod>2017-07-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
