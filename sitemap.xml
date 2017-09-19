@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/</loc>
-<lastmod>2017-09-11T08:50:22-00:00</lastmod>
+<lastmod>2017-09-19T14:53:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/archives.html</loc>
-<lastmod>2017-09-11T08:50:22-00:00</lastmod>
+<lastmod>2017-09-19T14:53:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/tags.html</loc>
-<lastmod>2017-09-11T08:50:22-00:00</lastmod>
+<lastmod>2017-09-19T14:53:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/categories.html</loc>
-<lastmod>2017-09-11T08:50:22-00:00</lastmod>
+<lastmod>2017-09-19T14:53:18-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.ga/about.html</loc>
-<lastmod>2017-09-11T08:50:22-00:00</lastmod>
+<lastmod>2017-09-19T14:53:18-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/2017/09/como-piensan-los-japoneses-en-unas-pocas-palabras.html</loc>
+<lastmod>2017-09-19T18:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -775,7 +782,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/category/filosofia.html</loc>
-<lastmod>2017-09-11T10:00:00-00:15</lastmod>
+<lastmod>2017-09-19T18:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -986,6 +993,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.ga/tag/onigirazu.html</loc>
 <lastmod>2017-03-27T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.ga/tag/pensar.html</loc>
+<lastmod>2017-09-19T18:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1537,6 +1551,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/primark.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/matsuri.html</loc>
 <lastmod>2016-06-20T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2006,8 +2027,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.ga/tag/primark.html</loc>
-<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.ga/tag/japoneses.html</loc>
+<lastmod>2017-09-19T18:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2573,6 +2594,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.ga/tag/ideas.html</loc>
+<lastmod>2017-09-19T18:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.ga/tag/teru-teru-bouzu.html</loc>
 <lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2868,7 +2896,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.ga/author/aki.html</loc>
-<lastmod>2017-09-11T10:00:00-00:15</lastmod>
+<lastmod>2017-09-19T18:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
