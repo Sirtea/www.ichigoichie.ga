@@ -10,7 +10,7 @@ Nunca me ha gustado el café. Por ello es habitual que tome té por las mañanas
 
 ![Matcha-latte 1]({filename}/images/matcha-latte-1.jpg)
 
-Podéis pensar que es complicado de hacer, pero sorprendentemente no lo es. Para conseguir el objetivo basta con dominar la parte básica de preparación del **matcha**, tal como explico en [este otro artículo](http://www.ichigoichie.ga/2017/02/la-preparacion-del-te-matcha.html).
+Podéis pensar que es complicado de hacer, pero sorprendentemente no lo es. Para conseguir el objetivo basta con dominar la parte básica de preparación del **matcha**, tal como explico en [este otro artículo]({filename}/articles/la-preparacion-del-te-matcha.md).
 
 La técnica es extrapolable a la leche: primero hacemos la pasta de té con el *chasen* y con muy poca agua caliente. Cuando tenemos el té en forma viscosa y sin grumos, solo hace falta añadir la leche (fría o caliente, a nuestro gusto) y darle otro brío con el *chasen*, para que haga espuma. La leche genera mucha más espuma que el agua.
 
