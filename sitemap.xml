@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2017-10-16T08:08:41-00:00</lastmod>
+<lastmod>2017-10-23T08:35:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2017-10-16T08:08:41-00:00</lastmod>
+<lastmod>2017-10-23T08:35:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2017-10-16T08:08:41-00:00</lastmod>
+<lastmod>2017-10-23T08:35:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2017-10-16T08:08:41-00:00</lastmod>
+<lastmod>2017-10-23T08:35:44-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2017-10-16T08:08:41-00:00</lastmod>
+<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2017/10/takikomi-gohan-una-receta-de-arroz-hecha-con-arrocera.html</loc>
+<lastmod>2017-10-23T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -782,7 +789,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2017-10-02T10:00:00-00:15</lastmod>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -860,6 +867,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/miso.html</loc>
 <lastmod>2016-10-31T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/zanahoria.html</loc>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1019,8 +1033,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/poesia.html</loc>
-<lastmod>2017-04-17T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/sashimi.html</loc>
+<lastmod>2017-05-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1335,7 +1349,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/arroz.html</loc>
-<lastmod>2017-06-12T10:00:00-00:15</lastmod>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1635,8 +1649,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/arroz-tostado.html</loc>
-<lastmod>2016-07-04T07:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/vegetariano.html</loc>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1728,6 +1742,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/momiji.html</loc>
 <lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/helado.html</loc>
+<lastmod>2016-08-22T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1882,6 +1903,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/divine-gate.html</loc>
 <lastmod>2016-03-07T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/7-minutos.html</loc>
+<lastmod>2015-12-21T16:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2055,8 +2083,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/sashimi.html</loc>
-<lastmod>2017-05-15T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/poesia.html</loc>
+<lastmod>2017-04-17T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2552,8 +2580,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/helado.html</loc>
-<lastmod>2016-08-22T00:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/setas.html</loc>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2645,6 +2673,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/ideas.html</loc>
 <lastmod>2017-09-25T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/arrocera.html</loc>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2791,7 +2826,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/dashi.html</loc>
-<lastmod>2017-02-20T10:00:00-00:15</lastmod>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2811,8 +2846,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/7-minutos.html</loc>
-<lastmod>2015-12-21T16:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/arroz-tostado.html</loc>
+<lastmod>2016-07-04T07:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2945,7 +2980,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2017-10-16T10:00:00-00:15</lastmod>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
