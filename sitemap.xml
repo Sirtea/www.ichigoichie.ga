@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<lastmod>2017-10-30T09:45:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<lastmod>2017-10-30T09:45:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<lastmod>2017-10-30T09:45:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<lastmod>2017-10-30T09:45:34-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2017-10-23T08:35:44-00:00</lastmod>
+<lastmod>2017-10-30T09:45:34-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2017/10/una-joya-de-la-gastronomia-japonesa-el-edamame.html</loc>
+<lastmod>2017-10-30T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -789,7 +796,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2017-10-23T10:00:00-00:15</lastmod>
+<lastmod>2017-10-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1152,6 +1159,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/salud.html</loc>
+<lastmod>2017-10-30T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/genmaicha.html</loc>
 <lastmod>2016-07-04T07:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1348,8 +1362,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/arroz.html</loc>
-<lastmod>2017-10-23T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/enfermedad.html</loc>
+<lastmod>2017-07-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1621,8 +1635,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/enfermedad.html</loc>
-<lastmod>2017-07-10T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/edamame.html</loc>
+<lastmod>2017-10-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1791,6 +1805,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/esclavo.html</loc>
 <lastmod>2017-06-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/arroz.html</loc>
+<lastmod>2017-10-23T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2057,6 +2078,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/lineas.html</loc>
 <lastmod>2016-02-29T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/cerveza.html</loc>
+<lastmod>2017-10-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2980,7 +3008,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2017-10-23T10:00:00-00:15</lastmod>
+<lastmod>2017-10-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
