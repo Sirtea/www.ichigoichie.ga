@@ -60,7 +60,7 @@ DRAFT_SAVE_AS = 'drafts/{slug}.html'
 DEFAULT_DATE_FORMAT = '%Y-%m-%d'
 
 # Settings de plugins
-PLUGIN_PATHS = ['../../plugins']
+PLUGIN_PATHS = ['../plugins']
 PLUGINS = ['sitemap', 'tag_cloud', 'related_posts', 'series', 'readtime']
 
 RELATED_POSTS_TEXT = 'Posts relacionados:'
@@ -83,7 +83,7 @@ SITEMAP = {
 }
 
 # Settings del theme
-THEME = '../../themes/pelican-bootstrap3-gmb'
+THEME = '../themes/pelican-bootstrap3-gmb'
 BOOTSTRAP_THEME = 'united'
 SHOW_ARTICLE_AUTHOR = True
 SHOW_ARTICLE_CATEGORY = True
