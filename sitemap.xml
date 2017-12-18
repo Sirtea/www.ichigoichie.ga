@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2017-12-11T09:04:54-00:00</lastmod>
+<lastmod>2017-12-18T08:34:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2017-12-11T09:04:54-00:00</lastmod>
+<lastmod>2017-12-18T08:34:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2017-12-11T09:04:54-00:00</lastmod>
+<lastmod>2017-12-18T08:34:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2017-12-11T09:04:54-00:00</lastmod>
+<lastmod>2017-12-18T08:34:32-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2017-12-11T09:04:54-00:00</lastmod>
+<lastmod>2017-12-18T08:34:32-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2017/12/el-concepto-de-uchi-y-soto.html</loc>
+<lastmod>2017-12-18T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -852,7 +859,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cultura.html</loc>
-<lastmod>2017-11-20T10:00:00-00:15</lastmod>
+<lastmod>2017-12-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1145,8 +1152,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/gingko.html</loc>
-<lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/uchi.html</loc>
+<lastmod>2017-12-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1621,8 +1628,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/bento.html</loc>
-<lastmod>2017-05-22T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/soto.html</loc>
+<lastmod>2017-12-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2468,6 +2475,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/gingko.html</loc>
+<lastmod>2016-10-24T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/receta.html</loc>
 <lastmod>2017-05-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3119,6 +3133,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/bento.html</loc>
+<lastmod>2017-05-22T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/condimento.html</loc>
 <lastmod>2017-11-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3148,7 +3169,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2017-12-11T10:00:00-00:15</lastmod>
+<lastmod>2017-12-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
