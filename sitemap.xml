@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-01-08T09:55:26-00:00</lastmod>
+<lastmod>2018-01-15T09:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-01-08T09:55:26-00:00</lastmod>
+<lastmod>2018-01-15T09:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-01-08T09:55:26-00:00</lastmod>
+<lastmod>2018-01-15T09:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-01-08T09:55:26-00:00</lastmod>
+<lastmod>2018-01-15T09:52:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-01-08T09:55:26-00:00</lastmod>
+<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/01/furikake-casero-salmon-tostado.html</loc>
+<lastmod>2018-01-15T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -866,7 +873,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2018-01-08T10:00:00-00:15</lastmod>
+<lastmod>2018-01-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1614,8 +1621,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/montana.html</loc>
-<lastmod>2017-12-11T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/tutorial.html</loc>
+<lastmod>2016-12-05T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1714,6 +1721,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/kyusu.html</loc>
 <lastmod>2015-11-26T22:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/verano.html</loc>
+<lastmod>2016-08-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1964,8 +1978,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/todo-incluido.html</loc>
-<lastmod>2017-12-04T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/poke.html</loc>
+<lastmod>2017-08-07T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2566,8 +2580,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/verano.html</loc>
-<lastmod>2016-08-15T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/todo-incluido.html</loc>
+<lastmod>2017-12-04T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2777,7 +2791,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/furikake.html</loc>
-<lastmod>2017-11-27T10:00:00-00:15</lastmod>
+<lastmod>2018-01-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2895,13 +2909,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/tessei.html</loc>
-<lastmod>2015-12-21T16:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.tk/tag/arrocera.html</loc>
 <lastmod>2018-01-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2918,6 +2925,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/ingrediente.html</loc>
 <lastmod>2017-11-27T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/cangrejo.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2979,8 +2993,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/tutorial.html</loc>
-<lastmod>2016-12-05T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/tessei.html</loc>
+<lastmod>2015-12-21T16:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3049,6 +3063,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/salmon.html</loc>
+<lastmod>2018-01-15T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/pecados.html</loc>
 <lastmod>2016-07-11T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3077,8 +3098,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/poke.html</loc>
-<lastmod>2017-08-07T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/montana.html</loc>
+<lastmod>2017-12-11T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3189,8 +3210,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/cangrejo.html</loc>
-<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/casero.html</loc>
+<lastmod>2018-01-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3239,7 +3260,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-01-08T10:00:00-00:15</lastmod>
+<lastmod>2018-01-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
