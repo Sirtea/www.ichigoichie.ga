@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<lastmod>2018-01-22T08:27:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<lastmod>2018-01-22T08:27:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<lastmod>2018-01-22T08:27:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<lastmod>2018-01-22T08:27:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-01-15T09:52:06-00:00</lastmod>
+<lastmod>2018-01-22T08:27:15-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/01/suelo-a-la-japonesa-el-tatami.html</loc>
+<lastmod>2018-01-22T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -901,7 +908,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/curiosidades.html</loc>
-<lastmod>2018-01-02T10:00:00-00:15</lastmod>
+<lastmod>2018-01-22T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1005,8 +1012,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/tipos.html</loc>
-<lastmod>2017-05-29T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/tatami.html</loc>
+<lastmod>2018-01-22T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1362,8 +1369,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/acoso.html</loc>
-<lastmod>2017-02-13T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/tipos.html</loc>
+<lastmod>2017-05-29T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1378,6 +1385,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/ochazuke.html</loc>
 <lastmod>2017-06-12T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/acoso.html</loc>
+<lastmod>2017-02-13T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1418,8 +1432,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/samurai.html</loc>
-<lastmod>2017-06-06T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/moda.html</loc>
+<lastmod>2017-07-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1663,8 +1677,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/moda.html</loc>
-<lastmod>2017-07-10T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/samurai.html</loc>
+<lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3260,7 +3274,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-01-15T10:00:00-00:15</lastmod>
+<lastmod>2018-01-22T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
