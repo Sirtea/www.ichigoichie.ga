@@ -2,7 +2,7 @@ Title: Técnicas de corte para sashimi
 Slug: tecnicas-de-corte-para-sashimi
 Date: 2017-05-15 10:00
 Category: Cocina
-Tags: técnicas, cortes, sashimi
+Tags: técnicas, corte, sashimi
 
 
 
