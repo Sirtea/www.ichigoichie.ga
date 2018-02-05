@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<lastmod>2018-02-05T11:21:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<lastmod>2018-02-05T11:21:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<lastmod>2018-02-05T11:21:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<lastmod>2018-02-05T11:21:30-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<lastmod>2018-02-05T11:21:30-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1705,6 +1705,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/pokemon.html</loc>
+<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/samurai.html</loc>
 <lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2335,8 +2342,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/pokemon.html</loc>
-<lastmod>2016-08-01T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/corte.html</loc>
+<lastmod>2017-05-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3161,13 +3168,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/corte.html</loc>
-<lastmod>2016-05-02T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.tk/tag/cosecha.html</loc>
 <lastmod>2017-04-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3317,13 +3317,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/manga.html</loc>
 <lastmod>2016-06-06T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.tk/tag/cortes.html</loc>
-<lastmod>2017-05-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
