@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-01-29T09:19:38-00:00</lastmod>
+<lastmod>2018-02-05T08:52:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-01-29T09:19:38-00:00</lastmod>
+<lastmod>2018-02-05T08:52:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-01-29T09:19:38-00:00</lastmod>
+<lastmod>2018-02-05T08:52:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-01-29T09:19:38-00:00</lastmod>
+<lastmod>2018-02-05T08:52:40-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-01-29T09:19:38-00:00</lastmod>
+<lastmod>2018-02-05T08:52:40-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/02/un-ataque-con-katanas-en-un-santuario-de-tokio-causa-tres-victimas-mortales.html</loc>
+<lastmod>2018-02-05T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -963,6 +970,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/category/sucesos.html</loc>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/category/viajes.html</loc>
 <lastmod>2016-07-11T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1292,8 +1306,15 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/genmaicha.html</loc>
-<lastmod>2016-07-04T07:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/mudanza.html</loc>
+<lastmod>2017-12-04T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/katana.html</loc>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1782,8 +1803,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/mudanza.html</loc>
-<lastmod>2017-12-04T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/templo.html</loc>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2811,6 +2832,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/santuario.html</loc>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/furikake.html</loc>
 <lastmod>2018-01-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2966,7 +2994,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/shinto.html</loc>
-<lastmod>2017-08-28T10:00:00-00:15</lastmod>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3063,8 +3091,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/salchipulpo.html</loc>
-<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/genmaicha.html</loc>
+<lastmod>2016-07-04T07:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3203,6 +3231,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/salchipulpo.html</loc>
+<lastmod>2016-05-09T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/asesinato.html</loc>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/cocteles.html</loc>
 <lastmod>2016-08-15T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3288,7 +3330,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-01-29T10:00:00-00:15</lastmod>
+<lastmod>2018-02-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
