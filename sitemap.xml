@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-02-05T11:21:30-00:00</lastmod>
+<lastmod>2018-02-12T08:34:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-02-05T11:21:30-00:00</lastmod>
+<lastmod>2018-02-12T08:34:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-02-05T11:21:30-00:00</lastmod>
+<lastmod>2018-02-12T08:34:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-02-05T11:21:30-00:00</lastmod>
+<lastmod>2018-02-12T08:34:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-02-05T11:21:30-00:00</lastmod>
+<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/02/la-sala-del-destierro-renuncia-por-aburrimiento.html</loc>
+<lastmod>2018-02-12T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -922,7 +929,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/curiosidades.html</loc>
-<lastmod>2018-01-22T10:00:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1019,6 +1026,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/floracion.html</loc>
+<lastmod>2016-03-28T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/limpieza.html</loc>
 <lastmod>2015-12-21T16:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1068,8 +1082,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/floracion.html</loc>
-<lastmod>2016-03-28T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/sala-del-destierro.html</loc>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1454,7 +1468,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/abandonar.html</loc>
-<lastmod>2017-12-11T10:00:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2007,7 +2021,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/lealtad.html</loc>
-<lastmod>2017-07-31T10:00:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2035,7 +2049,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/situacion-laboral.html</loc>
-<lastmod>2017-02-13T10:00:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2497,7 +2511,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/trabajo.html</loc>
-<lastmod>2016-04-18T08:10:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3323,7 +3337,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-02-05T10:00:00-00:15</lastmod>
+<lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
