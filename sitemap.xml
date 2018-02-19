@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<lastmod>2018-02-19T09:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<lastmod>2018-02-19T09:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<lastmod>2018-02-19T09:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<lastmod>2018-02-19T09:02:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-02-12T08:34:00-00:00</lastmod>
+<lastmod>2018-02-19T09:02:39-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/02/metodo-konmari-12-consejos-para-organizar-tu-armario.html</loc>
+<lastmod>2018-02-19T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -936,7 +943,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/filosofia.html</loc>
-<lastmod>2017-09-25T10:00:00-00:15</lastmod>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1201,6 +1208,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/freeter.html</loc>
+<lastmod>2016-04-18T08:10:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/onigirazu.html</loc>
 <lastmod>2017-03-27T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1280,6 +1294,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/wabi-sabi.html</loc>
 <lastmod>2017-06-26T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/salsa-de-soja.html</loc>
+<lastmod>2017-02-20T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1950,8 +1971,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/temizu.html</loc>
-<lastmod>2017-02-27T00:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/konmari.html</loc>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2090,8 +2111,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/salsa-de-soja.html</loc>
-<lastmod>2017-02-20T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/temizu.html</loc>
+<lastmod>2017-02-27T00:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2651,7 +2672,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/tecnica.html</loc>
-<lastmod>2017-09-04T10:00:00-00:15</lastmod>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2671,8 +2692,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/freeter.html</loc>
-<lastmod>2016-04-18T08:10:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/metodo.html</loc>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3168,6 +3189,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/ordenar.html</loc>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/montana.html</loc>
 <lastmod>2017-12-11T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3337,7 +3365,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-02-12T10:00:00-00:15</lastmod>
+<lastmod>2018-02-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
