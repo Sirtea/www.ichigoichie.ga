@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-02-26T10:01:55-00:00</lastmod>
+<lastmod>2018-03-05T10:36:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-02-26T10:01:55-00:00</lastmod>
+<lastmod>2018-03-05T10:36:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-02-26T10:01:55-00:00</lastmod>
+<lastmod>2018-03-05T10:36:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-02-26T10:01:55-00:00</lastmod>
+<lastmod>2018-03-05T10:36:20-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-02-26T10:01:55-00:00</lastmod>
+<lastmod>2018-03-05T10:36:20-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/03/13-palabras-japonesas-que-no-tienen-traduccion.html</loc>
+<lastmod>2018-03-05T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -950,7 +957,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/filosofia.html</loc>
-<lastmod>2018-02-19T10:00:00-00:15</lastmod>
+<lastmod>2018-03-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1208,8 +1215,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/hachiko.html</loc>
-<lastmod>2016-12-19T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/revistas-pornograficas.html</loc>
+<lastmod>2017-04-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1411,8 +1418,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/pokemon-go.html</loc>
-<lastmod>2016-09-26T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/enfermedad.html</loc>
+<lastmod>2017-07-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1572,8 +1579,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/enfermedad.html</loc>
-<lastmod>2017-07-10T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/arroz.html</loc>
+<lastmod>2018-01-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1677,6 +1684,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/ichi-go-ichi-e.html</loc>
+<lastmod>2015-10-15T20:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/origami.html</loc>
 <lastmod>2016-08-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1684,8 +1698,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/ichi-go-ichi-e.html</loc>
-<lastmod>2015-10-15T20:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/pokemon-go.html</loc>
+<lastmod>2016-09-26T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2062,13 +2076,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/arroz.html</loc>
-<lastmod>2018-01-08T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.tk/tag/poke.html</loc>
 <lastmod>2017-08-07T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2258,8 +2265,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/rana.html</loc>
-<lastmod>2016-05-30T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/traduccion.html</loc>
+<lastmod>2018-03-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2272,8 +2279,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/revistas-pornograficas.html</loc>
-<lastmod>2017-04-10T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/palabras.html</loc>
+<lastmod>2018-03-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2582,6 +2589,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/gay.html</loc>
 <lastmod>2017-07-17T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/rana.html</loc>
+<lastmod>2016-05-30T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3063,6 +3077,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/hachiko.html</loc>
+<lastmod>2016-12-19T08:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/carnivoros.html</loc>
 <lastmod>2016-10-10T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3379,7 +3400,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-02-26T10:00:00-00:15</lastmod>
+<lastmod>2018-03-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
