@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-04-23T07:06:06-00:00</lastmod>
+<lastmod>2018-04-30T07:22:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-04-23T07:06:06-00:00</lastmod>
+<lastmod>2018-04-30T07:22:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-04-23T07:06:06-00:00</lastmod>
+<lastmod>2018-04-30T07:22:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-04-23T07:06:06-00:00</lastmod>
+<lastmod>2018-04-30T07:22:02-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-04-23T07:06:06-00:00</lastmod>
+<lastmod>2018-04-30T07:22:02-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/04/korokke-un-entrante-de-croquetas-de-patata.html</loc>
+<lastmod>2018-04-30T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -971,7 +978,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2018-04-23T10:00:00-00:15</lastmod>
+<lastmod>2018-04-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1889,6 +1896,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/congelados.html</loc>
 <lastmod>2017-05-22T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/korokke.html</loc>
+<lastmod>2018-04-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3210,6 +3224,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/patatas.html</loc>
+<lastmod>2018-04-30T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/esclavo.html</loc>
 <lastmod>2017-06-06T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3261,6 +3282,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/huevo.html</loc>
 <lastmod>2018-04-09T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/entrante.html</loc>
+<lastmod>2018-04-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3561,7 +3589,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-04-23T10:00:00-00:15</lastmod>
+<lastmod>2018-04-30T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
