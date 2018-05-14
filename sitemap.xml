@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-05-07T07:55:32-00:00</lastmod>
+<lastmod>2018-05-14T07:33:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-05-07T07:55:32-00:00</lastmod>
+<lastmod>2018-05-14T07:33:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-05-07T07:55:32-00:00</lastmod>
+<lastmod>2018-05-14T07:33:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-05-07T07:55:32-00:00</lastmod>
+<lastmod>2018-05-14T07:33:06-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-05-07T07:55:32-00:00</lastmod>
+<lastmod>2018-05-14T07:33:06-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/05/el-te-verde-como-medicina.html</loc>
+<lastmod>2018-05-14T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1006,7 +1013,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cultura-del-te.html</loc>
-<lastmod>2017-05-29T10:00:00-00:15</lastmod>
+<lastmod>2018-05-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1153,7 +1160,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/te.html</loc>
-<lastmod>2017-09-11T10:00:00-00:15</lastmod>
+<lastmod>2018-05-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1803,6 +1810,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/densidad-energetica.html</loc>
+<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/manga.html</loc>
 <lastmod>2016-06-06T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1973,6 +1987,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/plastico.html</loc>
 <lastmod>2018-01-02T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/medicina.html</loc>
+<lastmod>2018-05-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2377,13 +2398,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/salon-del-manga.html</loc>
-<lastmod>2016-07-25T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>http://www.ichigoichie.tk/tag/coco-ichibanya.html</loc>
 <lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2624,6 +2638,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/origami.html</loc>
 <lastmod>2016-08-08T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/nutrientes.html</loc>
+<lastmod>2018-05-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3518,8 +3539,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/densidad-energetica.html</loc>
-<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/salon-del-manga.html</loc>
+<lastmod>2016-07-25T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3617,7 +3638,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-05-07T10:00:00-00:15</lastmod>
+<lastmod>2018-05-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
