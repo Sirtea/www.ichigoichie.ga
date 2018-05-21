@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-05-14T07:49:51-00:00</lastmod>
+<lastmod>2018-05-21T05:28:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-05-14T07:49:51-00:00</lastmod>
+<lastmod>2018-05-21T05:28:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-05-14T07:49:51-00:00</lastmod>
+<lastmod>2018-05-21T05:28:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-05-14T07:49:51-00:00</lastmod>
+<lastmod>2018-05-21T05:28:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-05-14T07:49:51-00:00</lastmod>
+<lastmod>2018-05-21T05:28:35-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/05/el-arte-del-papercraft-armas-japonesas-de-papel.html</loc>
+<lastmod>2018-05-21T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1055,7 +1062,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/miscelanea.html</loc>
-<lastmod>2017-10-09T16:00:00-00:15</lastmod>
+<lastmod>2018-05-21T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1084,6 +1091,20 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/acompanamiento.html</loc>
 <lastmod>2018-03-12T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/rol.html</loc>
+<lastmod>2018-05-21T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/armas.html</loc>
+<lastmod>2018-05-21T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1565,6 +1586,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/papercraft.html</loc>
+<lastmod>2018-05-21T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/chocolate.html</loc>
 <lastmod>2016-02-08T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1586,8 +1614,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/etiqueta.html</loc>
-<lastmod>2016-12-12T08:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/gohan.html</loc>
+<lastmod>2018-01-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1663,8 +1691,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/dieta-para-adelgazar.html</loc>
-<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/etiqueta.html</loc>
+<lastmod>2016-12-12T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2041,6 +2069,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/dieta-para-adelgazar.html</loc>
+<lastmod>2015-12-28T11:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/campos-de-te.html</loc>
 <lastmod>2017-04-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -2162,13 +2197,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/manzana.html</loc>
 <lastmod>2016-06-13T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.tk/tag/gohan.html</loc>
-<lastmod>2018-01-08T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3638,7 +3666,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-05-14T10:00:00-00:15</lastmod>
+<lastmod>2018-05-21T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
