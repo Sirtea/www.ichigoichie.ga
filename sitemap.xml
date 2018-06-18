@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-06-11T08:28:04-00:00</lastmod>
+<lastmod>2018-06-18T06:54:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-06-11T08:28:04-00:00</lastmod>
+<lastmod>2018-06-18T06:54:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-06-11T08:28:04-00:00</lastmod>
+<lastmod>2018-06-18T06:54:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-06-11T08:28:04-00:00</lastmod>
+<lastmod>2018-06-18T06:54:54-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-06-11T08:28:04-00:00</lastmod>
+<lastmod>2018-06-18T06:54:54-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/06/conocidas-parejas-gastronomicas-y-su-explicacion-cientifica.html</loc>
+<lastmod>2018-06-18T10:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1090,7 +1097,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/salud.html</loc>
-<lastmod>2017-07-10T10:00:00-00:15</lastmod>
+<lastmod>2018-06-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1572,6 +1579,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/ciencia.html</loc>
+<lastmod>2018-06-18T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/trabajo.html</loc>
 <lastmod>2018-02-12T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1593,8 +1607,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/sushi.html</loc>
-<lastmod>2017-10-02T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/gastronomia.html</loc>
+<lastmod>2018-06-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1896,13 +1910,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/mojito.html</loc>
 <lastmod>2016-08-15T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.tk/tag/segunda-guerra-mundial.html</loc>
-<lastmod>2017-07-31T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2260,6 +2267,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/negro.html</loc>
 <lastmod>2017-06-06T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/hello-kitty.html</loc>
+<lastmod>2016-04-11T08:30:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2783,8 +2797,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/col.html</loc>
-<lastmod>2018-06-11T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/segunda-guerra-mundial.html</loc>
+<lastmod>2017-07-31T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2923,8 +2937,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/gastronomia.html</loc>
-<lastmod>2017-01-16T10:00:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/sushi.html</loc>
+<lastmod>2017-10-02T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3035,8 +3049,8 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>http://www.ichigoichie.tk/tag/hello-kitty.html</loc>
-<lastmod>2016-04-11T08:30:00-00:15</lastmod>
+<loc>http://www.ichigoichie.tk/tag/col.html</loc>
+<lastmod>2018-06-11T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3700,6 +3714,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/parejas.html</loc>
+<lastmod>2018-06-18T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/casero.html</loc>
 <lastmod>2018-02-26T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -3722,7 +3743,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-06-11T10:00:00-00:15</lastmod>
+<lastmod>2018-06-18T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
