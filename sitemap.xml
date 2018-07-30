@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/</loc>
-<lastmod>2018-07-23T18:47:27-00:00</lastmod>
+<lastmod>2018-07-30T07:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-07-23T18:47:27-00:00</lastmod>
+<lastmod>2018-07-30T07:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-07-23T18:47:27-00:00</lastmod>
+<lastmod>2018-07-30T07:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-07-23T18:47:27-00:00</lastmod>
+<lastmod>2018-07-30T07:33:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>http://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-07-23T18:47:27-00:00</lastmod>
+<lastmod>2018-07-30T07:33:41-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/2018/07/un-plato-de-kaarage-vegano-hecho-con-tofu.html</loc>
+<lastmod>2018-07-30T09:00:00+02:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1062,7 +1069,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2018-07-09T09:00:00-00:15</lastmod>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1152,6 +1159,34 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>http://www.ichigoichie.tk/tag/receta.html</loc>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/kaarage.html</loc>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/tofu.html</loc>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>http://www.ichigoichie.tk/tag/rebozado.html</loc>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>http://www.ichigoichie.tk/tag/paseo.html</loc>
 <lastmod>2018-07-23T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1182,13 +1217,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://www.ichigoichie.tk/tag/real.html</loc>
 <lastmod>2018-07-16T09:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.tk/tag/receta.html</loc>
-<lastmod>2018-07-09T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1503,13 +1531,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/tag/yakitori.html</loc>
-<lastmod>2018-03-26T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>http://www.ichigoichie.tk/tag/tofu.html</loc>
 <lastmod>2018-03-26T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -3834,7 +3855,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>http://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-07-23T09:00:00-00:15</lastmod>
+<lastmod>2018-07-30T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
