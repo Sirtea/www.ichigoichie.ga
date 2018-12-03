@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/</loc>
-<lastmod>2018-11-26T08:44:58-00:00</lastmod>
+<lastmod>2018-12-03T08:14:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-11-26T08:44:58-00:00</lastmod>
+<lastmod>2018-12-03T08:14:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-11-26T08:44:58-00:00</lastmod>
+<lastmod>2018-12-03T08:14:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-11-26T08:44:58-00:00</lastmod>
+<lastmod>2018-12-03T08:14:35-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-11-26T08:44:58-00:00</lastmod>
+<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/2018/12/el-restaurante-encima-de-un-arbol-de-okinawa.html</loc>
+<lastmod>2018-12-03T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1237,7 +1244,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/category/lugares.html</loc>
-<lastmod>2018-10-29T10:00:00-00:15</lastmod>
+<lastmod>2018-12-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1273,6 +1280,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/category/viajes.html</loc>
 <lastmod>2018-09-17T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/okinawa.html</loc>
+<lastmod>2018-12-03T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/arbol.html</loc>
+<lastmod>2018-12-03T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/restaurante.html</loc>
+<lastmod>2018-12-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2554,13 +2582,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/tag/wabi-sabi.html</loc>
 <lastmod>2017-06-26T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/restaurante.html</loc>
-<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4036,13 +4057,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.ichigoichie.tk/tag/okinawa.html</loc>
-<lastmod>2015-12-28T11:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.ichigoichie.tk/tag/dieta-para-adelgazar.html</loc>
 <lastmod>2015-12-28T11:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -4219,7 +4233,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-11-26T10:00:00-00:15</lastmod>
+<lastmod>2018-12-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
