@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/</loc>
-<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<lastmod>2018-12-10T08:32:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<lastmod>2018-12-10T08:32:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<lastmod>2018-12-10T08:32:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<lastmod>2018-12-10T08:32:41-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/about.html</loc>
-<lastmod>2018-12-03T08:14:35-00:00</lastmod>
+<lastmod>2018-12-10T08:32:41-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/2018/12/curry-con-arroz-estilo-japones.html</loc>
+<lastmod>2018-12-10T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1195,7 +1202,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/category/cocina.html</loc>
-<lastmod>2018-11-19T10:00:00-00:15</lastmod>
+<lastmod>2018-12-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1285,6 +1292,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
+<loc>https://www.ichigoichie.tk/tag/receta.html</loc>
+<lastmod>2018-12-10T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/curry.html</loc>
+<lastmod>2018-12-10T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/arroz.html</loc>
+<lastmod>2018-12-10T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
 <loc>https://www.ichigoichie.tk/tag/okinawa.html</loc>
 <lastmod>2018-12-03T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -1349,13 +1377,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/tag/nabe.html</loc>
-<lastmod>2018-11-19T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/receta.html</loc>
 <lastmod>2018-11-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1784,13 +1805,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/tag/konbini.html</loc>
 <lastmod>2018-06-04T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/arroz.html</loc>
-<lastmod>2018-05-28T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2582,13 +2596,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/tag/wabi-sabi.html</loc>
 <lastmod>2017-06-26T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/curry.html</loc>
-<lastmod>2017-06-19T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4233,7 +4240,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2018-12-03T10:00:00-00:15</lastmod>
+<lastmod>2018-12-10T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
