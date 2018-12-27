@@ -1,6 +1,6 @@
 Title: Karate en Okinawa: partiendo fachadas en dos
 Slug: karate-en-okinawa-partiendo-fachadas-en-dos
-Date: 2018-12-24 10:00
+Date: 2019-01-07 10:00
 Category: Lugares
 Tags: okinawa, karate, fachada
 
