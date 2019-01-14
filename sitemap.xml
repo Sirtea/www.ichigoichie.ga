@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/</loc>
-<lastmod>2019-01-07T09:46:14-00:00</lastmod>
+<lastmod>2019-01-14T07:36:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2019-01-07T09:46:14-00:00</lastmod>
+<lastmod>2019-01-14T07:36:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2019-01-07T09:46:14-00:00</lastmod>
+<lastmod>2019-01-14T07:36:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2019-01-07T09:46:14-00:00</lastmod>
+<lastmod>2019-01-14T07:36:23-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/about.html</loc>
-<lastmod>2019-01-07T09:46:14-00:00</lastmod>
+<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/2019/01/el-helado-de-matcha-mas-rico-del-mundo-solo-en-asakusa-suzukien.html</loc>
+<lastmod>2019-01-14T10:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1237,7 +1244,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/category/cultura-del-te.html</loc>
-<lastmod>2018-07-02T09:00:00-00:15</lastmod>
+<lastmod>2019-01-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1301,6 +1308,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/category/viajes.html</loc>
 <lastmod>2018-09-17T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/helado.html</loc>
+<lastmod>2019-01-14T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/matcha.html</loc>
+<lastmod>2019-01-14T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/asakusa-suzukien.html</loc>
+<lastmod>2019-01-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1384,13 +1412,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/tag/te.html</loc>
-<lastmod>2018-11-26T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/matcha.html</loc>
 <lastmod>2018-11-26T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
@@ -1749,13 +1770,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/tag/real.html</loc>
 <lastmod>2018-07-16T09:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/helado.html</loc>
-<lastmod>2018-07-09T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4289,7 +4303,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2019-01-07T10:00:00-00:15</lastmod>
+<lastmod>2019-01-14T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
