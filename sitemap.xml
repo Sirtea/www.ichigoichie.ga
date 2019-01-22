@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/</loc>
-<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<lastmod>2019-01-22T07:52:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<lastmod>2019-01-22T07:52:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<lastmod>2019-01-22T07:52:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<lastmod>2019-01-22T07:52:43-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/about.html</loc>
-<lastmod>2019-01-14T07:36:23-00:00</lastmod>
+<lastmod>2019-01-22T07:52:43-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/2019/01/viajando-por-kioto-el-santuario-fushimi-inari.html</loc>
+<lastmod>2019-01-22T09:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1272,7 +1279,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/category/lugares.html</loc>
-<lastmod>2019-01-07T10:00:00-00:15</lastmod>
+<lastmod>2019-01-22T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1308,6 +1315,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/category/viajes.html</loc>
 <lastmod>2018-09-17T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/kioto.html</loc>
+<lastmod>2019-01-22T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/santuario.html</loc>
+<lastmod>2019-01-22T09:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/fushimi-inari.html</loc>
+<lastmod>2019-01-22T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -2176,13 +2204,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/tag/lealtad.html</loc>
 <lastmod>2018-02-12T10:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>https://www.ichigoichie.tk/tag/santuario.html</loc>
-<lastmod>2018-02-05T10:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -4303,7 +4324,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2019-01-14T10:00:00-00:15</lastmod>
+<lastmod>2019-01-22T09:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
