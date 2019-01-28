@@ -12,7 +12,7 @@ Cualquier tradición culinaria de Japón, al trasladarse a las menús y paladare
 
 Y así es como nos topamos con el *matcha*, ese té verde japonés molido a la piedra, que ya inunda redes sociales mezclado con leche y cartas de postres transformado en azúcar puro. Es tanta la explotación que ya roza la vulgarización, haciéndonos dudar entre si es una moda pasajera o una nueva forma de beber té.
 
-![Taza de matcha latte]({filename}/images/postureo-matcha-01.jpg)
+![Taza de matcha latte]({static}/images/postureo-matcha-01.jpg)
 
 **AVISO**: Este artículo está haciendo crítica de una conocida mía (y ella lo sabe). No os lo toméis muy a pecho.
 
@@ -50,6 +50,6 @@ No se trata solo de beber sino también de sentir, tocar, oler y compartir. Y es
 
 La prueba del pañuelo para los #matchalovers es tan fácil como preguntarte: ¿Te suena lo que ves a continuación?
 
-![Utensilios para preparar el matcha]({filename}/images/postureo-matcha-02.jpg)
+![Utensilios para preparar el matcha]({static}/images/postureo-matcha-02.jpg)
 
 Si la respuesta es no, déjalo y vete a por un *chai latte* al **Starbucks** de la esquina, anda.

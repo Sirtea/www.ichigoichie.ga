@@ -12,7 +12,7 @@ Existe una estación en un pueblo rural, en donde hace años que las jefas de es
 
 Según cuenta la historia, en abril de 2006 la compañía *Wakayama Electric Railway* tuvo la necesidad de recortar costes. Para ello, se seleccionaron a los jefes de estación entre los empleados de las empresas locales cercanas a las estaciones.
 
-![Gata Tama]({filename}/images/tama_cat_1.jpg)
+![Gata Tama]({static}/images/tama_cat_1.jpg)
 
 En la estación de *Kishi*, la tendera local *Toshiko Kowaya* fue elegida como jefa de estación. *Koyama* había adoptado a *Tama* y a otros gatos callejeros, a los que daba de comer en la misma estación.
 
@@ -22,7 +22,7 @@ El milagro no tardó en suceder; la publicidad del nombramiento atrajo a curioso
 
 El resultado no se hizo esperar: en enero de 2008, *Tama* fue ascendida a *super station master*, en un acto en el que asistieron el presidente de la empresa y el alcalde. Se trataba de "la única mujer en puesto de dirección".
 
-![Gata Tama]({filename}/images/tama_cat_2.jpg)
+![Gata Tama]({static}/images/tama_cat_2.jpg)
 
 *Tama* falleció el 22 de junio del 2015, a la edad de 16 años (equivalentes a unos 80 años humanos). Murió en un hospital para animales en la prefectura de *Wakayama*, a causa de un fallo cardíaco.
 

@@ -14,7 +14,7 @@ Existe un término en japonés que básicamente significa que la concentración 
 
 Según el maestro, cuando hacemos una actividad solamente, expresamos nuestra auténtica naturaleza. Es una idea preciosa, pero es más fácil de decir que de hacer. ¿Cuantas veces no estamos plenamente dedicados a lo que estamos haciendo?
 
-![Ichigyo-zammai]({filename}/images/ichigyo-zammai.jpg)
+![Ichigyo-zammai]({static}/images/ichigyo-zammai.jpg)
 
 Pensad en los momentos que estamos:
 

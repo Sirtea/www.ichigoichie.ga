@@ -15,7 +15,7 @@ Las expresiones que solemos usar, contienen gran sabiduría. Algunos son consejo
 
 A veces es mejor mantenerse callados. Esto es especialmente cierto cuando estamos encendidos por una discusión; no es fácil deshacer una situación creada por una mala palabra o por una que realmente no queríamos decir. Es mejor "morderse la lengua" y pensar bien lo que se dice. **Los malentendidos son fáciles de crear**.
 
-![Una boca causa problemas]({filename}/images/a-mouth-causes-trouble.jpg)
+![Una boca causa problemas]({static}/images/a-mouth-causes-trouble.jpg)
 
 ## Nô aru taka wa tsume wo kakusu
 
@@ -23,7 +23,7 @@ A veces es mejor mantenerse callados. Esto es especialmente cierto cuando estamo
 
 En este caso, las garras hacen referencia a nuestras cartas bajo la manga; no hay que revelar todo lo que tenemos, de forma que nos sea mas fácil de sorprender con nuestras habilidades. Es también un llamamiento a ser humilde; **la gente con talento no necesita demostrarlo**.
 
-![El halcón hábil esconde sus garras]({filename}/images/the-skillful-hawk-hides-his-talons.jpg)
+![El halcón hábil esconde sus garras]({static}/images/the-skillful-hawk-hides-his-talons.jpg)
 
 ## Saru mo ki kara ochiru
 
@@ -31,4 +31,4 @@ En este caso, las garras hacen referencia a nuestras cartas bajo la manga; no ha
 
 No importa lo habilidosos que seamos en un campo concreto; eventualmente todos podemos (y vamos) a cometer un error. Nadie es perfecto; equivocarse es propio de humanos. Ahora que has cometido un error, trata de enmendarlo, **levántate y sigue luchando**.
 
-![Incluso un mono puede caer de un árbol]({filename}/images/even-a-monkey-can-fall-from-a-tree.jpg)
+![Incluso un mono puede caer de un árbol]({static}/images/even-a-monkey-can-fall-from-a-tree.jpg)

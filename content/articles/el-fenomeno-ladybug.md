@@ -8,13 +8,13 @@ Tags: fenómeno, ladybug, París
 
 **Ladybug** es la superheroína de una serie de dibujos animados que se emite desde el año pasado en *Disney Channel*. Una serie de animación coproducida por Francia, Japón y Corea, *Zagtoon*, *Toei Animation*, *Method Animation* y *SAMG Animation*, que narra la historia de dos estudiantes de secundaria, **Marinette** y **Adrien**.
 
-![Portada Ladybug]({filename}/images/ladybug_portada.jpg)
+![Portada Ladybug]({static}/images/ladybug_portada.jpg)
 
 De **Labybug** y **Chat Noir** nadie conoce su verdadera identidad, ni tan siquiera ellos mismos. Ambos tienen una misión importante: proteger a los ciudadanos de París, ciudad donde se sitúa la historia, de las garras del misterioso supervillano **Lepidóptero**.
 
 Esta es una serie de dibujos animados de las que gustan tanto a niños como a mayores, pues combina una trama que va más allá de los buenos y los malos. Para un público mas adulto, no pasa inadvertido un componente de tensión sexual no resuelta entre nuestros protagonistas. **Marinette** está enamorada de **Adrien**, pero detesta a **Chat Noir**; por el contrario, **Adrien** no muestra interés ninguna hacia **Marinette**, porque está enamorado de su *alter ego*, **Ladybug**.
 
-![Ladybug y Chat Noir]({filename}/images/ladybug_y_chat_noir.jpg)
+![Ladybug y Chat Noir]({static}/images/ladybug_y_chat_noir.jpg)
 
 Otro punto es la gran cantidad y variedad de villanos, que aparte del omnipresente **Lepidóptero**, suelen ser personajes normales que se convierten repentinamente en villanos de forma temporal por algún desencadenante emocional.
 
@@ -30,15 +30,15 @@ La arquitectura de París queda representada con un detalle digno de mención, s
 
 **El ayuntamiento de París**
 
-![El ayuntamiento de París]({filename}/images/ladybug_city_hall.jpg)
+![El ayuntamiento de París]({static}/images/ladybug_city_hall.jpg)
 
 **La torre Eiffel**
 
-![La torre Eiffel]({filename}/images/ladybug_tour_eiffel.jpg)
+![La torre Eiffel]({static}/images/ladybug_tour_eiffel.jpg)
 
 **La catedral de Notre Dame**
 
-![La catedral de Notre Dame]({filename}/images/ladybug_notre_dame.jpg)
+![La catedral de Notre Dame]({static}/images/ladybug_notre_dame.jpg)
 
 ## No falta el aluvión de críticas
 

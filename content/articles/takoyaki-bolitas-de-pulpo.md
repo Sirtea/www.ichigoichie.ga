@@ -8,7 +8,7 @@ Tags: takoyaki, pulpo
 
 El *takoyaki* es un aperitivo japonés hecho a base de harina de trigo, pulpo y huevo. Tienen forma de bolas del tamaño de una pelota de *ping pong*. Es típico de la región de *Kansai* y es fácil de encontrar en puestos de comida callejera, especialmente en *Kyoto* y *Osaka*.
 
-![Plato takoyaki]({filename}/images/plato_takoyaki.jpg)
+![Plato takoyaki]({static}/images/plato_takoyaki.jpg)
 
 Se suelen servir en una bandeja desechable, pintados en salsas varias y adornados con bonito seco o algo nori. También se pueden servir en un palillo de pincho juntando algunas bolas.
 
@@ -32,7 +32,7 @@ Opcionalmente, podemos adornarlos para su presentación, con:
 
 ## Preparación
 
-![Receta takoyaki]({filename}/images/takoyaki_howto.jpg)
+![Receta takoyaki]({static}/images/takoyaki_howto.jpg)
 
 1. Agrega el agua y el caldo *dashi* en un cuenco, mezclando bien.
 2. Agrega el caldo a la harina y los huevos en un tazón o fuente y mézclalo todo bien.

@@ -8,7 +8,7 @@ Tags: korokke, patatas, entrante
 
 La cocina occidental entró con fuerza en Japón a mediados del siglo XIX, siempre adaptándose a los sabores y tradiciones de la gastronomía japonesa. Una de esas recetas son las *korokke*, proveniente de la palabra francesa *croquette*. Hoy vamos a hacer una versión básica a base de patatas y cebolla.
 
-![Plato de korokke]({filename}/images/plato-de-korokke.jpg)
+![Plato de korokke]({static}/images/plato-de-korokke.jpg)
 
 **TRUCO**: Cualquier lector cocinillas verá que, aunque la recetas es vegetariana, no es difícil modificarla con los ingredientes que más nos gusten; de hecho, una variante habitual es mezclar carne picada en la misma.
 

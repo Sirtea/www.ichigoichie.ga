@@ -8,7 +8,7 @@ Tags: enfermedad, mascarilla, complemento, moda
 
 Finalmente y muy a mi pesar, la enfermedad ha podido conmigo; en pleno julio y al principio de un fin de semana. Tras un periodo de baja laboral, y ya pensando que esta semana no habría artículo, voy a hablar del uso de las mascarillas quirúrgicas en el país nipón.
 
-![Chica con mascarilla]({filename}/images/chica-con-mascarilla.jpg)
+![Chica con mascarilla]({static}/images/chica-con-mascarilla.jpg)
 
 Recuerdo cuando después del terremoto de *Tohoku* y el caos de *Fukushima*, en las noticias mostraron imágenes de la gente caminando por *Tokio* con mascarillas quirúrgicas mientras, en un tono de periodismo amarillista que me avergonzó hasta límites insospechados, afirmaron que la gente llevaba mascarillas por miedo a la contaminación y radioactividad de *Fukushima*. Toma ya.
 
@@ -36,7 +36,7 @@ En el caso de Japón, además del motivo expuesto, hay otro que influye bastante
 
 Otro factor que influye mucho en el uso de este tapaboca es la contaminación, sobre todo en ciudades grandes como *Tokyo*, *Seúl* y *Pekín*.
 
-![Japoneses con mascarillas]({filename}/images/japoneses-con-mascarillas.jpg)
+![Japoneses con mascarillas]({static}/images/japoneses-con-mascarillas.jpg)
 
 ### Privacidad
 
@@ -48,6 +48,6 @@ Por esa misma razón, los estereotipos japoneses dicen que los ladrones llevan m
 
 Finalmente, con el paso del tiempo, el uso diario de estas mascarillas, se ha convertido en una idea, de la que los profesionales de marketing pueden sacar provecho. Por eso, se venden con diseños, de diferentes tamaños y confeccionadas con diversos materiales. Al año se venden millones de mascarillas en toda Asia. Así que es todo un negocio.
 
-![Mascarillas como moda]({filename}/images/mascarillas-como-moda.jpg)
+![Mascarillas como moda]({static}/images/mascarillas-como-moda.jpg)
 
 En Japón, muchos consideran que tener una "cara pequeña" es una característica deseable (y que tener una cara grande es lo contrario). Y así fue como aparecieron las "mascarillas para lucir", que también filtran el aire como todas las demás.

@@ -24,7 +24,7 @@ Como testimonio ponemos de ejemplo a Masako, una chica donante de sangre en una 
 
 De acuerdo con la [Cruz Roja](http://www.donarsangre.org/), la distribución de los grupos sanguíneos en España no es muy diferente...
 
-![Distribución de grupos sanguíneos en España]({filename}/images/grupos_sanguineos_españa.jpg)
+![Distribución de grupos sanguíneos en España]({static}/images/grupos_sanguineos_españa.jpg)
 
 De acuerdo con estos datos, tenemos menos excéntricos y menos egoístas, pero más curiosos...
 

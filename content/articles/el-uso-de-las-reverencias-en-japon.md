@@ -19,12 +19,12 @@ Según el nivel de formalidad y lo que se quiere expresar, se varia el grado de 
 * ***Teineirei***: Esta reverencia implica una inclinación de 45 grados de inclinación. Es una forma de agradecimiento para alguien que ha hecho algo por nosotros, o para pedir perdón por un error cometido.
 * ***Saikeirei***: Se utiliza para pedir un favor importante o para pedir perdón por un error grave cometido. La inclinación es de 90 grados.
 
-![Reverencias japonesas]({filename}/images/reverencias-japonesas.jpg)
+![Reverencias japonesas]({static}/images/reverencias-japonesas.jpg)
 
 Curiosamente, los maestros no necesitan hacer reverencias ante el emperador, ya que consideran que sin educadores no podrían existir los emperadores.
 
 Para pedir perdón por errores muy graves, existe una forma llamada ***dogeza***, o pedir perdón de rodillas. Esta es frecuente de ver en *animes*, pero en la vida real se utiliza en raras ocasiones.
 
-![Perdón por dogeza]({filename}/images/perdon-por-dogeza.jpg)
+![Perdón por dogeza]({static}/images/perdon-por-dogeza.jpg)
 
 De hecho, una de las pocas veces que la vimos en público fue cuando los encargados de la central nuclear de *Fukushima* pidieron perdón a la población japonesa, delante de las cámaras de televisión.

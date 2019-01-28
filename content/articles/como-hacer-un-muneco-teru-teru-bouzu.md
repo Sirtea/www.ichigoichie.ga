@@ -10,7 +10,7 @@ Tags: teru teru bouzu, amuleto, lluvia, tutorial
 
 Ya conocimos esta costumbre en un [artículo anterior]({filename}/articles/un-amuleto-contra-la-lluvia-el-teru-teru-bouzu.md), así que solo nos queda poner en práctica la construcción de una de estos muñecos. Como *spoiler*, os pongo una foto del que me salió:
 
-![Teru casero]({filename}/images/teru_casero.jpg)
+![Teru casero]({static}/images/teru_casero.jpg)
 
 Para hacerlo, solo vamos a necesitar:
 
@@ -27,13 +27,13 @@ En cuanto a los pasos, son bastante sencillos:
 
 Y como una imagen vale mas que mil palabras, os pongo 4. Eso os va a ilustrar mejor que mis anteriores instrucciones.
 
-![Teru - paso 1]({filename}/images/teru_paso1.jpg)
-![Teru - paso 3]({filename}/images/teru_paso2.jpg)
-![Teru - paso 3]({filename}/images/teru_paso3.jpg)
-![Teru - paso 4]({filename}/images/teru_paso4.jpg)
+![Teru - paso 1]({static}/images/teru_paso1.jpg)
+![Teru - paso 3]({static}/images/teru_paso2.jpg)
+![Teru - paso 3]({static}/images/teru_paso3.jpg)
+![Teru - paso 4]({static}/images/teru_paso4.jpg)
 
 De hecho, los materiales son bastante libres, y no es difícil verlos hechos con otros materiales y técnicas. En especial me parecen muy monos los que se hacen con las técnicas de [amigurumi](https://es.wikipedia.org/wiki/Amigurumi), como por ejemplo:
 
-![Teru de amigurumi]({filename}/images/teru_amigurumi.jpg)
+![Teru de amigurumi]({static}/images/teru_amigurumi.jpg)
 
 ***Y como eran tan monos, ahora tengo uno de tela atado a la funda de mi teléfono móvil.***

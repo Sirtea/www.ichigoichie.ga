@@ -10,7 +10,7 @@ Hace unos días fui a [una conocida cadena de fideos japoneses]({filename}/pages
 
 Así que me dediqué a buscar por internet si alguien tenía una receta parecida, para poder matar el gusanillo que me acosaba. Esto es lo que encontré:
 
-![Yakitori de tofu]({filename}/images/yakitori-de-tofu.jpg)
+![Yakitori de tofu]({static}/images/yakitori-de-tofu.jpg)
 
 **TRUCO**: El *tofu* en si mismo no sabe a nada; son los acompañamientos y las salsas que lo acompañan los que le dan sabor. Es muy frecuente que se cocine previo marinado con otras cosas, para asegurarse que absorve un montón de sabores.
 

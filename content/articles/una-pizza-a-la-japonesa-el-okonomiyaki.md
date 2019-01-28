@@ -8,7 +8,7 @@ Tags: okonomiyaki, pizza, col, harina, huevo
 
 El **okonomiyaki** es una comida japonesa que consiste en una masa con varios ingredientes cocinados a la plancha, siendo la base una masa de harina y col. La palabra *okonomiyaki* significa "cocinado a la plancha a su gusto", tanto en referencia al cliente, como a los ingredientes que se usan.
 
-![Okonomiyaki acabado]({filename}/images/okonomiyaki_acabado.jpg)
+![Okonomiyaki acabado]({static}/images/okonomiyaki_acabado.jpg)
 
 Se trata de una receta asociada a la región de **Kansai** y de **Hiroshima**, siendo uno de los más representativas comidas de la ciudad de **Osaka**, junto con el **takoyaki**. Los **okonomiyaki** de **Kansai** suele mezclar todos los ingredientes en la masa antes de la cocción, mientras que los de **Hiroshima** apilan las diferentes capas de ingredientes. Existe una variante consistente en una base de fideos fritos, y se conoce con el nombre de **modanyaki**.
 
@@ -41,6 +41,6 @@ La receta que adjunto es la versión básica de la receta en la versión de **Ka
 5. Cuando se haya dorado, dele la vuelta a la masa, añada un poco más de aceite a la sartén y vuelva a calentarlo todo durante otros 7 u 8 minutos poniendo de nuevo la tapa.
 6. Mezcle el ketchup con la salsa de soja. Pase el **okonomiyaki** a un plato y cúbralo con una capa generosa de esa salsa. Si lo desea, puede añadir también otra capa de mayonesa, *aonori* o *katsuobushi* al gusto.
 
-![Preparación de okonomiyaki]({filename}/images/okonomiyaki_preparacion.jpg)
+![Preparación de okonomiyaki]({static}/images/okonomiyaki_preparacion.jpg)
 
 **NOTA**: La receta tiene un toque a mar, gracias al calamar; sin embargo la base es solamente agua, harina, huevo y col. Nada os impide hacer un **okonomiyaki** de otros sabores; con la masa base y un par de lonchas de beicon queda bastante bien (aunque tuve que cubrirlas con un poco de masa para que no se doblaran las puntas al cocer).

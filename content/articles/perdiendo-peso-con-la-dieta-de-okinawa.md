@@ -12,7 +12,7 @@ No es que me obsesione con mi figura, pero ha llegado la hora de hacer algo al r
 
 Uno de los que mas resultado me ha dado sin pasar hambre, ha sido adaptar la sabiduría de los nativos de las islas *Ryukyu*, cuya isla mas conocida es **Okinawa**. Esta filosofía de comida, les garantiza la esperanza de vida mas larga del mundo, y a mi, una forma fácil de perder 10 kilos en 3 meses.
 
-![Tallarines vegetarianos]({filename}/images/tallarines-vegetarianos.jpg)
+![Tallarines vegetarianos]({static}/images/tallarines-vegetarianos.jpg)
 
 Se trata de una dieta semi-vegetariana pobre en grasas y con restricción de calorías, sin tener que contarlas, con el objetivo de controlar nuestro peso y nos ayuda a envejecer bien. Se estima que los centenarios de la isla consumen unas 1100 calorías al día, convirtiendo esta dieta en una **hipocalórica**, aunque no se pasa hambre porque se basa en limitar las calorías por gramo, no la cantidad de comida.
 
@@ -24,7 +24,7 @@ La dieta de Okinawa clasifica los alimentos en 4 grupos, dependiendo de su **den
 
 **Ejemplo**: El pan blanco suele tener unas 250 calorías por 100 gramos, lo que significan 2,5 calorías por gramos.
 
-![Dieta de Okinawa]({filename}/images/dieta-de-okinawa.jpg)
+![Dieta de Okinawa]({static}/images/dieta-de-okinawa.jpg)
 
 Los alimentos se clasifican según esta **densidad energética**, y esta categoría, a su vez, limita la cantidad que podemos comer de cada cosa.
 
@@ -47,10 +47,10 @@ Con esto consiguen comer cantidades de comida sin restricción, con lo que consi
 
 *Hara Hachi Bu* son unas palabras japonesas que sirven para definir el concepto japonés de dejar de comer cuando estemos **saciados**, y no **llenos**. La idea es que hay que dejar de comer cuando estemos llenos en un 80%, y no seguir hasta **reventar**.
 
-![Hara Hachi Bu]({filename}/images/hara-hachi-bu.jpg)
+![Hara Hachi Bu]({static}/images/hara-hachi-bu.jpg)
 
 Está demostrado que nuestra mente tarda unos minutos en enterarse que el organismo está lleno, tiempo que usamos para seguir comiendo sin control.
 
-![Eating habits]({filename}/images/eating-habits.jpg)
+![Eating habits]({static}/images/eating-habits.jpg)
 
 Podemos experimentar este hecho simplemente parando 5 minutos de descanso cuando creamos que es suficiente, esperando a que el organismo decida si necesita mas comida. En caso que estemos bien, habremos terminado.

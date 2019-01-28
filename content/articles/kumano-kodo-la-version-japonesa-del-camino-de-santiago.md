@@ -12,7 +12,7 @@ Cuenta la leyenda que en el año 813 un ermitaño llamado **Pelayo** vio posarse
 
 Años después el Rey de Asturias, **Alfonso II el Casto**, viajó con su corte a *Libredón* convirtiéndose así oficialmente en el primer peregrino del Camino de Santiago. Ordenó construir una pequeña iglesia para honrar al santo y ese lugar, conocido como *campo de estrellas* o *Compostela*, se convertiría en la primera mitad del siglo XI en el principal destino de peregrinación de Europa, tan importante como Roma o Jerusalén.
 
-![Kumano Kodo]({filename}/images/kumano-kodo.jpg)
+![Kumano Kodo]({static}/images/kumano-kodo.jpg)
 
 En esa época, a 10,755 kilómetros de allí, en la montañosa [península de Kii](https://es.wikipedia.org/wiki/Pen%C3%ADnsula_de_Kii), al sur de Japón, otro camino de peregrinación comenzaba a florecer: el *Camino Kumano* o **Kumano Kodo**. La región de *Kumano* ocupa la mitad meridional de esta península y los manuscritos japoneses más antiguos se refieren a él como un lugar sagrado donde hunde sus raíces la religión autóctona del país, el sintoísmo, una forma sofisticada de animismo naturalista, que venera a los *kami* o espíritus de la naturaleza.
 
@@ -26,7 +26,7 @@ El **emperador Fujiwara no Yurimichi** peregrina al santuario **Kumano Hongu Tai
 
 Hoy hay sendas bien trazadas y señalizadas, buenos hospedajes y restaurantes en las áreas de descanso, y una moderna red de comunicaciones para plantarse en **Takijiri-oji**, puerta de entrada al **Kumano Kodo**. Pero una vez que el visitante ha llegado a *Takijiri-oji* (un *oji* es un santuario secundario de los grandes santuarios) se calza las botas y comienza la caminata, verá que nada ha cambiado en este lugar en los últimos mil años.
 
-![Takijiri-oji]({filename}/images/takijiri-oji.jpg)
+![Takijiri-oji]({static}/images/takijiri-oji.jpg)
 
 **Takijiri-oji** es la entrada espiritual a las montañas sagradas. A partir de ahí la ruta se empina para ascender a la comunidad de **Takahara**, donde podrá disfrutar de sus vistas; la senda prosigue a través de las montañas para comenzar el descenso hasta la aldea de **Chikatsuyu**. Habrá recorrido 13 kolometros e invertido unas siete horas con descansos incluidos; hay lugares para pasar la noche, pero los caminantes más atrevidos podrían seguir hasta **Hosshinmon-oji**, que dista 18 kilómetros, siguiendo el viejo camino a través de los parajes de **Tsugizakura-oji**, con sus impresionantes árboles de 800 años, llamados **Nonaka-no-Ipposugi**. Tras el paso de **Kobiro Toge**, la ruta inicia una serie de ascensos y descensos hasta **Hosshinmon-oji**. Hay alojamientos en la aldea cercana de **Hongu** y en los baños termales de las inmediaciones.
 

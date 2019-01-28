@@ -30,7 +30,7 @@ Cada paso tiene 5 acciones básicas que que hay que seguir:
 * **Seiketzu**: Estandarizar
 * **Shitzuke**: Disciplina
 
-![Pasos básicos del kaizen]({filename}/images/pasos_basicos_kaizen.jpg)
+![Pasos básicos del kaizen]({static}/images/pasos_basicos_kaizen.jpg)
 
 ### Seiri / clasificar
 

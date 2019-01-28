@@ -8,7 +8,7 @@ Tags: furikake, condimento, ingrediente
 
 Hoy vamos a hablar de **furikake**, que es ampliamente utilizado en Japón. El **furikake** es un condimento seco de la cocina japonesa que puede añadirse a distintas elaboraciones, siendo principalmente destinado para espolvorear sobre el arroz, los fideos o la sopa. Su nombre viene del *furikakeru* que significa espolvorear, salpicar.
 
-![Furikake con arroz]({filename}/images/furikake-con-arroz.jpg)
+![Furikake con arroz]({static}/images/furikake-con-arroz.jpg)
 
 Podríamos decir que el **furikake** es el condimento seco japonés que enriquece de aromas y sabores muchos platos, igual que hace la *dukkah* en la cocina egipcia, cada uno con los ingredientes característicos de su gastronomía. Si en la *dukkah* predominan frutos secos y especias, en el **furikake** son protagonistas las algas, el pescado y el sésamo.
 

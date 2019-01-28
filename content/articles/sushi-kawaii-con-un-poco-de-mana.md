@@ -10,7 +10,7 @@ Siempre se ha dicho que la comida japonesa se come con los ojos, además de con 
 
 ## La makis de flor de sakura
 
-![Sakura sushi]({filename}/images/sushi-kawaii-sakura.jpg)
+![Sakura sushi]({static}/images/sushi-kawaii-sakura.jpg)
 
 Realmente no es tan complicado como parece; basta con un poco de "algo" que pinte el arroz para que forme nuestra textura de color. El resto es solo una mañosa aplicación de la esterilla de bambú.
 
@@ -22,7 +22,7 @@ Sin mas preámbulos, os pongo el vídeo:
 
 La verdad es que parecía más fácil de hacer cuando empecé a planificar este artículo, pero como soy patosa, no me salió demasiado bien. Sin embargo, la idea de "pintar" el arroz es muy buena y puede dar ejemplos muy llamativos, como el que acabé llevándome a la oficina:
 
-![Sushi de colores]({filename}/images/sushi-kawaii-colores.jpg)
+![Sushi de colores]({static}/images/sushi-kawaii-colores.jpg)
 
 ## Otros ejemplos de arte culinario
 
@@ -33,10 +33,10 @@ La gente que se realmente se lo curra puede llegar a hacer auténticas obras de 
 
 Así que podemos encontrar por internet cosas como estas...
 
-![Sushi de gatos]({filename}/images/sushi-kawaii-gatos.jpg)
+![Sushi de gatos]({static}/images/sushi-kawaii-gatos.jpg)
 
-![Sushi variado en plato]({filename}/images/sushi-kawaii-plato.jpg)
+![Sushi variado en plato]({static}/images/sushi-kawaii-plato.jpg)
 
-![Sushi de scream]({filename}/images/sushi-kawaii-scream.jpg)
+![Sushi de scream]({static}/images/sushi-kawaii-scream.jpg)
 
 ***Y con esto vais a ser la envidia de la oficina***

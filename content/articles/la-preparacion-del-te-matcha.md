@@ -19,7 +19,7 @@ Adicionalmente, hace falta un equipo básico para prepararlo. Por suerte, mucho 
 * 1 *chashaku*  o cucharilla de bambú (una de las pequeñas de café también vale)
 * 1 *chasen* o batidor, hecho de bambú (creo que este es indispensable, aunque hay gente que usa un batidor eléctrico)
 
-![Utensilios para preparar matcha]({filename}/images/utensilios_matcha.jpg)
+![Utensilios para preparar matcha]({static}/images/utensilios_matcha.jpg)
 
 Su preparación no es compleja, y se puede hacer en unos simples pasos:
 

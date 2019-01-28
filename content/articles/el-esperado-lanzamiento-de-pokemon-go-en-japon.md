@@ -14,7 +14,7 @@ Sin embargo, debido al requisito del juego es difícil jugarlo en movimiento, as
 
 Se dice que en el parque *Shinjuku Gyoen* es fácil encontrar y capturar a *Pikachu*. Como se trata de un *pokemon* difícil de conseguir en el resto de zonas de *Tokio*, se trata de un reclamo para una muchedumbre sin fin. Incluso los que pasaban casualmente por la zona sin intenciones, paran en el parque.
 
-![Pokemon Go Shinjuku Gyoen]({filename}/images/pokemon_go_shinjuku_gyoen.jpg)
+![Pokemon Go Shinjuku Gyoen]({static}/images/pokemon_go_shinjuku_gyoen.jpg)
 
 De hecho, ir al parque es un curioso espectáculo para la vista; prácticamente todo el mundo está mirando la pantalla de su *smartphone*. De repente, alguien encuentra un *pokemon* y todo el mundo se para a capturarlo.
 
@@ -26,7 +26,7 @@ Las cadenas comerciales no han tardado en aprovechar el filo que la expectación
 
 La compañía de hamburguesas ha llegado a un acuerdo de colaboración con **Nintendo** y con la compañía creadora **Niantic** para convertir 2900 de sus establecimientos de comida rápida en gimnasios y *pokeparadas*.
 
-![Pokemon Go McDonalds]({filename}/images/pokemon_go_mcdonalds.jpg)
+![Pokemon Go McDonalds]({static}/images/pokemon_go_mcdonalds.jpg)
 
 El efecto ha sido inmediato; las acciones del gigante de comida rápida se han disparado en la bolsa de *Tokio*, y la compañía se ha revalorizado. Esto representa su mejor resultado en los últimos 15 años en el país nipón, momento en el que abrieron las sucursales japonesas.
 

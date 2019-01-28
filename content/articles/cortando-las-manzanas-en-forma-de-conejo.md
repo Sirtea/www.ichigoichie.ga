@@ -8,7 +8,7 @@ Tags: receta, manzana, conejo, bento
 
 Personalmente me encantan las manzanas, así que al ver lo que hacían en los animes me emocione mucho y me puse a cortarlas de esa forma por gusto. La verdad es que se trata de un postre que queda genial acompañando un *bento*. Es este artículo os explico como hacerlo.
 
-![Usagi ringo 1]({filename}/images/usagi_ringo_1.jpg)
+![Usagi ringo 1]({static}/images/usagi_ringo_1.jpg)
 
 Las instrucciones son simples, y solo se necesita un cuchillo, aparte de la manzana, claro. Estos son los pasos:
 
@@ -20,9 +20,9 @@ Las instrucciones son simples, y solo se necesita un cuchillo, aparte de la manz
 
 He sacado estas instrucciones de otra página web. Con estas imágenes queda mucho mas claro.
 
-![Usagi ringo 2]({filename}/images/usagi_ringo_2.jpg)
+![Usagi ringo 2]({static}/images/usagi_ringo_2.jpg)
 
-![Usagi ringo 3]({filename}/images/usagi_ringo_3.jpg)
+![Usagi ringo 3]({static}/images/usagi_ringo_3.jpg)
 
 Si no os queda claro, buscando por internet es fácil encontrar vídeos de como hacerlos.
 

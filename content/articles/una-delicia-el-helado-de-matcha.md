@@ -8,7 +8,7 @@ Tags: receta, helado, matcha
 
 Cada vez que llega el calor veraniego, me acuerdo de los helados de *matcha* que me comí en Japón; concretamente los que más me gustaron fueron aquellos que puede comer durante el día que me escapé a **Uji**, cuna del té japonés. Desde entonces he estado buscando replicar ese sabor.
 
-![Helado de matcha]({filename}/images/helado-de-matcha.jpg)
+![Helado de matcha]({static}/images/helado-de-matcha.jpg)
 
 He probado muchas recetas de varios sitios, y finalmente me he decantado por la que os voy a mostrar. Ahora que vuelve el clima veraniego es el mejor momento para empezar a hacer este tipo de helado.
 

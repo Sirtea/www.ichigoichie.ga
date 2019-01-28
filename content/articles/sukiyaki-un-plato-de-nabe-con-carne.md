@@ -8,7 +8,7 @@ Tags: sukiyaki, nabemono, nabe, receta
 
 Si hay una receta cocinada japonesa mundialmente famosa, es sin duda el **sukiyaki**. Se trata de un plato de *nabemono* o *nabe* (que significa cazuela), y se suele cocinar en un hornillo portátil en la misma mesa en donde come la família. La estrella es la carne, acompañada de verduras.
 
-![Sukiyaki]({filename}/images/sukiyaki.jpg)
+![Sukiyaki]({static}/images/sukiyaki.jpg)
 
 El **sukiyaki** es una comida extremadamente simple, que se hace cocinando carne finamente fileteada y otros ingredientes como verduras, *tofu* o fideos. Cuando se hace en casa (y en muchos restaurantes) se cocina en la misma mesa en donde se come, y es cada comensal el responsable de echar los ingredientes y controlar si están lo suficientemente hechos para su gusto.
 

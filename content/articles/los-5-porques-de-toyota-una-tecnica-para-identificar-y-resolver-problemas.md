@@ -12,7 +12,7 @@ En vez de eso, esta herramienta ayuda a analizar el problema de manera objetiva 
 
 La empresa *Toyota*, en una ocasión, estaba trabajando en mejorar sus procesos de producción, y creó una técnica para detectar problemas y resolverlos más rápidamente, precisamente para avanzar antes y poder aumentar la productividad. Esta técnica **consiste en ir a la causa anterior 5 veces, para comprender el problema originario** y atacarlo directamente.
 
-![5 porqués de Toyota]({filename}/images/5-porques-de-toyota.jpg)
+![5 porqués de Toyota]({static}/images/5-porques-de-toyota.jpg)
 
 ## ¿Cómo aplicar en este caso la herramienta de los 5 porqués?
 

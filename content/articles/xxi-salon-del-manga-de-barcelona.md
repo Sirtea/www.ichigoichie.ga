@@ -16,7 +16,7 @@ El evento será del jueves 29 de octubre al domingo 1 de noviembre en el recinto
 
 **¡Os esperamos a todos!**
 
-![XXI Salón del manga de Barcelona]({filename}/images/xxi-salon-del-manga-de-barcelona.jpg)
+![XXI Salón del manga de Barcelona]({static}/images/xxi-salon-del-manga-de-barcelona.jpg)
 
 **(27-10-2015) Actualización**:  
 Se han acabado las entradas para todos los días, así que me quedo sin ir; me pongo a llorar... *buah, buah, buaaaaaah*

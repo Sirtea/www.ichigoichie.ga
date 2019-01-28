@@ -19,7 +19,7 @@ La preparación de una buena taza de té es fácil; solo hay que respetar unas d
 3. Esperar el tiempo de infusión adecuado según el tipo de té.
 4. Servir el té alternativamente entre las *yunomi* (tazas) poco a poco, de forma que el sabor se el mismo en cada taza. Es importante que no quede té en la tetera, ya que puede estropear las hojas de té.
 
-![Preparación del té japonés]({filename}/images/preparacion-de-te-pasos.png)
+![Preparación del té japonés]({static}/images/preparacion-de-te-pasos.png)
 
 Se recomienda usar agua mineral, porque es baja en minerales y no desvirtúa el sabor del té. También evita el mal sabor que pueda tener el agua del grifo.
 

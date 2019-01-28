@@ -8,17 +8,17 @@ Tags: matcha, matcha latte, latte
 
 Nunca me ha gustado el café. Por ello es habitual que tome té por las mañanas, antes de irme de mi casa. Muchas veces me veo indecisa entre tomar té o leche, ya que ambos es demasiado. Finalmente aprendí a preparar delicioso **matcha latte**, que me ahorra la decisión matutina.
 
-![Matcha-latte 1]({filename}/images/matcha-latte-1.jpg)
+![Matcha-latte 1]({static}/images/matcha-latte-1.jpg)
 
 Podéis pensar que es complicado de hacer, pero sorprendentemente no lo es. Para conseguir el objetivo basta con dominar la parte básica de preparación del **matcha**, tal como explico en [este otro artículo]({filename}/articles/la-preparacion-del-te-matcha.md).
 
 La técnica es extrapolable a la leche: primero hacemos la pasta de té con el *chasen* y con muy poca agua caliente. Cuando tenemos el té en forma viscosa y sin grumos, solo hace falta añadir la leche (fría o caliente, a nuestro gusto) y darle otro brío con el *chasen*, para que haga espuma. La leche genera mucha más espuma que el agua.
 
-![Matcha-latte 2]({filename}/images/matcha-latte-2.jpg)
+![Matcha-latte 2]({static}/images/matcha-latte-2.jpg)
 
 A partir de aquí no sería necesario nada más. Algunos autores suelen añadir espuma batiendo aparte leche sin té (con lo que queda la espuma blanca) e incluso se suele añadir un espolvoreado de té **matcha** (pasadlo por un colador para evitar grumos). Si hacéis una versión fría, un cubito de hielo también queda sublime.
 
-![Matcha-latte 3]({filename}/images/matcha-latte-3.jpg)
+![Matcha-latte 3]({static}/images/matcha-latte-3.jpg)
 
 De hecho, yo he llegado a añadir cereales en mi *matcha latte*, servido en un bol de cereales; esta es una alternativa muy interesante a los cereales tradicionales, pero tened en cuenta que sabores como el azúcar o la miel pueden enmascarar el sabor del té.
 

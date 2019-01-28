@@ -8,7 +8,7 @@ Tags: parejas, gastronomía, ciencia
 
 Muchas veces podemos detectar que hay alimentos "que quedan muy bien juntas" o que se "sirven frecuentemente juntos". Como somos personas analíticas, es interesante saber porqué; todo puede ser explicado mediante el uso del razonamiento científico. Algunas de estas combinaciones vienen del país del sol naciente y son realmente curiosas.
 
-![Plato de sanma]({filename}/images/sanma.jpg)
+![Plato de sanma]({static}/images/sanma.jpg)
 
 * **Sushi** y **wasabi**: No hay combinación gastronómica japonesa más conocida en el mundo entero, pero no os penséis que el *wasabi* está ahí porqué sí. El *wasabi* sirve de potente agente *antimicrobiano* lo que hace que sea la pareja perfecta del pescado crudo.
 * **Sanma** y **daikon**: El pescado al carbón *sanma* se toma mejor con *daikon*. Esto es porque los *glucosinolatos* contra el cáncer que lleva el *daikon* compensan los agentes cancerígenos que podemos encontrar en la parte más carbonizada del pescado.

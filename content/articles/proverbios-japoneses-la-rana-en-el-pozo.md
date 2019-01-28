@@ -8,7 +8,7 @@ Tags: proverbio, rana, pozo
 
 Una fuente de sabiduría japonesa interesante se puede encontrar en los dichos japoneses. En el artículo de hoy, queremos hacer referencia al proverbio de una rana en un pozo, que por ignorancia, se creía la criatura mas grande del mundo. Con ello se pretende que os mantengáis abiertos de mente.
 
-![Proverbio: la rana el el pozo]({filename}/images/frog-in-a-well.jpg)
+![Proverbio: la rana el el pozo]({static}/images/frog-in-a-well.jpg)
 
 El dicho entero se lee y se traduce así:
 

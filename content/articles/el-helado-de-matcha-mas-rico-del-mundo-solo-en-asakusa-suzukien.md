@@ -14,13 +14,13 @@ De hecho, el té *matcha* siempre se ha asociado con la imagen de Japón. Esta v
 
 **Suzukien** es una casa de té muy antigua con más de 150 años de historia. Venden una amplia variedad de té, incluyendo *sencha* y *gyokuro*. La tienda se encuentra cerca del templo de **Sensoji**. Asegúrate de estar atento a su bandera verde.
 
-![Frontal de la tienda]({filename}/images/asakusa_suzukien_01.jpg)
+![Frontal de la tienda]({static}/images/asakusa_suzukien_01.jpg)
 
 En **Suzukien**, tendremos la oportunidad de observar de cerca la mercancía relacionada con el té verde, como el *chasen* (batidor de té verde), y las *kyusu* (teteras japonesas).
 
 Aquí tenemos diferentes tipos de helado. El helado de *matcha* es un producto creado en colaboración con la fábrica de dulces *matcha* **Nanaya**. **Nanaya** se encuentra en la prefectura de **Shizuoka**, famosa por la producción de té verde.
 
-![Helados expuestos]({filename}/images/asakusa_suzukien_02.jpg)
+![Helados expuestos]({static}/images/asakusa_suzukien_02.jpg)
 
 Además del helado de *matcha*, también tienen otros sabores japoneses como *hojicha* (té tostado), *genmaicha* (té con granos de arroz tostado), sésamo negro y el *dainagon azuki* (un tipo de judías rojas dulces).
 
@@ -36,7 +36,7 @@ También probé el número 1, que fue mucho más refrescante. Algunas personas e
 
 Se puede elegir tener una bola individual o doble en un bote o un cono. Los precios van desde los 340 hasta los 650 yenes, dependiendo de si es simple, doble y del grado de riqueza del té.
 
-![Precios de los helados]({filename}/images/asakusa_suzukien_03.jpg)
+![Precios de los helados]({static}/images/asakusa_suzukien_03.jpg)
 
 De hecho, se pueden combinar, siendo una bola de *hojicha* el compañero perfecto de otra de *matcha*; no hay combinación más refrescante, aunque podéis probar vuestra combinación favorita.
 
@@ -50,7 +50,7 @@ Por supesto, tienen gran variedad de té: desde latas de té de todos los tipos,
 
 Incluso si no sabes cómo preparar el té *matcha* de la manera tradicional, puedes hacerlo con producto llamado **NODATE**. Todo lo que tienes que hacer es usar la coctelera que viene con él. Ni siquiera necesitarás comprar un batidor.
 
-![Souvenirs varios]({filename}/images/asakusa_suzukien_04.jpg)
+![Souvenirs varios]({static}/images/asakusa_suzukien_04.jpg)
 
 ## Localización
 

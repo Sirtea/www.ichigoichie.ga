@@ -10,7 +10,7 @@ El *omamori* es un amuleto japonés. Se trata de un colgante hecho de tela que s
 
 Su nombre proviene del verbo *mamoru* que significa proteger, y según las creencias populares, sirve para alguna de muchas funciones, como por ejemplo, evitar accidentes, aprobar exámenes, ayudar en asuntos de amor, etc. La verdad es que los japoneses llevan *omamori* en muchos sitios, desde bolsillos, bolsos, en el móvil y hasta en el coche.
 
-![Omamoris varios]({filename}/images/omamoris-varios.jpg)
+![Omamoris varios]({static}/images/omamoris-varios.jpg)
 
 Los *omamori* son un invento del siglo XVII, y empezaron como amuletos hechos de madera o de papel. Con el tiempo se empezaron a hacer de tela y con la característica forma rectangular. La bolsa exterior suele ser de colores vivos, con el nombre del templo o santuario donde fue comprado escrito detrás. En el interior, se encuentra un papel, cartón o lámina de madera que lleva el nombre del dios protector y la oración escrita o bendecida por un monje.
 

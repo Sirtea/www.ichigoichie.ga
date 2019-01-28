@@ -8,7 +8,7 @@ Tags: bushido, samurai, seppuku, virtudes
 
 En la tradición japonesa, el *bushido* es un término traducido como "camino del guerrero". Es un código ético estricto, inculcado a la clase *samurai* desde pequeños, que exigía lealtad y honor hasta la muerte. Si un *samurai* fallaba en mantener su honor, solo podía recobrarlo mediante *seppuku* o suicidio ritual.
 
-![Las 7 virtudes del bushido]({filename}/images/las-7-virtudes-del-bushido.jpg)
+![Las 7 virtudes del bushido]({static}/images/las-7-virtudes-del-bushido.jpg)
 
 Hoy en nuestro blog te invito a reflexionar sobre las 7 virtudes del *samurai*.
 

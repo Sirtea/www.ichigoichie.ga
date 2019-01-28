@@ -14,7 +14,7 @@ El **soboro** se puede utilizar para un sinfín de posibilidades, tantas como co
 * Como relleno para los *onigiri*
 * Mezclados con platos de verduras, para añadir proteínas
 
-![Un apetecible soboro-don]({filename}/images/soboro-donburi.jpg)
+![Un apetecible soboro-don]({static}/images/soboro-donburi.jpg)
 
 Vamos poner la receta con pollo y con huevo, pero se puede hacer de cualquier otra carne, ajustando el aceite añadido, según la grasa de la carne.
 
@@ -48,7 +48,7 @@ Vamos poner la receta con pollo y con huevo, pero se puede hacer de cualquier ot
 6. Siga revolviendo y desmenuzando la carne picada hasta que adquiera una textura granulada.
 7. Agregue el azúcar, la soja y el agua; siga calentando a fuego medio hasta que casi no quede líquido.
 
-![Soboro de carne]({filename}/images/soboro-carne.jpg)
+![Soboro de carne]({static}/images/soboro-carne.jpg)
 
 ### Soboro de huevo
 
@@ -60,7 +60,7 @@ Vamos poner la receta con pollo y con huevo, pero se puede hacer de cualquier ot
 6. A continuación, caliente la sartén a fuego lento. Revuelva hasta que el huevo revuelto adquiera una textura fina y granulada.
 7. Retírelo a un plato y déjelo enfriar. No lo deje en la sartén, ya que se cocería excesivamente con el calor residual.
 
-![Soboro de huevo]({filename}/images/soboro-huevo.jpg)
+![Soboro de huevo]({static}/images/soboro-huevo.jpg)
 
 ### El soboro-don
 

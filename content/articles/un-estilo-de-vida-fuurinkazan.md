@@ -10,7 +10,7 @@ El verdadero valor, tal como lo ven los antiguos *samurai*, es útil fuera del c
 
 *Fuurinkazan* es un conjunto de cuatro *kanji* que supuestamente llevaba el *daimyo* japonés **Takeda Shingen** en su estandarte en batalla.
 
-![Fuurinkazan]({filename}/images/fuurinkazan.gif)
+![Fuurinkazan]({static}/images/fuurinkazan.gif)
 
 **Takeda Shingen** fue un famoso *samurai* que luchó por el control de Japón durante el período *Sengoku*. Ostentaba el título de *daimyo* de las provincias de *Shinano* y *Kai*, y era conocido como &laquo;el tigre de Kai&raquo;, por su gran habilidad en el campo de batalla.
 

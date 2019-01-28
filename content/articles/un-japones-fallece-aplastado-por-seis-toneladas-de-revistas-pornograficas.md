@@ -10,7 +10,7 @@ Todos conocemos que los japoneses -como tantos otros- tienen sus miles de excent
 
 Este ha sido el caso de *Joji*, un entrañable anciano de 50 años que ha fallecido presuntamente aplastado bajo seis toneladas de revistas pornográficas, de su propia colección. De hecho, se sigue investigando si la muerte se produjo por un ataque al corazón con posterior caída de las revistas, o si por el contrario, su muerte se produjo por asfixia debido al peso de la colección.
 
-![Estado de la vivienda antes de la empresa de limpieza]({filename}/images/inmueble-de-joji.jpg)
+![Estado de la vivienda antes de la empresa de limpieza]({static}/images/inmueble-de-joji.jpg)
 
 La parte curiosa, es que el susodicho murió 6 meses antes de que su cadáver fuera descubierto. No fue hasta más tarde, ya a mediados de marzo, que el propietario del piso lo visitó, para averiguar porque había dejado de pagar las cuotas del alquiler.
 

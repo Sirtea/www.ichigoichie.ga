@@ -14,7 +14,7 @@ Si tenéis niños, les va a encantar; van a quedar sorprendidos y se los van a c
 
 El primer paso es cortar el Frankfurt en 3 trozos iguales, abriendo el trozo central por la mitad. Las puntas van a ser los pulpos y las piezas centrales van a ser los cangrejos.
 
-![Preparación del salchipulpo]({filename}/images/salchicha-pulpo-receta.jpg)
+![Preparación del salchipulpo]({static}/images/salchicha-pulpo-receta.jpg)
 
 Para hacer los pulpos, hay que hacer cortes para marcar las patas, desde la parte central hasta la mitad del trozo, mas o menos. Hay quien hace un patrón de estrella para sacar ocho patas (como en la foto), otros hacen una rejilla de 3x3 para hacer un hueco central y ocho patas; debo confesar que yo he llegado a hacer 4 o 6 patas por vagancia. Opcionalmente se pueden marcar los ojos con un palillo.
 

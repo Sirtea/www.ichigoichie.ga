@@ -8,7 +8,7 @@ Tags: kakigori, palma, palma de mallorca, mallorca
 
 Hace algún tiempo me trasladé a vivir a Palma de Mallorca por asuntos personales. Andaba paseando por una de sus calles más céntricas despreocupadamente bajo un sol de justícia y me tropecé con una sorprendente tienda nueva: una pareja de viajeros habían abierto una tienda de **kakigori** con productos locales.
 
-![Tienda Palm'Ice - foto 1]({filename}/images/tienda-palm-ice-01.jpg)
+![Tienda Palm'Ice - foto 1]({static}/images/tienda-palm-ice-01.jpg)
 
 Ya vimos que el [kakigori]({filename}/articles/kakigori-el-helado-de-hielo-raspado.md) era un helado tradicional japonés hecho a base de echar sirope encima de una montaña de hielo raspado. Dado que es ligero y muy saludable; impulsada por el calor que hacía, no pude resisitirme a parar a por uno.
 
@@ -21,7 +21,7 @@ Lo novedoso de esta tienda es que tiene sabores tradicionales, como el melón o 
 
 **NOTA**: Yo pedí el mediano y no me lo pude acabar...
 
-![Tienda Palm'Ice - foto 2]({filename}/images/tienda-palm-ice-02.jpg)
+![Tienda Palm'Ice - foto 2]({static}/images/tienda-palm-ice-02.jpg)
 
 Por si algún día os dejáis caer por mi ciudad de acogida, os dejo los datos:
 

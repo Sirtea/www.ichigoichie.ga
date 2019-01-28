@@ -12,7 +12,7 @@ En el idioma japonés, la palabra correcta para esta ceremonia de purificación 
 
 En la pileta de agua, llamada *temizuya* o *chozuya*, siempre vais a encontrar varios cucharones y uno o más chorros de agua. La idea es que los visitantes se lavan las manos y la boca para purificarse antes de seguir con su visita.
 
-![Temizuya del santuario Fushimi Inari]({filename}/images/temizuya-fushimi-inari.jpg)
+![Temizuya del santuario Fushimi Inari]({static}/images/temizuya-fushimi-inari.jpg)
 
 Los japoneses aprecian los gestos de acercamiento a su cultura, así que podemos quedar muy bien si ejecutamos correctamente esta ceremonia, que de por si no es difícil. Basta con seguir unos simples pasos.
 
@@ -26,6 +26,6 @@ La ceremonia de ablución es bastante sencilla, simplemente tenemos que seguir e
 
 Muchos santuarios tienen un cartel con dibujos e instrucciones para completar el ritual de forma adecuada. Ante la duda, podéis actuar por imitación.
 
-![Instrucciones de Temizu]({filename}/images/instrucciones-temizu.jpg)
+![Instrucciones de Temizu]({static}/images/instrucciones-temizu.jpg)
 
 ***Y recordad: el agua del temizuya no es para beber.***

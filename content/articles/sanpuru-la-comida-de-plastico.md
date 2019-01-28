@@ -10,7 +10,7 @@ Como bien sabemos, la oferta gastronómica en las calles de Japón es tan amplia
 
 Se trata de los expositores: a modo de llamar la atención y de demostrar a los clientes lo que sus cartas ofrecen, muchos locales disponen de unos aparadores o vitrinas donde exponen representaciones en parafina de sus platos. El nivel de realismo de estas piezas es asombroso y por ello hemos de tratarlas casi como pequeñas obras de arte.
 
-![Escaparate de sanpuru]({filename}/images/escaparate-de-sanpuru.jpg)
+![Escaparate de sanpuru]({static}/images/escaparate-de-sanpuru.jpg)
 
 ## Origen
 
@@ -28,7 +28,7 @@ Por una parte, el cliente puede decidir de un simple vistazo si le atrae más un
 
 Por otra parte, con esta técnica también pueden conseguir abrirle el apetito a alguien quien, de buen principio, no tenía pensado comer. ¿No os ha pasado nunca? A mí sí, desde luego, y si aún hay alguien que se resiste a la pregunta, que pruebe a responderla otra vez después de ver la siguiente fotografía...
 
-![Plato de curry de sanpuru]({filename}/images/plato-curry-sanpuru.jpg)
+![Plato de curry de sanpuru]({static}/images/plato-curry-sanpuru.jpg)
 
 Para los turistas, el arte del **sanpuru** (de la palabra inglesa *sample*) nos es y nos ha sido de gran ayuda. Si quieres comer, simplemente necesitas echar un ojo a los escaparates y decidir aquello que te parezca mas apetitoso o que mas te llame la atención.
 

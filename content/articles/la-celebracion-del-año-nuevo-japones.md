@@ -33,7 +33,7 @@ Durante estos 4 días se realizan juegos tradicionales en familia, como por ejem
 
 También se consumen banquetes llenos de platos tradicionales. concretamente, la noche del 31 de diciembre es tradicional comer un tipo de fideos *soba* muy largos llamados *toshikoshi*; se trata de fideos muy largos que simbolizan larga vida que queremos para el año que entra. Otros platos consumidos suelen ser el *kagami mochi* (dos *mochi* con una mandarina encima) y el *ozōni* (sopa de *mochi* y caldo).
 
-![Osechi Ryori]({filename}/images/osechi-ryori.jpg)
+![Osechi Ryori]({static}/images/osechi-ryori.jpg)
 
 Como añadido, los días previos al 1 de enero se prepara el *osechi ryōri*, que es el menú que degustará la familia el primer día del año; y es que no da buena suerte cocinar este día...
 

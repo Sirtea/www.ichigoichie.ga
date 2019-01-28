@@ -19,7 +19,7 @@ Con estas directivas, podemos hacer volar nuestra imaginación y hacerlo de ingr
 
 Hoy vamos a hacer *furikake* con verduras, concretamente con espinacas, porque me apetecía un toque vegetariano y porque es muy fácil de encontrar, además de barato.
 
-![Bol de arroz con furikake de espinacas]({filename}/images/bol-arroz-furikake-espinacas.jpg)
+![Bol de arroz con furikake de espinacas]({static}/images/bol-arroz-furikake-espinacas.jpg)
 
 ## Ingredientes
 
@@ -41,6 +41,6 @@ Hoy vamos a hacer *furikake* con verduras, concretamente con espinacas, porque m
 
 **TRUCO**: Le llevará de 7 a 8 minutos tostar todos los ingredientes del condimento de espinaca, después de lo cual estará listo para usar.
 
-![Tostado del furikake de espinacas]({filename}/images/tostado-furikake-de-espinacas.jpg)
+![Tostado del furikake de espinacas]({static}/images/tostado-furikake-de-espinacas.jpg)
 
 ***Itadakimasu!***

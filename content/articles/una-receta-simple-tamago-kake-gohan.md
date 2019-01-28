@@ -10,7 +10,7 @@ No deja de sorprenderme la sencillez de la comida japonesa; estando en Japón di
 
 Pensé que ese gesto era normal para acabar las comidas japonesas, pero lo que no me esperaba era lo que todavía tendría que encontrar por internet... Se trata de una deliciosa receta que se prepara en menos de 2 minutos: el **Tamago Kake Gohan**, literalmente "arroz cubierto de huevo".
 
-![Tamago Kake Gohan]({filename}/images/tamago-kake-gohan.jpg)
+![Tamago Kake Gohan]({static}/images/tamago-kake-gohan.jpg)
 
 ## Ingredientes (1 persona)
 

@@ -10,7 +10,7 @@ Siempre nos pasa que nos sobra arroz de una receta anterior. Este arroz se endur
 
 De esta forma, el arroz endurecido se ve hidratado de nuevo, y con unos pocos condimentos se vuelve un plato simple, o un *snack* para cualquier momento del día.
 
-![Ochazuke]({filename}/images/ochazuke.jpg)
+![Ochazuke]({static}/images/ochazuke.jpg)
 
 Este plato se hizo popular en el periodo *Heian* para aprovechar este cereal, ya que la mayoría del país rozaba la pobreza y no era plan desechar los restos, aunque inicialmente se le echaba solamente agua. En el periodo *Edo*, se volvió habitual usar té en vez de agua.
 

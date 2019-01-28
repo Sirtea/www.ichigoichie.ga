@@ -10,7 +10,7 @@ Hoy quiero hablar de uno de los lugares mágicos para todo el que quiera desplaz
 
 Se trata de instalaciones en donde podemos darnos un baño, con **una parte para limpiarse**, y **otra parte para relajarse**. Lo mas chocante es que si tuviera que definir en palabras clave un *onsen*, usaría las palabras clave **baño**, **colectivo** y **desnudo**.
 
-![Onsen 1]({filename}/images/onsen_1.jpg)
+![Onsen 1]({static}/images/onsen_1.jpg)
 
 El agua de un *onsen* debe tener uno de los 19 elementos químicos designados por el gobierno, para ser considerados como tal. Se supone que cada uno de estos minerales proporcionan beneficios para la salud, además del efecto relajante para el cuerpo y la mente. Sin embargo y aunque no los tengan, es fácil encontrar variantes que, sin ser considerados *onsen*, cumplen con la misma función.
 
@@ -18,7 +18,7 @@ Los *onsen* son numerosos y muy populares en Japón, pudiendo encontrar todo tip
 
 Los mas comunes los podemos encontrar como parte de un *ryokan*, que lo ofrece para los clientes que allí se hospedan, aunque no es infrecuente permitir entradas ajenas por una módica cantidad.
 
-![Onsen 2]({filename}/images/onsen_2.jpg)
+![Onsen 2]({static}/images/onsen_2.jpg)
 
 Hay un pequeño detalle que debemos mencionar sobre la cultura japonesa: los tatuajes se asocian con la *yakuza* y suelen provocar recelo a los demás bañistas. Es por ello que la basta mayoría de *onsen* tienen prohibida la entrada este colectivo. La buena noticia si estás tatuado es que hay sitios en donde el *onsen* es privado, y al estar solo (o con tu gente), esto no es un impedimento.
 
@@ -47,6 +47,6 @@ Hay algunos comportamientos que no son adecuados, y deberían evitarse a toda co
 
 Normalmente cada *onsen* tiene sus variaciones a estas normas generales, y suelen poner carteles con las normas más básicas. Respétalas y usa el sentido común cuando no lo tengas claro. Os dejo uno de estos carteles:
 
-![Normas de un onsen]({filename}/images/onsen_manners.jpg)
+![Normas de un onsen]({static}/images/onsen_manners.jpg)
 
 ***¡Gokuraku, gokuraku!***

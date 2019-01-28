@@ -14,7 +14,7 @@ Sigo con la crónica del salón donde la dejamos. Nos quedamos en un punto en el
 * **18:00**  
 La charla de **Sadae Kasaoka** se está enfocando en relatar las muertes que se sucedían alrededor de una forma bastante asquerosa. Puede que este horror llegue al público japonés, pero creo que aquí en España no causa el mismo efecto, tal vez porque **no son de los nuestros**. Sintiéndolo mucho por la falta de respeto que supone (*gomenasai*), el asco me obliga a abandonar la sala de actos.
 
-![Charla de la superviviente de la bomba atómica]({filename}/images/charla-bomba-atomica-salon-manga-barcelona-2015.jpg)
+![Charla de la superviviente de la bomba atómica]({static}/images/charla-bomba-atomica-salon-manga-barcelona-2015.jpg)
 
 * **18:10**
 Me he decidido por visitar el palacio 4 que, además de la sala de proyecciones de la que ya he disfrutado, tiene un espacio dedicado a **Star Wars** y un taller de *cosplay*. Sinceramente, el taller de *cosplay* (y otras actividades) es bastante cutre y no estaba a la altura de otros eventos que el salón del manga ofrece habitualmente. Por suerte para mí, tuve la suerte de cruzarme con algunos de los integrantes de [White Noise](http://www.whitenoiseofficial.com/) y pude hablar con ellos un poco.

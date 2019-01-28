@@ -10,7 +10,7 @@ Los *teru teru bouzu* son muñecos tradicionales japoneses, hecho de papel o tel
 
 El *teru teru bouzu* es un amuleto japonés contra la lluvia, muy popular entre los niños, y su nombre significa "brilla, brilla, monje". Se suelen usar el día antes de una excursión o un viaje para pedir que no llueva. Otros usos comunes son durante los *matsuri* y festivales, para pedir buen tiempo durante los mismos. En caso de colgarlos del revés se estaría pidiendo todo lo contrario: que llueva.
 
-![Teru teru bouzu]({filename}/images/teru-teru-bouzu.jpg)
+![Teru teru bouzu]({static}/images/teru-teru-bouzu.jpg)
 
 Se popularizó en el periodo *Edo* (desde 24 de marzo de 1603 hasta 3 de mayo de 1868), y sigue siendo usado desde entonces, especialmente entre los niños y niñas de todo Japón.
 

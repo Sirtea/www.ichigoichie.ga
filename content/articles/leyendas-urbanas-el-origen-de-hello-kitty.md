@@ -10,7 +10,7 @@ Tags: hello kitty, demonio, pacto
 
 **Aviso**: Este artículo se basa en rumores que circulan por internet. No se ha probado ni negado su veracidad. Dejad que vuestro criterio decida si es o no cierta.
 
-![Hello Kitty]({filename}/images/hello-kitty.jpg)
+![Hello Kitty]({static}/images/hello-kitty.jpg)
 
 Como creadoras del personaje podemos encontrar muchas versiones por internet: Akito Misai, Ikaka Shimizu o Ikuko Shimizu, pero por ahora nos vamos a referir a la creadora oficial, que es Yuko Shimizu.
 
@@ -32,7 +32,7 @@ Así pues, nació la bella y dulce **Hello Kitty**, que sería la hija del demon
 
 Sobre el nombre, hay dos versiones aceptadas: la primera indica que *kitty* significa demonio y que el nombre sería la bienvenida del mismo. La segunda indica que *hello* es una contracción de *hell'o*, que significaría algo así como la gatita del infierno.
 
-![Devil Kitty]({filename}/images/devil-kitty.jpg)
+![Devil Kitty]({static}/images/devil-kitty.jpg)
 
 ## Uso en rituales y asesinatos
 

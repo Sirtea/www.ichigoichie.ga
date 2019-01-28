@@ -16,22 +16,22 @@ Sin embargo, los auténticos artistas del arte del bonsái conocen bien las téc
 
 **1 &rarr;** Ogata Bonsái en Crespi, Italia. Se le estiman más de 1000 años de antigüedad.
 
-![Bonsai 1]({filename}/images/bonsai_1.jpg)
+![Bonsai 1]({static}/images/bonsai_1.jpg)
 
 **2 &rarr;** Árbol de 800 años en Shunka-en, Japón, por Kunio Kobayashi.
 
-![Bonsai 2]({filename}/images/bonsai_2.jpg)
+![Bonsai 2]({static}/images/bonsai_2.jpg)
 
 **3 &rarr;** Bonsái Junipero de 800 años, también en Shunka-en y a la vez está catalogado como uno de los Bonsáis más caros del mundo.
 
-![Bonsai 3]({filename}/images/bonsai_3.jpg)
+![Bonsai 3]({static}/images/bonsai_3.jpg)
 
 **4 &rarr;** Un pino blanco llamado "Third shogun" con una edad estimada de 550 años. Se encuentra en el "Omichi Teien Garden" en el palacio imperial, en Japón.
 
-![Bonsai 4]({filename}/images/bonsai_4.jpg)
+![Bonsai 4]({static}/images/bonsai_4.jpg)
 
 **5 &rarr;** El Pino Blanco Japonés de 400 años que sobrevivió a la Bomba de Hiroshima. Criado por la familia Yamaki, fue donado al Museo Nacional de Bonsái & Penjing en Washington, EE.UU.
 
-![Bonsai 5]({filename}/images/bonsai_5.jpg)
+![Bonsai 5]({static}/images/bonsai_5.jpg)
 
 **¿No os apetece tener uno en casa?**

@@ -8,7 +8,7 @@ Tags: receta, curry, arroz
 
 No es un secreto que me encanta la comida japonesa; especialmente aquella que tiene una base de arroz. Como no podía ser de otra manera, el arroz con curry ocupa un lugar especial en mi corazón, y es un plato que no es tan difícil de hacer como pueda parecer.
 
-![Plato de curry]({filename}/images/plato-de-curry.jpg)
+![Plato de curry]({static}/images/plato-de-curry.jpg)
 
 ## El curry en Japón
 

@@ -10,7 +10,7 @@ En épocas como esta, el calor aprieta especialmente, tanto en Japón como en nu
 
 El *kakigori* es el helado japonés por excelencia. Se trata de un recipiente con hielo raspado, sobre el que se pone una generosa cantidad de siropes de colores y sabores varios. Los sabores mas populares son el sirope de fresa, de melón o de té verde.
 
-![Kakigori]({filename}/images/kakigori.jpg)
+![Kakigori]({static}/images/kakigori.jpg)
 
 La verdad es que se parece mas a un granizado que a un helado, excepto porque se toma con cuchara, en vez de una caña. De hecho, dependiendo del establecimiento, lo acompañan con leche condensada, pasta de judía roja o tapioca.
 

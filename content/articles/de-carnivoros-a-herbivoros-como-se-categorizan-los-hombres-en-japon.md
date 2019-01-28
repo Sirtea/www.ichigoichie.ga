@@ -8,7 +8,7 @@ Tags: hombres, carnívoros, herbívoros
 
 Los medios populares de Japón hace tiempo que utilizan diferentes expresiones para describir a los hombres, como los *Nikushoku Danshi* (hombres carnívoros) o los *Nikushoku Danshi* (hombres herbívoros). Estas etiquetas no se refieren a lo que comen los hombres, sino a sus preferencias en las relaciones con el sexo contrario.
 
-![Soshoku Danshi]({filename}/images/soshoku_danshi.jpg)
+![Soshoku Danshi]({static}/images/soshoku_danshi.jpg)
 
 Aquí os ponemos una lista de algunas de las categorías, de forma que cuando las escuchéis o las leáis no os vengan de nuevo.
 

@@ -20,6 +20,6 @@ En este blog pretendo dejar constancia de aquellos temas que atraen mi interés 
 
 Espero que os guste y os agradezco la visita.
 
-![Aki - Kuma]({filename}/images/aki_kuma.jpeg)
+![Aki - Kuma]({static}/images/aki_kuma.jpeg)
 
 ***Aki Miyagawa***

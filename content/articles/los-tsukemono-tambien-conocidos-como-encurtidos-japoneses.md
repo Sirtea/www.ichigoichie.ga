@@ -12,7 +12,7 @@ El origen del *tsukemono* se remonta muy atrás en la historia de Japón, antes 
 
 Los ingredientes mas utilizados para elaborar *tsukemono* van desde las verduras como el *daikon*, pepino, col, zanahoria, berenjena, jengibre, hasta frutas como las ciruelas japonesas encurtidas llamadas *umeboshi*.
 
-![Variedades de tsukemono]({filename}/images/variedades_de_tsukemono.jpg)
+![Variedades de tsukemono]({static}/images/variedades_de_tsukemono.jpg)
 
 Los métodos de elaboración mas populares son los siguientes:
 

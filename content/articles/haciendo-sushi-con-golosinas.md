@@ -14,11 +14,11 @@ La idea es muy simple: los caramelos tipo nube cortados me sirvieron como rollos
 
 Os dejo la imagen de lo que me quedó en el tercer intento, que fue el único presentable:
 
-![Sushi de golosinas casero]({filename}/images/sushi-de-gominolas-casero.jpg)
+![Sushi de golosinas casero]({static}/images/sushi-de-gominolas-casero.jpg)
 
 Y justo cuando ya iba a tirar la toalla me di cuenta de que se están volviendo tremendamente populares; se pueden encontrar en muchos sitios de internet e incluso en otra [conocida cadena de caramelos](/spam.html), de la que os incluyo su cartel publicitario.
 
-![Sushi de golosinas comercial]({filename}/images/sushi-de-gominolas-comercial.jpg)
+![Sushi de golosinas comercial]({static}/images/sushi-de-gominolas-comercial.jpg)
 
 Y con esto damos por acabada la sesión de gula de hoy.
 

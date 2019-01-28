@@ -24,6 +24,6 @@ Su deseo no fue otro que curarse de la enfermedad, así que se puso a doblar 1.0
 
 Años mas tarde del deceso de Sadako, lo niños de la ciudad de *Hiroshima* dedicaron una estatua de ella con una grulla en su mano, que se encuentra en el Parque de la Paz en la misma ciudad, colindante a la zona cero de la explosión. En la cercanía de la estatua hay urnas de cristal rellenas de grullas de papel, siendo estas renovadas por otras grullas, que son llevadas por otros niños en las excursiones escolares a la ciudad.
 
-![Parque de la Paz Hiroshima]({filename}/images/parque-de-la-paz-hiroshima.jpg)
+![Parque de la Paz Hiroshima]({static}/images/parque-de-la-paz-hiroshima.jpg)
 
 ***Recordemos esas atrocidades para que no se nos ocurra nunca repetirlas.***

@@ -13,7 +13,7 @@ El elegido es un plato de verduras de invierno, pero como podréis comprobar, es
 **Tiempo de preparación**: 10-15 minutos  
 **Tiempo de cocción**: 20-25 minutos (con el caldo previamente hecho)
 
-![Nimono, plato final]({filename}/images/nimono_final.jpg)
+![Nimono, plato final]({static}/images/nimono_final.jpg)
 
 Se trata de un plato de acompañamiento, que va muy bien como parte de una comida con sopa, arroz y varios platos adicionales.
 
@@ -50,13 +50,13 @@ Se trata de un plato de acompañamiento, que va muy bien como parte de una comid
 11. Aparte, hervimos nuestras judías, guisantes o *edamames* aparte, para tenerlos listos en el paso final, para montar el plato.
 12. Montamos un platillo con algunos vegetales de los que hemos hervido, de forma atractiva. Añadimos una cucharada del líquido en que los hemos hervido y finalmente decoramos con las judías.
 
-![Nimono, paso 1]({filename}/images/nimono_paso1.jpg)
+![Nimono, paso 1]({static}/images/nimono_paso1.jpg)
 
-![Nimono, paso 2]({filename}/images/nimono_paso2.jpg)
+![Nimono, paso 2]({static}/images/nimono_paso2.jpg)
 
-![Nimono, paso 3]({filename}/images/nimono_paso3.jpg)
+![Nimono, paso 3]({static}/images/nimono_paso3.jpg)
 
-![Nimono, paso 4]({filename}/images/nimono_paso4.jpg)
+![Nimono, paso 4]({static}/images/nimono_paso4.jpg)
 
 **TRUCO**: Si no usamos todo el **nimono**, lo podemos dejar en el frigorífico con su propia salsa. El sabor mejora con el tiempo y te puede durar el cocido para 3 o 4 días.
 

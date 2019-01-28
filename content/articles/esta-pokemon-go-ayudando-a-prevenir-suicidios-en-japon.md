@@ -8,7 +8,7 @@ Tags: pokemon go, suicidios, decremento
 
 Mientras que la prensa local e internacional no para de advertirnos de los peligros a los que no somete el adictivo juego para móviles, y de las muertes que han sido causado por el mismo, existe una sitio en Japón en donde el juego ha tenido un impacto muy positivo.
 
-![Tojinbo, prefectura de Fukui 1]({filename}/images/tojinbo_fukui_1.jpg)
+![Tojinbo, prefectura de Fukui 1]({static}/images/tojinbo_fukui_1.jpg)
 
 De acuerdo con un reportaje del programa matinal *Mezamashi Terebi* de **Fuji Television**, existe un famoso punto de suicido en la prefectura de *Fukui*, conocido como *Tojinbo*, que ha visto un decrecimiento en el número de suicidios.
 
@@ -16,7 +16,7 @@ La gente indica que tal debacle en el número de suicidios llega de la mano de l
 
 La razón de tal popularidad con los *gamers* es el hecho de que es una de las pocas *pokeparadas* en la región, atrayendo a multitudes de gente que vienen de lejos para buscar y cazar algunos raros ejemplares. 
 
-![Tojinbo, prefectura de Fukui 2]({filename}/images/tojinbo_fukui_2.jpg)
+![Tojinbo, prefectura de Fukui 2]({static}/images/tojinbo_fukui_2.jpg)
 
 Uno de los residentes locales es un oficial de policía retirado llamado *Yukio Shige*, que es conocido por patrullar el área con un grupo de voluntarios. Se dedican a evitar suicidios, buscando a gente que parece que haya venido a los acantilados para quitarse la vida. Según *Shige*, su iniciativa a ayudado a prevenir mas de 500 suicidios en 11 años.
 

@@ -10,7 +10,7 @@ Algunos de vosotros ya habéis tenido la oportunidad de probar algunos tés japo
 
 Cuando hablamos de tés japoneses, solemos encontrarnos en que no distinguen la variedad o calidad del té de su forma de preparación, pudiendo crear tés como el *genmaicha* a partir de cualquier calidad, sea *sencha* o *bancha*.
 
-![Tipos de té japonés]({filename}/images/tipos-te-japones.jpg)
+![Tipos de té japonés]({static}/images/tipos-te-japones.jpg)
 
 ## Tipos de té
 
@@ -33,7 +33,7 @@ Como podéis ver, un té se elije normalmente pensando en su calidad y en la for
 * **Genmaicha**: Este té es el producto de mezclar *sencha* o *bancha* con arroz tostado, con proporciones variables según el proveedor. Esto le da un sabor a cereal tostado y cierta capacidad para calmar el hambre.
 * **Hojicha**: Este té se consigue tostando *sencha*, *bancha* o *kukicha*. el resultado es un té de color marrón, con un sabor a nuez tostada y muy bajo en cafeína.
 
-![Clasificación té japonés]({filename}/images/clasificacion-te-japones.jpg)
+![Clasificación té japonés]({static}/images/clasificacion-te-japones.jpg)
 
 ## Mi elección personal
 

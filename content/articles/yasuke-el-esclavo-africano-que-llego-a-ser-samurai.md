@@ -12,7 +12,7 @@ Así lo cuenta la [Histoire ecclesiastique des isles et royaumes du Japon](https
 
 Dice **Solier** que **Yasuke** llegó al archipiélago oriental como sirviente del italiano **Alessandro Valignano**, uno de los misioneros de la **Compañía de Jesús** que, junto a varios compañeros de orden, fue enviado allí en 1579 como visitador de las Indias para intentar inculcar el sacerdocio a los japoneses. Con vistas a integrarse y ser aceptados, los jesuitas tenían la norma de adoptar las costumbres locales y por eso llevaban un nivel de vida alto, intentando atraer a las clases acomodadas como espejo para las demás, de ahí que poseer sirvientes fuera habitual.
 
-![Compañía de Jesús]({filename}/images/compania-de-jesus.jpg)
+![Compañía de Jesús]({static}/images/compania-de-jesus.jpg)
 
 El de **Valignano** era un joven esclavo musulmán mozambiqueño. Algunos estudiosos sugieren que era *makua* (un grupo étnico de origen bantú que habitaba en la región de Mozambique, donde los portugueses habían instaurado una colonia) y, por tanto, su nombre original probablemente sería **Yasufe**, conservando posteriormente la raíz *Yao* pero sustituyendo la terminación por el sufijo nipón *suke*. En 1581 llegaron a la capital y el esclavo causó sensación, no sólo por su formidable apariencia (según el cronista **Matsudaira Ietada** medía unos 6 *shakus*, equivalente a 1,88 metros, y se le describió tan fuerte como una decena de hombres) sino, sobre todo, por el negro tono de su piel, por entonces casi insólita por aquellos lares.
 
@@ -20,7 +20,7 @@ Allí le conoció **Oda Nobunaga**, un poderoso *daimyo* (señor feudal) que, as
 
 El *daimyo* se lo llevó consigo al castillo de *Azuchi* con el objetivo de entrenarlo para que fuera su guardaespaldas. Se supone que fue allí donde se japonizó el nombre de **Yasuke** y donde su relación con su nuevo señor se fue estrechando; dado que **Nobunaga** no hablaba portugués, se supone que el africano había conseguido chapurrear el idioma lo suficiente para entenderse. Eso y sus progresos en el aprendizaje de las técnicas guerreras y el código del *bushido* le hicieron ir escalando puestos hasta tener vivienda propia y recibir una preciada *katana*, la espada que le identificaba como *samurai*.
 
-![Yasuke samurai]({filename}/images/yasuke-samurai.jpg)
+![Yasuke samurai]({static}/images/yasuke-samurai.jpg)
 
 Ese verano de 1582 **Nobunaga** fue traicionado por uno de sus generales, **Akechi Mitsuhide**, alias **Jubéi**, quien le consideraba responsable de la muerte de su madre. **Mitsuhide** sorprendió a **Nobunaga** en el templo de *Honnō-ji* (Kioto), en lo que constituyó un auténtico golpe de estado, y le obligó a hacerse el *seppuku* (suicidio ritual). Ello desató un nuevo capítulo de aquel período conocido como *Sengoku* y caracterizado por las continuas luchas que los *daimyos* mantenían desde 1467 por hacerse con el poder total y que no terminarían de forma definitiva hasta 1615 con la instauración del *Período Edo*. Dispuesto a vengar a su señor, **Yasuke** se unió a las fuerzas del hijo de **Nobunaga**, **Oda Nobutada**, en el castillo de *Nijo*.
 

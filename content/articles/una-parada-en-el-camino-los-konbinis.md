@@ -8,7 +8,7 @@ Tags: konbini
 
 Es la una de la madrugada y estás perdido en alguna calle lateral de una gran ciudad. Tal vez estés sediento, necesites un paraguas o simplemente te apetece algo dulce... No te agobies! Los *konbinis* están para salvarte. La palabra es una abreviatura para *convenience store* y abren 24x7 horas.
 
-![Tienda Lawson]({filename}/images/lawson_store.jpg)
+![Tienda Lawson]({static}/images/lawson_store.jpg)
 
 No es una exageración decir que sería posible vivir de un *konbini*. Esta es una guía corta de como comprar y hacerlo todo a menos de 10 minutos de tu localización.
 
@@ -20,7 +20,7 @@ Se dice que en Japón hay un *konbini* por cada 2000 habitantes. Están literalm
 
 El propósito primario de un *konbini* es la venta de productos de consumo rápido; mayormente tienen *bentos*, *ramen* instantáneo, *onigiris* y bebida, aunque también tienen sandwiches, ensaladas, verduras o dulces. De hecho, si compras comida te la pueden calentar e incluso tienen zonas en donde te puedes sentar a comer.
 
-![Estante de comida]({filename}/images/estante-de-comida.jpg)
+![Estante de comida]({static}/images/estante-de-comida.jpg)
 
 La temporada del año también influye en los productos de los que disponen, con helado en verano, o *oden* en invierno; en general los japoneses son muy aficionados de los productos estacionales, lo que hace que los *konbinis* renueven mensualmente su línea de productos, ofreciendo rarezas como *snacks* con sabor a cerezos florecidos en primavera, pasteles de castañas en otoño, etc.
 

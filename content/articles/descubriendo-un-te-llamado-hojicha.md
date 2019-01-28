@@ -24,7 +24,7 @@ Se trata de un té bueno para el consumo diario, y resulta económico. Se trata 
 
 Se dice que el origen de este té se remonta a tiempos remotos. Los arbustos de té se podaban después de la cosecha y recogían los restos: hojas rotas y tallos sobrantes. Estos se tostaban para maximizar el sabor. Actualmente, se tuesta directamente el té **sencha**.
 
-![Hojas de hojicha]({filename}/images/hojas-de-hojicha.jpg)
+![Hojas de hojicha]({static}/images/hojas-de-hojicha.jpg)
 
 ## La hora del veredicto
 
@@ -37,7 +37,7 @@ Tras abrir el envase y apreciar el magnífico olor tostado, procedí a prepararm
 * Esperamos el tiempo de infusión recomendado (de unos 15 a unos 45 segundos).
 * Lo servimos en una taza apropiada (idealmente una *yunomi*).
 
-![Taza de hojicha]({filename}/images/taza-de-hojicha.jpg)
+![Taza de hojicha]({static}/images/taza-de-hojicha.jpg)
 
 Lo primero que me sorprende de este té es que la temperatura y el tiempo de infusión no importan. No se puede preparar mal ni queriendo; en mi caso, como soy olvidadiza, llegué a tomarme una taza después de tenerla en infusión varios minutos. No hay manera de que amargue; el sabor sigue siendo excelente.
 

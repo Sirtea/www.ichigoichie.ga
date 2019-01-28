@@ -12,7 +12,7 @@ Este día se introdujo como una maniobra comercial, que se ha convertido en una 
 
 Como ya sabemos, cuando los japoneses se toman algo en serio, se lo toman *muy en serio*. No es de extrañar que desde nuestro punto de vista, en vez de verlo como el **día de los enamorados**, lo vemos mas como el **día de los enamorados al chocolate**.
 
-![Chocolate por amor]({filename}/images/san-valentin-japon.jpg)
+![Chocolate por amor]({static}/images/san-valentin-japon.jpg)
 
 ## Historia del apadrinamiento de la festividad
 

@@ -19,11 +19,11 @@ La falta de tiempo ha ido apretando, hasta el punto que no me da tiempo a cocina
 * Restos de comidas sobrantes
 * Comidas hechas, pensadas para racionar
 
-![Arroz congelado]({filename}/images/arroz-congelado.jpg)
+![Arroz congelado]({static}/images/arroz-congelado.jpg)
 
-![Broccoli congelado]({filename}/images/broccoli-congelado.jpg)
+![Broccoli congelado]({static}/images/broccoli-congelado.jpg)
 
-![Katsu congelado]({filename}/images/katsu-congelado.jpg)
+![Katsu congelado]({static}/images/katsu-congelado.jpg)
 
 
 ## Ideas para nuestra despensa
@@ -46,6 +46,6 @@ Partiendo de estas raciones, no es nada difícil montar un *bento*, seleccionand
 
 Con una parte de cada grupo, podemos montar un obento como el que sigue; solo hay que tener la precaución de ir llenando la despensa de vez en cuando.
 
-![Obento rápido]({filename}/images/obento-rapido.jpg)
+![Obento rápido]({static}/images/obento-rapido.jpg)
 
 ***Itadakimasu!***

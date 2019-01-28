@@ -8,7 +8,7 @@ Tags: receta, kaarage, tofu, rebozado
 
 Hace tiempo conozco un plato de pollo rebozado japonés llamado **karaage**. Últimamente he estado coqueteando con la comida vegetariana y vegana, aunque la voy añadiendo de forma gradual a mi dieta habitual; por lo tanto me pareció natural probar una versión basada en **tofu** del plato que tanto me gusta.
 
-![Kaarage de tofu]({filename}/images/tofu-kaarage.jpg)
+![Kaarage de tofu]({static}/images/tofu-kaarage.jpg)
 
 La principal diferencia entre el plato occidental y el japonés reside en que el pollo se marina con salsa de soja, jengibre y ajo, para acabar rebozado en harina de patata antes de ser frito. Esto es especialmente interesante, ya que el **tofu** no sabe a nada por sí solo, y el sabor debe absorberlo de un marinado previo.
 

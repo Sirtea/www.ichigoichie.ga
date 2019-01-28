@@ -14,13 +14,13 @@ La palabra *hanami* en si misma indica de que se trata esta celebración: se com
 
 Durante este periodo, los japoneses acuden en masa, en grupos familiares, de trabajo o de amigos para disfrutar de un picnic a los pies de las efímeras flores. De hecho, muchos de los lugares mas concurridos exigen reservar un lugar desde primeras horas de la mañana, mediante un mantel o una manta.
 
-![Hanami 1]({filename}/images/hanami_1.jpg)
+![Hanami 1]({static}/images/hanami_1.jpg)
 
-![Hanami 2]({filename}/images/hanami_2.jpg)
+![Hanami 2]({static}/images/hanami_2.jpg)
 
 El *hanami* puede prolongarse hasta la noche, momento en que los templos y parques se iluminan iluminan con farolillos. Entonces pasa a denominarse *yozakura*.
 
-![Hanami 3]({filename}/images/hanami_3.jpg)
+![Hanami 3]({static}/images/hanami_3.jpg)
 
 Inicialmente se trataba de un entretenimiento aristocrático, que durante la época **Edo** se extendió a toda la clase *samurai*. Estas flores representaban el ideal *samurai*, que además era el símbolo que les representaba. Su máxima aspiración era morir en la batalla en el momento de máximo esplendor, y no llegar nunca a envejecer, evitando "marchitarse".
 

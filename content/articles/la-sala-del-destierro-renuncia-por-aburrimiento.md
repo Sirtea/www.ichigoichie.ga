@@ -18,7 +18,7 @@ El hombre se negó a aceptar una oferta de jubilación anticipada de la compañ�
 
 En realidad, el enfrentamiento de este señor es el mismo que tienen los trabajadores y las grandes corporaciones por las prácticas de contratación y despido en Japón, donde el empleo durante toda la vida ha sido la norma y donde los despidos a gran escala siguen siendo **un tabú social**.
 
-![Japanese Salary Men]({filename}/images/japanese-salary-men.jpg)
+![Japanese Salary Men]({static}/images/japanese-salary-men.jpg)
 
 Desde el 2013, **Sony** quiere cambiar eso. De hecho, la empresa dijo que no estaba haciendo nada malo con la colocación de los empleados en lo que ellos llaman **Career Design Rooms**. Los empleados reciben consejos para encontrar nuevos trabajos, ya sea en el grupo de **Sony**, o en otra compañía.
 

@@ -10,7 +10,7 @@ Con el cine nipón en pleno asalto internacional, se cumple el vigésimo anivers
 
 Paradójicamente, Japón apenas repara en el aniversario del más conocido, más influyente y probablemente más temido de los directores de cine japoneses, cuya trayectoria le valió el sobrenombre de *el emperador* y un óscar honorífico en 1990 por títulos como **Ran**, **Los siete samurais** y **Kagemusha** (y otros dos por "mejor película extranjera" en **Rashomon** y **Dersu Uzala**).
 
-![Akira Kurosawa]({filename}/images/akira-kurosawa.jpg)
+![Akira Kurosawa]({static}/images/akira-kurosawa.jpg)
 
 Hoy en día, autores como **Masayuki Suo** y **Hideo Nakata** ruedan en Hollywood y **Takeshi Kitano** disfruta del amor incondicional de los festivales europeos, pero hace ya mucho tiempo fue **Kurosawa** quien por primera vez atrajo la atención del mundo hacia el cine japonés.
 

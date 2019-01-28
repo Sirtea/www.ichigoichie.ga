@@ -10,7 +10,7 @@ Finalmente ha llegado el frío y nos vuelven a apetecer los platos de cuchara. S
 
 Realmente, la sopa de miso tiene solo dos ingredientes básicos, que son el caldo y la pasta de *miso*; otros ingredientes que la gente suele poner son *tofu*, algas, cebolleta o puerro (es una receta altamente adaptable, así que podéis poner gambas, cerdo o setas). Dependiendo del color del miso usado, la sopa sale mas o menos salada.
 
-![Sopa de miso]({filename}/images/miso-shiru.jpg)
+![Sopa de miso]({static}/images/miso-shiru.jpg)
 
 Se dice que tiene tantas recetas como cocineros, debido a la variedad de gustos personales. Cuenta la leyenda que una novia tiene que aprender a prepararle a su futuro marido la receta, tal como se la hacía su madre, antes de contraer matrimonio.
 

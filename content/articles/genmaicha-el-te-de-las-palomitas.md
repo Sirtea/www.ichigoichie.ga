@@ -14,7 +14,7 @@ Como hoy el precio del té ha bajado sustancialmente, esta práctica ya no tiene
 
 Lo mas llamativo al abrir el paquete de té, es ver como algunos de los granos de arroz tostado ha explotado y es una versión enana de una palomita de maíz. El olor no engaña; huelen exactamente igual.
 
-![Hojas de genmaicha]({filename}/images/hojas-de-genmaicha.jpg)
+![Hojas de genmaicha]({static}/images/hojas-de-genmaicha.jpg)
 
 Algunas de las versiones de la mezcla añaden *matcha* (té verde en polvo), recibiendo esta mezcla el nombre de *matcha-iri genmaicha*. Este añadido le da un sabor mas fuerte a té y un color mas verde.
 
@@ -28,7 +28,7 @@ El procedimiento de la infusión no es diferente al de otros tés japoneses. Los
 
 **TRUCO**: Este té es magnífico como té frío; basta con verter sobre cubitos de hielo. En este caso se recomienda incrementar un poco la cantidad de té y doblar el tiempo de infusión, para contrarrestar el hielo derretido.
 
-![Taza de genmaicha]({filename}/images/taza-de-genmaicha.jpg)
+![Taza de genmaicha]({static}/images/taza-de-genmaicha.jpg)
 
 El color de la infusión resultante es de un color amarillo claro. El sabor es suave y me recuerda a los cereales comerciales que suelo tomar por la mañana.
 

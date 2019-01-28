@@ -10,7 +10,7 @@ Muchas veces, viendo animes en las que hay parejitas, me viene a la cabeza la le
 
 Para los japoneses, que saben tanto e intuyen más, las relaciones humanas están predestinadas por un hilo rojo que los dioses atan a los dedos meñiques de aquellos que se encontrarán en la vida. De acuerdo a la leyenda, las dos personas conectadas por este hilo tendrán una historia importante, sin importar el lugar, el tiempo o las circunstancias. El hilo rojo se puede enredar, contraer y estirar, como seguramente a menudo ocurre, pero nunca se puede romper.
 
-![Hilo rojo del destino]({filename}/images/hilo-rojo-del-destino-1.jpg)
+![Hilo rojo del destino]({static}/images/hilo-rojo-del-destino-1.jpg)
 
 Esta leyenda, tanto más estética que la de las almas gemelas, surge cuando se descubre que la arteria cubital conecta el corazón con el dedo meñique (que es la misma razón por la que en tantas culturas se cierran promesas al entrelazar este dedo con el de otra persona). La delgada vena que va del corazón a la mano se extiende por el mundo invisible para terminar su curso en el corazón de alguna otra persona.
 
@@ -22,7 +22,7 @@ Una de las leyendas japonesas en torno a esto cuenta que un anciano que vive en 
 
 En el cine hay dos momentos memorables que rinden tributo a la estética sutil y mistérica de este hilo rojo conductor: la primera es la película *Dolls*, de *Takeshi Kitano*, y la segunda es *Sayonara*, de *Joshua Logan*. En ambas nos enteramos al final que las parejas estaban unidas por el hilo rojo del destino, y que todo lo que sucedió antes no fue sino una trama por la ruta del hilo que acabaría por reunirlos. “Journeys end in lovers meeting”, decía *William Shakespeare*.
 
-![Hilo rojo del destino]({filename}/images/hilo-rojo-del-destino-2.jpg)
+![Hilo rojo del destino]({static}/images/hilo-rojo-del-destino-2.jpg)
 
 Todas las culturas se han planteado qué es lo que gobierna el rumbo individual de cada hombre, y entre ellas muchas han concebido un hilo astronómico que predice sus caminos. Pensemos en las *Moiras* de los griegos, que sostienen un hilo de oro por cada hombre en la tierra y a su muerte lo cortan de tajo, o en el hilo, también rojo por cierto, de la cábala, que conecta a los creyentes con la Tierra Santa de Jerusalén. Es lógico pensar que si la vida se concibe como un gran texto (del latín textus: tejido, enlace), los hilos sean la materia prima del hombre para entramar su acontecer diario. “Perder el hilo” es ya una expresión universal para referirse al extravío práctico o incluso existencial.
 

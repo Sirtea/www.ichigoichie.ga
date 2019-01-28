@@ -10,7 +10,7 @@ Siempre me han encantado los suelos con *tatami*. Se trata de esteras japonesas 
 
 Tradicionalmente se hacían con tejido de paja, y se embalaban con ese mismo material. En la actualidad pueden también elaborarse con poliestireno expandido aunque, al menos en Japón, no es lo más habitual. El borde de cada estera se recubre con un brocado, o simplemente con tela verde oscura o directamente negra.
 
-![Habitación con tatami]({filename}/images/tatami_habitacion.jpg)
+![Habitación con tatami]({static}/images/tatami_habitacion.jpg)
 
 ## Medidas
 
@@ -28,7 +28,7 @@ Gracias a este tamaño estándar, se puede estimar el tamaño de una casa o una 
 * **6 _tatami_** &rarr; 2,7 por 3,6 metros
 * **8 _tatami_** &rarr; 3,6 por 3,6 metros
 
-![Tamaños de habitaciones con tatami]({filename}/images/tatami_tamanos.gif)
+![Tamaños de habitaciones con tatami]({static}/images/tatami_tamanos.gif)
 
 Por ejemplo, las tiendas son tradicionalmente diseñadas para medir 5,5 *tatami*, mientras que las casas de té suelen medir 4,5 *tatami*.
 
@@ -41,7 +41,7 @@ Hay algunas reglas sobre como colocar los *tatami* en una habitación: habian di
 
 Una imagen vale más que mil palabras... La forma "propicia" es la primera columna, mientras que la segunda es la forma "no propicia":
 
-![Disposición de tatamis]({filename}/images/tatami_disposicion.jpg)
+![Disposición de tatamis]({static}/images/tatami_disposicion.jpg)
 
 Hoy en dia solamente se ponen *tatami* en algunas de las habitaciones. Estas sirven como habitaciones para agasajar a los invitados, para relajación, para ceremonias o simplemente para actividaes tradicionales como el *ikebana* o la ceremonia del té. A estas habitaciones se las conece como *washitsu*, o en español, "habitaciones de estilo japonés".
 

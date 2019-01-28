@@ -15,7 +15,7 @@ El lugar se llama **Amazing Toko** y es un *mix* entre bar-cafetería y supermer
 
 Si bien el sitio me gustaba para cenar, ví que tenían *onigiris*, y este fue el motivo de peso para sentarme a cenar, acompanándolos de un té de bolas de tapioca. Más información en su [página web](http://amazingtoko.es/).
 
-![Menú amazing Toko]({filename}/images/menu_amazing_toko.jpg)
+![Menú amazing Toko]({static}/images/menu_amazing_toko.jpg)
 
 Si algún día os pasáis por Valencia, no os perdáis la oportunidad de parar, aunque solo sea a curiosear. Os dejo el mapa.
 

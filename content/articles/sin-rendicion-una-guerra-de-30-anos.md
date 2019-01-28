@@ -12,7 +12,7 @@ La rendición estaba siempre fuera de la mesa. No era una opción porque suponí
 
 El 15 de agosto, Japón anunció su rendición. El 2 de septiembre se firmó la Declaración de *Potsdam*. La Segunda Guerra Mundial había terminado para todos los países implicados. Excepto para el teniente **Hiroo Onoda**, oficial de inteligencia del ejército imperial.
 
-![Hiroo Onoda de joven]({filename}/images/onoda-young.jpg)
+![Hiroo Onoda de joven]({static}/images/onoda-young.jpg)
 
 **AVISO**: No quiero entrar a valorar en este artículo sobre quien eran los buenos o los malos, o sobre si las acciones de **Onoda** eran legítimas o no; solo quiero recalcar su inquebrantable determinación, la gran lealtad a la causa que consideraba legítima y su coraje.
 
@@ -28,7 +28,7 @@ Del grupo de soldados a las órdenes de **Hiroo Onoda**, uno (el soldado **Yuich
 
 Un estudiante llamado **Norio Suzuki** se propuso buscar a **Onoda** en la isla filipina en 1974. Tras encontrarlo, no logró convencerle de que volviera a casa. No hasta que se lo ordenaran sus superiores. **Suzuki** tuvo que rastrear al mayor **Yoshimi Taniguchi** (su superior directo) y traerle de vuelta a *Lubang*. Ahí consiguieron convencerle de que depusiera las armas.
 
-![Hiroo Onoda de viejo]({filename}/images/onoda-old.jpg)
+![Hiroo Onoda de viejo]({static}/images/onoda-old.jpg)
 
 El presidente de Filipinas le otorgó un perdón presidencial por sus crímenes, al considerar que los había realizado creyendo estar en guerra. **Onoda** volvió a su Japón natal y fue recibido como un héroe. La perseverancia en el cumplimiento del deber era un valor que se estaba perdiendo en esta sociedad moderna.
 

@@ -18,15 +18,15 @@ Se han hecho tres modelos, representando 3 tipos de *sushi* clásicos:
 
 Os pongo las fotos:
 
-![Kitkat sushi de atún]({filename}/images/kitkat-sushi-atun.jpg)
+![Kitkat sushi de atún]({static}/images/kitkat-sushi-atun.jpg)
 
-![Kitkat sushi de tortilla]({filename}/images/kitkat-sushi-tortilla.jpg)
+![Kitkat sushi de tortilla]({static}/images/kitkat-sushi-tortilla.jpg)
 
-![Kitkat sushi de erizo]({filename}/images/kitkat-sushi-erizo.jpg)
+![Kitkat sushi de erizo]({static}/images/kitkat-sushi-erizo.jpg)
 
 Desgraciadamente, esta *delicatessen* era una promoción activa desde el 2 de febrero hasta en 4 del mismo mes. Se pudieron adquirir por 3000 yenes (unos 24 euros) la pieza.
 
 Y como avanzamos en el primer párrafo del artículo todo esto se inspiró en una broma de *april's fool day*, que os dejamos también en este artículo. Hay que admitir que fue una broma de muy buen gusto.
 
-![Kitkat sushi - broma original]({filename}/images/kitkat-sushi-broma-original.jpg)
+![Kitkat sushi - broma original]({static}/images/kitkat-sushi-broma-original.jpg)
 

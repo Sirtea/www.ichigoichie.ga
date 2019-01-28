@@ -10,7 +10,7 @@ Es bien conocido lo muy saludable que resulta la comida japonesa. Gran parte de 
 
 En este caso, la verdura que vamos a hacer es el pepino, pero el título indica erróneamente que la ensalada es de pepino; *sunomono* significa "algo en vinagre". Así pues, sed creativos y hacedlo con las verduras que prefiráis, o simplemente las que tengáis a mano.
 
-![Sunomono]({filename}/images/sunomono.jpg)
+![Sunomono]({static}/images/sunomono.jpg)
 
 ## Ingredientes (para 2 personas)
 

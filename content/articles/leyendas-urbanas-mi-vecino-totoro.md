@@ -12,7 +12,7 @@ Tras el éxito económico que supuso su coprotagonista se convirtió rápidament
 
 Las aventuras de las hermanas *Satsuki* y *Mei* empiezan tras el traslado al campo de su padre cuando conocen a los *Totoros*, que son espíritus benévolos del bosque. Sin duda, una película para todos los públicos, con un final feliz. Sin embargo pesa una terrible leyenda urbana sobre el final y el significado real de la película, que os hará replantearos muchas cosas la siguiente que la volváis a ver, si es que lo hacéis....
 
-![Mi vecino Totoro]({filename}/images/tonari-no-totoro.jpg)
+![Mi vecino Totoro]({static}/images/tonari-no-totoro.jpg)
 
 **AVISO**: A partir de aquí hay muchos *spoilers*. Si no la has visto y pretendes hacerlo, detente aquí.
 
@@ -20,7 +20,7 @@ Según dicha leyenda urbana, las dos hermanas están muertas para el final de la
 
 Según esta versión, *Totoro* es algo más que un espíritu benévolo del bosque, que planta semillas, hace crecer los árboles y se deja ver con niños inocentes y puros de corazón; se trata en realidad de un *shinigami*, un dios de la muerte que se aparece a las personas que están a punto de morir. El *nekobasu* sería su transporte al otro mundo. Cuando *Satsuki* entra en el bosque, se supone que ya está muerta y va a encontrarse con el *shinigami*, para que la lleve junto a su hermana.
 
-![Shinigami Totoro]({filename}/images/totoro-shinigami.jpg)
+![Shinigami Totoro]({static}/images/totoro-shinigami.jpg)
 
 Al final de la película, la madre de las niñas afirma que le ha parecido haber visto por un momento a *Mei* y a *Satsuki* en la rama de un árbol, riéndose. Esto se debe a que ella también está a punto de morir, debido a su enfermedad terminal, y por lo tanto puede ver por un instante a sus hijas, también muertas. El *nekobasu* les ha permitido acercarse al hospital para despedirse de sus padres por última vez.
 

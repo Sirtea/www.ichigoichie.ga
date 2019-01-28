@@ -12,7 +12,7 @@ Lo que poca gente parece pararse a pensar es que el arroz blanco combina con abs
 
 Una de estas ideas es el *hanami gohan*, que consiste en decorar el arroz -sin quitarle el protagonismo- a base de guisantes o *edamame*. Tan simple y efectivo como juntarlo con una cantidad moderada de otros elementos que le den color, sabor, y un poco de vida.
 
-![Bento hanami gohan]({filename}/images/bento_hanami_gohan.jpg)
+![Bento hanami gohan]({static}/images/bento_hanami_gohan.jpg)
 
 ## Ingredientes (para 4 comensales)
 

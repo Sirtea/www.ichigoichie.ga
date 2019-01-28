@@ -12,7 +12,7 @@ Para mi, el libro de *Marie Kondo*, "La magia del orden", fue todo un descubrimi
 
 Su método es el **método Konmari**, y me ha ayudado no solo con mi armario sino en todas las áreas de mi hogar, pero sobretodo me ha ayudado a dejar atrás una parte de mi que no me gustaba, esa parte acumuladora y consumista que todas tenemos en mayor o menor medida.
 
-![Konmari - libro]({filename}/images/konmari-libro.jpg)
+![Konmari - libro]({static}/images/konmari-libro.jpg)
 
 Desde luego que no comparto todas las ideas de este método, pero la esencia creo que es muy buena, ahora ya no guardo tanto "por si acaso", y sobretodo pienso muy bien lo que entra nuevo en mi casa, para no comprar por comprar.
 
@@ -62,7 +62,7 @@ El famoso doblado vertical del **método Konmari**, si no lo conoces te invito a
 
 Este método de doblado me encanta, creo que es la forma más organizada de guardar tu ropa en cajones y poder ver todas las prendas, pero yo personalmente no puedo hacerlo porque tengo baldas y no puedo ponerme cajones, así que supongo que como yo habrá más gente que se quede con las ganas.
 
-![Konmari - doblado]({filename}/images/konmari-doblado.jpg)
+![Konmari - doblado]({static}/images/konmari-doblado.jpg)
 
 ### Calcetines doblados, no enrollados
 

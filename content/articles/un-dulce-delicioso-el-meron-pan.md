@@ -12,7 +12,7 @@ Hoy en día sigue siendo uno de los bollos dulces más populares en Japón, y mi
 
 El nombre de *meron pan* viene de dos palabras extranjeras adoptadas en japonés: **melón** y **pan**. Curiosamente, lo que le da el nombre no es el sabor, sino el patrón rallado con el que se hacen; originalmente solo se hacían las líneas en una dirección, pero con el tiempo hicieron un patrón de cuadrados.
 
-![Shana comiendo melon pan]({filename}/images/shana-melon-pan.jpg)
+![Shana comiendo melon pan]({static}/images/shana-melon-pan.jpg)
 
 En realidad el bollo interior suele tener gran variedad de sabores; desde azúcar, mantequilla y café, hasta melón, *matcha* o chocolate. La capa exterior está glaseada y queda abrillantada por el azúcar.
 
@@ -75,14 +75,14 @@ El asunto es que, como no es fácil encontrarlos en mi país, he aprendido a hac
 
 ### Foto 1: Centramos el bollo en el interior de la galleta
 
-![Receta de melon pan - foto 1]({filename}/images/receta-melon-pan-foto1.jpg)
+![Receta de melon pan - foto 1]({static}/images/receta-melon-pan-foto1.jpg)
 
 ### Foto 2: Envolvemos la el bollo interior con la galleta
 
-![Receta de melon pan - foto 2]({filename}/images/receta-melon-pan-foto2.jpg)
+![Receta de melon pan - foto 2]({static}/images/receta-melon-pan-foto2.jpg)
 
 ### Foto 3: Marcamos el patrón característico del *meron pan*
 
-![Receta de melon pan - foto 3]({filename}/images/receta-melon-pan-foto3.jpg)
+![Receta de melon pan - foto 3]({static}/images/receta-melon-pan-foto3.jpg)
 
 ***A comer!***

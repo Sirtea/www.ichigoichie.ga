@@ -10,7 +10,7 @@ El *bento* es la comida japonesa para llevar, siendo algo parecido a los tradici
 
 Se trata de comidas preparadas que llevan una base de arroz, acompañado por varios acompañamientos pequeños, ya que en la variedad está el gusto. De hecho, suelen decir que para asegurar que hay de todos los grupos alimentarios, el *bento* perfecto incluye cinco colores: blanco, negro, rojo, verde y amarillo.
 
-![Clannad girl obento]({filename}/images/clannad-girl-obento.jpg)
+![Clannad girl obento]({static}/images/clannad-girl-obento.jpg)
 
 Desde el punto de vista nutricional se trata de comidas completas, pensadas para una comida con un consumo calórico normal, oscilando entre 400 y 600 calorías.
 
@@ -34,10 +34,10 @@ En fin, la lista es infinita, y no tiene porque ser nada "muy japonés". Basta c
 
 Os pongo algunas imágenes para que podáis ver lo que se lo curran las mamás japonesas...
 
-![Neko obento]({filename}/images/neko-obento.jpg)
+![Neko obento]({static}/images/neko-obento.jpg)
 
-![Hello Kitty obento]({filename}/images/hello-kitty-obento.jpg)
+![Hello Kitty obento]({static}/images/hello-kitty-obento.jpg)
 
-![Totoro obento]({filename}/images/totoro-obento.jpg)
+![Totoro obento]({static}/images/totoro-obento.jpg)
 
 ***Itadakimasu!***

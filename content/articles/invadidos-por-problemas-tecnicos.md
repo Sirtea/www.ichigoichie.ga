@@ -10,7 +10,7 @@ Esta semana ha sido muy triste. El dominio que sostenía este *blog* en [www.ich
 
 Así pues, en vez de trabajar en escribir un artículo, he tenido semana frenética intentando recuperar la visibilidad del *blog* en internet. Eso significa que no hay artículo y que muchos de nuestros seguidores no van a tener fácil el seguirnos de ahora en adelante.
 
-![Problemas técnicos DNS]({filename}/images/problemas-tecnicos-dns.jpg)
+![Problemas técnicos DNS]({static}/images/problemas-tecnicos-dns.jpg)
 
 Pero esto era previsible; este *blog* no produce más dinero que el de la publicidad, que me planteo en retirar porque no entra suficiente para mantenerlo a nivel de *hosting*; me sigo debiendo al uso de dominios gratuitos y *hosting* barato.
 

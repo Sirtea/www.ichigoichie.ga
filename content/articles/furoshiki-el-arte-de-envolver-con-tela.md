@@ -14,7 +14,7 @@ Hoy en día es habitual ver a los japoneses llevar su comida envuelta dentro de 
 
 Os dejo un esquema de como se doblan estas telas. Os dejo [este enlace](http://furoshiki.com/techniques/), con mas información y mas formas de doblar las telas. Espero que no seáis tan manazas como yo...
 
-![Técnicas de furoshiki]({filename}/images/tecnicas-de-furoshiki.jpg)
+![Técnicas de furoshiki]({static}/images/tecnicas-de-furoshiki.jpg)
 
 El *furoshiki* supone un beneficio ambiental enorme, ya que la tela es reutilizable; incluso el **ministerio de medio ambiente japonés** ha lanzado campañas para promover su uso en detrimento de las bolsas de plástico desechables.
 

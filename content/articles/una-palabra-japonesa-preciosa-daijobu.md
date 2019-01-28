@@ -10,7 +10,7 @@ Todos lo que habéis estado en Japón habéis oído varias palabras de uso muy c
 
 Se dice **daijobu** para indicar al resto de gente que estamos bien, y que no hay nada de lo que preocuparse. No importa si te has caído, si no puedes entrar en un lugar concreto, o si te encuentras mal: **daijobu**; lo primero es indicar a los demás que no pasa nada, que todo está bien y que no es grave. Muy japonés.
 
-![Daijobu desu]({filename}/images/daijobu-desu.jpg)
+![Daijobu desu]({static}/images/daijobu-desu.jpg)
 
 ## Otros usos
 

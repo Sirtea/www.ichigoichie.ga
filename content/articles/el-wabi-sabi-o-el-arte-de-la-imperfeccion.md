@@ -12,7 +12,7 @@ Esta corriente se basa en la aceptación de la fugacidad y la impermanencia, sie
 
 Algunas características de esta corriente son la asimetría, la aspereza, la sencillez, la modestia y un cierto toque de naturalidad. El **wabi-sabi** cultiva todo lo que es auténtico reconociendo tres sencillas realidades: nada dura, nada está completado y nada es perfecto. De hecho, son las imperfecciones las que hacen de nuestro objeto algo único.
 
-![Conceptos wabi-sabi]({filename}/images/wabi-sabi.jpg)
+![Conceptos wabi-sabi]({static}/images/wabi-sabi.jpg)
 
 De acuerdo con algunos autores, lo que es **wabi-sabi** se puede distinguir de forma relativamente fácil:
 
@@ -35,4 +35,4 @@ Numerosas artes japonesas durante los últimos milenios se han visto influidas p
 * Alfarería japonesa
 * Ceremonia del té japonesa
 
-![Cerámica wabi-sabi]({filename}/images/wabi-sabi-pottery.jpg)
+![Cerámica wabi-sabi]({static}/images/wabi-sabi-pottery.jpg)

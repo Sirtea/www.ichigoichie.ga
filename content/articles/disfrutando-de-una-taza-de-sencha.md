@@ -12,7 +12,7 @@ El té *sencha* (literalmente, *té cocido*) es muy popular en Japón y represen
 
 Su preparación se hace con mucho cuidado y mimo; tras la cosecha pasa por un procesos de cocción al vapor, secado y enrollado; tras esto lo clasifican en diferentes calidades.
 
-![Hojas de sencha]({filename}/images/hojas_de_sencha.jpg)
+![Hojas de sencha]({static}/images/hojas_de_sencha.jpg)
 
 En cuanto a sabor, tiene el equilibrio perfecto entre fresco, suave, amargo y ligeramente astringente. El color de la infusión es un verde-amarillo, que es una visión preciosa en una taza de porcelana blanca. Desde el punto de vista nutricional, es rico en vitamina C y aminoácidos, debido a que se cultiva a pleno sol.
 
@@ -25,7 +25,7 @@ Siguiendo los pasos estándares para la [correcta infusión del té japonés]({f
 3. Esperar 1 minuto para que se haga la infusión.
 4. Servir el té en cada *yunomi* (taza), alternando poco a poco entre ellas para que el sabor sea el mismo para cada uno.
 
-![Taza de sencha]({filename}/images/taza_de_sencha.jpg)
+![Taza de sencha]({static}/images/taza_de_sencha.jpg)
 
 ## Trucos
 

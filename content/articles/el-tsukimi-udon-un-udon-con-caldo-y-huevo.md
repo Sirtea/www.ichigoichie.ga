@@ -10,7 +10,7 @@ Me encantan los platos con nombres poéticos, y este es uno de mis favoritos. *T
 
 Es un plato relativamente simple, ya que se trata de *udon*, caldo y un huevo encima. Tradicionalmente, se le pone también algún *topping* como por ejemplo cebolleta cortada fina. La verdad es que tenemos mucho margen de maniobra con estas directrices y, como no, os voy a exponer la versión adaptada que yo me suelo hacer.
 
-![Tsukimi udon]({filename}/images/tsukimi_udon.jpg)
+![Tsukimi udon]({static}/images/tsukimi_udon.jpg)
 
 ## Ingredientes
 

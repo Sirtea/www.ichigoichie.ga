@@ -18,7 +18,7 @@ Los hoteles cápsula son unos hoteles típicos de Japón destinados principalmen
 
 El nombre de "hotel cápsula" ya nos da una pista. Se llaman así porque las camas están dentro de una especie de cápsula, con el tamaño justo para el colchón y poco más. Vamos, lo que viene siendo una lata de sardinas gigante con edredón. La gran ventaja es **que es económico** (20-50€ por noche).
 
-![Hotel cápsula - 01]({filename}/images/hotel-capsula-01.jpg)
+![Hotel cápsula - 01]({static}/images/hotel-capsula-01.jpg)
 
 **AVISO**: Es una mala opción para aquellos que tengáis claustrofobia.
 
@@ -28,7 +28,7 @@ La cama de la cápsula es de un metro de ancho más o menos, y de altura permite
 
 Dentro de la cápsula suele haber televisión, hilo musical y luz propia. La parte posterior tiene un panel y unos altavoces para escuchar la televisión y hasta para configurar tu alarma personal.
 
-![Hotel cápsula - 02]({filename}/images/hotel-capsula-02.jpg)
+![Hotel cápsula - 02]({static}/images/hotel-capsula-02.jpg)
 
 La reducción de los espacios de dormir se suele compensar con unos espacios comunes más que decentes: gimnasio, sauna, habitaciones de masajes, un típico baño japonés *ofuro* u *onsen* artificial, e incluso salas con asientos reclinables.
 

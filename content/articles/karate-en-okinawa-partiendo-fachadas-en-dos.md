@@ -12,11 +12,11 @@ Una de estas localizaciones remotas se encuentra en el archipiélago de **Okinaw
 
 Y esta película es exactamente la que recordé andando por su capital, **Naha**. El motivo que me hizo recordarla es la presencia de escuelas de *karate*; pero realmente fue este peculiar motivo en la fachada de un edificio de su calle principal, la **Kokusai Dori**.
 
-![Mano partiendo fachada 1]({filename}/images/karate_mano_fachada_1.jpg)
+![Mano partiendo fachada 1]({static}/images/karate_mano_fachada_1.jpg)
 
 Se trata de una mano de *karate* gigantesca, que simula estar partiendo la fachada un solo golpe. La parte mala es que no he encontrado la foto que le hice, así que he tenido que tirar de **Google Street View**.
 
-![Mano partiendo fachada 2]({filename}/images/karate_mano_fachada_2.jpg)
+![Mano partiendo fachada 2]({static}/images/karate_mano_fachada_2.jpg)
 
 Si algún día os pasáis por **Okinawa**, esto se encuentra en su capital, **Naha**. Hablando de la calle **Kokusai Dori**, se trata de su calle comercial principal y seguro que váis a pasar por ella estando en **Naha**. Si os interesa pasar por allí, aunque solo sea a curiosear, este es el mapa:
 

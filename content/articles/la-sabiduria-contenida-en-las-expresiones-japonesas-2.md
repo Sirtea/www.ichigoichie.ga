@@ -17,7 +17,7 @@ Este es un mensaje positivo; todos tenemos nuestros problemas y no tenemos que a
 
 Otra lectura de esta expresión se utiliza para describir a gente demasiado orgullosa como para rendirse.
 
-![Un samurái aparenta, incluso cuando se está muriendo de hambre, manteniendo de un palillo entre los dientes]({filename}/images/a-samurai-pretends-even-when-he-is-starved-by-holding-a-toothpick-between-his-teeth.jpg)
+![Un samurái aparenta, incluso cuando se está muriendo de hambre, manteniendo de un palillo entre los dientes]({static}/images/a-samurai-pretends-even-when-he-is-starved-by-holding-a-toothpick-between-his-teeth.jpg)
 
 ## Nito wo ou mono wa itto mo ezu
 
@@ -25,7 +25,7 @@ Otra lectura de esta expresión se utiliza para describir a gente demasiado orgu
 
 Para tener éxito, concéntrate en una sola cosa en un momento dado. Perseguir varios objetivos solo sirve para perder el control sobre ellos. **No seáis avariciosos**.
 
-![Un hombre que persigue dos conejos, no merece uno]({filename}/images/a-man-who-chases-two-rabbits-doesnt-deserve-one.jpg)
+![Un hombre que persigue dos conejos, no merece uno]({static}/images/a-man-who-chases-two-rabbits-doesnt-deserve-one.jpg)
 
 ## Akusen mi ni tsukazu
 
@@ -33,4 +33,4 @@ Para tener éxito, concéntrate en una sola cosa en un momento dado. Perseguir v
 
 Cuando la fuente de tu dinero no proviene de una fuente honesta, tarde o temprano vas a perderlo. No hagas dinero mediante engaños. **Vive honestamente y no tomes atajos**.
 
-![El mal dinero no se quedará contigo]({filename}/images/bad-money-wont-stick-with-you.jpg)
+![El mal dinero no se quedará contigo]({static}/images/bad-money-wont-stick-with-you.jpg)

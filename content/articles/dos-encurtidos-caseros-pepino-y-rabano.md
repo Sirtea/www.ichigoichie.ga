@@ -14,7 +14,7 @@ Algunos de los ingredientes pueden ser un poco difíciles de conseguir en las su
 
 ## Pepino encurtido
 
-![Encurtido casero de pepino]({filename}/images/encurtido_casero_pepino.jpg)
+![Encurtido casero de pepino]({static}/images/encurtido_casero_pepino.jpg)
 
 ### Ingredientes
 
@@ -36,7 +36,7 @@ Algunos de los ingredientes pueden ser un poco difíciles de conseguir en las su
 
 ## Rábano alargado agridulce
 
-![Encurtido casero de rábano]({filename}/images/encurtido_casero_rabano.jpg)
+![Encurtido casero de rábano]({static}/images/encurtido_casero_rabano.jpg)
 
 ### Ingredientes
 

@@ -14,7 +14,7 @@ El significado literal de la palabra *uchi* es **dentro** o  **casa** mientras q
 
 Dentro del grupo de *uchi* estaría nuestro círculo y entorno más próximo como nuestra familia, nuestros amigos más cercanos, nuestra ciudad y prefectura, colegio, universidad, la empresa donde trabajamos, etc.
 
-![Uchi y soto]({filename}/images/uchi-y-soto.jpg)
+![Uchi y soto]({static}/images/uchi-y-soto.jpg)
 
 Los japoneses tienen un sentimiento de colectivo bastante fuerte, de compañerismo y una profunda conciencia de solidaridad cuando pasan a pertenecer a un sitio u organización, pasando a dar prioridad absoluta a la harmonía del total del colectivo por encima de la opinión o preferencias del individuo. Así pues intentan siempre ayudar a **la gente de su entorno próximo** (la gente del *uchi*).
 

@@ -33,4 +33,4 @@ Algunos de estos ingredientes son difíciles de encontrar o directamente bastant
 
 5. A partir de aquí, la salsa está lista y se puede dejar enfriar, para ponerla en un bote. Al contener alta cantidad de azúcar, la salsa se conserva bastante bien.
 
-![Salsa teriyaki]({filename}/images/salsa_teriyaki.jpg)
+![Salsa teriyaki]({static}/images/salsa_teriyaki.jpg)

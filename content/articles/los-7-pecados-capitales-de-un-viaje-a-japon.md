@@ -49,7 +49,7 @@ Disfruta, pero no te descuides. Normalmente no te bañas desnudo en la playa de 
 * La embajada puede ayudarte, si la policía te permite ponerte en contacto con ellos; no suelen poder hacer nada.
 * Los policías no son especialmente comprensivos con los turistas y no suelen pasar las bromas por alto.
 
-![Public Nap]({filename}/images/public_nap.jpg)
+![Public Nap]({static}/images/public_nap.jpg)
 
 ## La estupidez
 

@@ -18,7 +18,7 @@ No todo el mundo come el *sushi* con palillos, pero mucha gente lo hace en Japó
 
 Por supuesto, el arroz se come con palillos. La mayoría de japoneses come arroz cada día. Cabe decir que el arroz preparado al estilo japonés es pegajoso y eso hace que se mas fácil hacerlo.
 
-![Bol de arroz]({filename}/images/uso_palillos_arroz.jpg)
+![Bol de arroz]({static}/images/uso_palillos_arroz.jpg)
 
 ### Huevos fritos
 
@@ -28,7 +28,7 @@ Los japoneses prefieren comer los huevos fritos con palillos porque son fáciles
 
 Los palillos son muy convenientes cuando la comida se puede cortar con ellos de forma fácil. Este plato se suele hacer de forma habitual y es muy fácil de comer con los palillos.
 
-![Hamburguesa]({filename}/images/uso_palillos_hamburguesa.jpg)
+![Hamburguesa]({static}/images/uso_palillos_hamburguesa.jpg)
 
 ### Sopa de miso
 
@@ -40,7 +40,7 @@ Los japoneses toman la sopa de *miso* sorbiendo el caldo directamente del bol. S
 
 El arroz con salsa de *curry* es un plato muy popular en Japón. A pesar de que se trata de un plato de arroz, los japoneses usan una cuchara para comerlo. La salsa separa los granos de arroz y hace imposible el uso de palillos.
 
-![Arroz con curry]({filename}/images/uso_palillos_curry.jpg)
+![Arroz con curry]({static}/images/uso_palillos_curry.jpg)
 
 ### Bistec
 
@@ -50,7 +50,7 @@ A pesar de toda la práctica que tienen los japoneses cortando cosas con los pal
 
 Las hamburguesas de estilo occidental que se comen con su pan y su relleno son imposibles completamente de comer con los palillos. Es un NO en mayúsculas.
 
-![Hambueguesa americana]({filename}/images/uso_palillos_hamburguesa_americana.jpg)
+![Hambueguesa americana]({static}/images/uso_palillos_hamburguesa_americana.jpg)
 
 ### Arroz frito
 
@@ -66,4 +66,4 @@ Algunos restaurantes que recomiendan usar palillos para comer pasta. Sin embargo
 
 A algunos japoneses les gusta usar palillos para comer patatas chips. En este caso lo hacen para evitar que sus dedos queden aceitosos, especialmente cuando están jugando a videojuegos o utilizando ordenadores.
 
-![Patatas chips]({filename}/images/uso_palillos_patatas_chips.jpg)
+![Patatas chips]({static}/images/uso_palillos_patatas_chips.jpg)

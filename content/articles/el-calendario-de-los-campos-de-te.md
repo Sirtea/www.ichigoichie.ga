@@ -12,7 +12,7 @@ Estas vistas nos deleitan durante todo el año. Durante la primavera, el verde v
 
 La belleza de estos campos se puede atribuir al trabajo duro de los agricultores que supervisan el mantenimiento de las plantas. He aquí un breve resumen de los procesos agrícolas cada temporada:
 
-![Calendario de los campos de té]({filename}/images/calendario-campos-de-te.jpg)
+![Calendario de los campos de té]({static}/images/calendario-campos-de-te.jpg)
 
 ## Primavera
 

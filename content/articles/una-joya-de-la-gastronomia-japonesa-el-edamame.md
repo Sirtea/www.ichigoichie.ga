@@ -10,7 +10,7 @@ Tags: edamame, salud, cerveza
 
 Es un alimento libre de colesterol y gluten, baja en calorías y una excelente fuente de proteínas, hierro y calcio. Además, es altamente beneficiosa para la salud.
 
-![Plato de edamame]({filename}/images/plato-edamame.jpg)
+![Plato de edamame]({static}/images/plato-edamame.jpg)
 
 Aquellos a los que os dé pereza ir a tiendas especializadas, ya no tenéis excusas: hay una [conocida cadena de supermercados](/spam.html) que los tiene en su sección de congelados a un precio muy razonable.
 
@@ -36,7 +36,7 @@ Aquellos a los que os dé pereza ir a tiendas especializadas, ya no tenéis excu
 
 **Preparar Edamame es muy fácil**, sólo tienes que introducir las vainas de soja verde sin descongelar en agua hirviendo con sal entre 3 y 5 minutos, escurrir y ¡listo!
 
-![Cocinando edamame]({filename}/images/cocinando-edamame.jpg)
+![Cocinando edamame]({static}/images/cocinando-edamame.jpg)
 
 Normalmente nos lo sirven con la cáscara, ya hervidos; se comen tal cual, como si de un *snack* se tratara. Sin embargo también es frecuente que acompañen a otras elaboraciones, como por ejemplo, sopas o arroces (aunque en estos casos ya no lleven cáscara).
 
@@ -48,7 +48,7 @@ La manera tradicional consiste en aprovechar que el vapor o agua hirviendo ha ab
 
 Es fácil pillarle el truco a la maniobra, pero para aquellos a los que os cueste, hay llaveros que simulan este gesto, y se pueden encontrar por internet:
 
-![Llavero edamame]({filename}/images/llavero-edamame.jpg)
+![Llavero edamame]({static}/images/llavero-edamame.jpg)
 
 ### Cerveza y edamame
 
@@ -56,6 +56,6 @@ Tradicionalmente, se dice que los *edamame* son buenos compañeros de una cervez
 
 Los *edamame* son una gran fuente de metionina, un aminoácido que protege el hígado, además de contener también vitaminas B1 y C, que ayudan a eliminar el alcohol. Así pues, tomar edamame con una buena jarra de *nama biru* o cerveza de barril nos ayudará a reducir los efectos negativos del alcohol.
 
-![Edamame y cerveza]({filename}/images/edamame-y-cerveza.jpg)
+![Edamame y cerveza]({static}/images/edamame-y-cerveza.jpg)
 
 ***¡Kanpai!***

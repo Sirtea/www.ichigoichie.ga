@@ -10,7 +10,7 @@ Parece haber llegado una ola de calor en mi ciudad, y con ella apetece montar un
 
 Se trata de un sándwich como cualquier otro, pero con arroz en vez de pan de molde y todo recogido mediante un envoltorio de alga *nori*. En cuanto al relleno, no hay limitaciones, pudiendo poner dentro lo que más os apetezca.
 
-![Onigirazu acabado]({filename}/images/onigirazu_acabado.jpg)
+![Onigirazu acabado]({static}/images/onigirazu_acabado.jpg)
 
 En vez de darle forma de bola o triángulo con las manos, el arroz sin compactar se esparce sobre una hoja de alga *nori*. Luego ponemos el relleno que queramos y finalmente aplicamos otra capa de arroz. El último paso consiste en doblar el alga como si se tratara de un envoltorio de regalo, para acabar cortando cuando el alga se pegue.
 
@@ -24,7 +24,7 @@ Se trata de una receta **extremadamente sencilla** y fácil de hacer, incluso co
 
 Esta es la receta:
 
-![Onigirazu instrucciones]({filename}/images/onigirazu_instrucciones.jpg)
+![Onigirazu instrucciones]({static}/images/onigirazu_instrucciones.jpg)
 
 1. Ponemos una base de arroz encima del alga *nori*, con cuidado de dejar alga suficiente para el envoltorio.
 2. Le ponemos encima el relleno que nos apetezca.

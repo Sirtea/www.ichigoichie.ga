@@ -30,7 +30,7 @@ La organización social de los roles se vio especialmente reforzada por el conce
 
 Las empresas aprovecharon este hecho para fomentar su implicación y mantuvieran su continuidad, de la misma forma que lo harían con sus familias. La empresa puso a disposición de sus trabajadores viviendas corporativas y escuelas exclusivas para sus hijos, obteniendo a cambio la dedicación exclusiva del empleado, con largas jornadas laborales y horas extra. Esto dejó a la mujer con la responsabilidad de quedarse en casa y cuidar de los hijos.
 
-![Familia japonesa]({filename}/images/familia_japonesa.jpg)
+![Familia japonesa]({static}/images/familia_japonesa.jpg)
 
 Este modelo de empresa no es diferente para una mujer que desee participar activamente; cualquier mujer que quiera una carrera profesional **se encuentra con un rígido horario laboral que no se adapta a sus necesidades familiares, y desanima a casarse y tener hijos a aquellas que tengan ambiciones profesionales**. Esto provoca un retraso en la edad en el que las mujeres tienen su primer hijo, y como consecuencia una caída de los índices de natalidad, un envejecimiento de la población y una clara falta de mano de obra.
 
@@ -56,7 +56,7 @@ El informe detalla un punto sorprendente: Japón no dispone de una legislación 
 
 Otro problema grave para la inclusión de la mujer en el mercado laboral es el trato que recibe por parte de sus compañeros y superiores. Una encuesta del gobierno realizada en 2016 a más de 9600 mujeres trabajadoras de entre 25 y 44 años concluyó que casi un tercio de las mujeres japoneses trabajadoras habían sido acosadas sexualmente en su lugar de trabajo.
 
-![Acoso laboral]({filename}/images/acoso_laboral.jpg)
+![Acoso laboral]({static}/images/acoso_laboral.jpg)
 
 Añadimos a eso que la mitad confesó haber sido víctima de comentarios sobre su apariencia, edad o físico por parte de sus colegas masculinos o de sus jefes, y un 37% indicaba que ha tenido que aguantar auténticos interrogatorios sobre si vida personal y privada. Un 40% confesaba haber sido víctima de tocamientos inapropiados, a un 28% les habían pedido salir de forma persistente y tener citas; y un 17% comentaba que las habían  presionado para tener relaciones sexuales. 
 

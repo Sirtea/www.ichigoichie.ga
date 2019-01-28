@@ -12,11 +12,11 @@ Es por eso que suicidarse en el campo de batalla se convirtió en el hábito en 
 
 ## Cómo comenzó el sepukku
 
-![Samurai cometiendo seppuku]({filename}/images/seppuku1.jpg)
+![Samurai cometiendo seppuku]({static}/images/seppuku1.jpg)
 
 *Sepukku*, que significa "cortarse el vientre", también se conoce como *harakiri*. El primer ritual de *seppuku* grabado se cree que fue realizado por **Minamoto no Yorimasa**, un prominente poeta japonés; también fue un guerrero que lideró los ejércitos durante la **Guerra de Genpei**, que fue un conflicto entre los clanes de **Taira** y **Minamoto** a fines del período **Heian**.
 
-![Batalla de Uji]({filename}/images/seppuku2.jpg)
+![Batalla de Uji]({static}/images/seppuku2.jpg)
 
 En el año 1180, comenzó la primera batalla de **Uji**. En este momento, el príncipe **Mochihito** fue perseguido por las fuerzas del clan **Taira** hacia el templo **Mii-dera**. Fue **Minamoto no Yorimasa** quien los condujo hacia **Nara**.
 
@@ -28,7 +28,7 @@ Sus hijos fueron asesinados tratando de protegerlo. Sabiendo que no había escap
 
 Era un privilegio tener la oportunidad de morir con honor en lugar de caer en manos del enemigo. Cuando no se hacía en el mismo campo de batalla, se hacía de una manera más formal.
 
-![Ritual de seppuku]({filename}/images/seppuku3.jpg)
+![Ritual de seppuku]({static}/images/seppuku3.jpg)
 
 Antes del ritual, al *samurai* se le daba la oportunidad de escribir un poema sobre la muerte, una práctica común para aquellos de las clases nobles. Entonces, se vestirá con un *kimono blanco*; después, tendrá que usar una daga corta para cortar su abdomen desde la parte inferior izquierda hacia arriba y hacia la derecha.
 

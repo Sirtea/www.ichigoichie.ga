@@ -16,7 +16,7 @@ Como no podía ser menos, se han basado en unas cualidades altamente apreciadas 
 
 En cuanto a la hoja, se trata de un diseño con un extraordinario afilado, permitiendo un corte preciso, fino y fluido. Los entendidos de la alta cocina japonesa no dejan de sorprenderse con la distribución de su peso y su cómodo mango, que les permite expresar la delicadeza de algunos platos, como por ejemplo, el *sashimi*.
 
-![Cuchillo Miyabi]({filename}/images/cuchillo-miyabi.jpg)
+![Cuchillo Miyabi]({static}/images/cuchillo-miyabi.jpg)
 
 ## Tipos de cuchillos japoneses
 

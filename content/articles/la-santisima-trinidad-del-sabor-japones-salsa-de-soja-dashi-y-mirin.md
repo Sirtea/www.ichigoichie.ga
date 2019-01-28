@@ -10,7 +10,7 @@ Todas las gastronomías mundiales incluyen algunos ingredientes esenciales que c
 
 Da igual si se pretende cocinar pollo *teriyaki*, *ramen*, *udon* o incluso una tortilla; aprender a utilizar estos 3 ingredientes es el primer paso para crear deliciosa comida japonesa.
 
-![Trinidad de ingredientes]({filename}/images/trinidad_ingredientes.jpg)
+![Trinidad de ingredientes]({static}/images/trinidad_ingredientes.jpg)
 
 ## Los ingredientes básicos
 

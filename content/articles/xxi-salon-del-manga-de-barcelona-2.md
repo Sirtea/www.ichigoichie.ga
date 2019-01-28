@@ -17,7 +17,7 @@ Acabo de llegar al recinto y veo una cola que da varias vueltas y tiene varios b
 * **10:30**  
 Llevo una hora en la cola y creo que hemos avanzado algo mas de la mitad. No desespero, ya que me interesa asistir a la charla titulada ***Heike Monogatari poema épico clásico*** que da **Francisco Royo** (de la asociación ***Wa Rei Ryu***), que es a las 11:00.
 
-![Colas del salón]({filename}/images/colas-salon-manga-barcelona-2015.jpg)
+![Colas del salón]({static}/images/colas-salon-manga-barcelona-2015.jpg)
 
 * **11:00**  
 Sigo en cola y no parece que avancemos. Me pierdo la charla que a la que quería asistir, de la mano de **Francisco Royo**.
@@ -31,7 +31,7 @@ Nos acaba de comunicar organización que el palacio 2 tiene el aforo completo y 
 * **12:00**  
 Al no poder entrar en el palacio 2, me he quedado en el escenario de la plaza Univers, en donde están cantando los chicos del **Coro Infantil del Colegio Japonés de Sant Cugat**. Me encanta la música del estudio ***Ghibli***!
 
-![Coro infantil]({filename}/images/coro-ghibli-salon-manga-barcelona-2015.jpg)
+![Coro infantil]({static}/images/coro-ghibli-salon-manga-barcelona-2015.jpg)
 
 * **12:30**  
 Acabado el concierto, y a falta de poder entrar en el palacio 2, me dirijo al palacio 1, con la intención de comer un poco.
@@ -45,7 +45,7 @@ Tras una hora en la cola, ya he pagado y me paso a la cola para que te sirvan. D
 * **13:30**  
 Esta vez han sido rápidos! Ya tengo mi comida. Lo que no puedo entender es como puede ser que una lata de té verde cueste mas que una cerveza de importación...
 
-![Comida]({filename}/images/comida-salon-manga-barcelona-2015.jpg)
+![Comida]({static}/images/comida-salon-manga-barcelona-2015.jpg)
 
 * **14:30**  
 No estaba nada mal el *pollo teriyaki pan*. En cambio la *sopa de miso* estaba sosa. Mientras comía me he dedicado a mirar el folleto del salón, y he decidido que me interesa ver dos eventos mas: una proyección de *anime* en el palacio 4 llamada ***La Isla de Giovanni*** y el testimonio de una superviviente de *Hiroshima*, llamada **Sadae Kasaoka**. A las 16:00 empieza el concurso del **World Cosplay Summit** en el escenario. Sin embargo, desde que profesionalizaron el concurso, hay menos asistentes y menos participantes; cada vez me interesa menos ese concurso...

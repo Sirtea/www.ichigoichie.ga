@@ -8,7 +8,7 @@ Tags: templo, santuario, shinto, katana, asesinato
 
 Una larga disputa entre dos hermanos por el dominio en un templo de Japón terminó en una gran tragedia. El jueves 7 de diciembre, *Shigenaga Tomioka* llegó al antiguo santuario **Tomioka Hachimangu**, en *Tokio*, para confrontar a su hermana *Nagako*, quien era la sacerdotisa de este templo del culto sintoísta.
 
-![Notícia La Vanguardia]({filename}/images/un-ataque-con-katanas-en-un-santuario-de-tokio-causa-tres-victimas-mortales.jpg)
+![Notícia La Vanguardia]({static}/images/un-ataque-con-katanas-en-un-santuario-de-tokio-causa-tres-victimas-mortales.jpg)
 
 *Nagako Tomioka* descendía de su coche al llegar al templo y súbitamente fue atacada con un sable *samurai* por su hermano *Shigenaga*. La mujer de 58 años sufrió una profunda herida en su pecho, junto con una laceración en la parte posterior de su cuello.
 

@@ -10,7 +10,7 @@ Muchos de los lectores estaréis pensando que no hay imagen más japonesa que la
 
 Con los vientos fríos y la bajada de las temperaturas, ciertas hojas de árboles japoneses se van paulatinamente coloreando de verde a amarillas, anaranjadas, rojas e incluso algunas violetas. Aunque no es tan conocido fuera de Japón porque solemos visitar el país en verano con la llegada de las vacaciones estivales, es un espectáculo digno de ver y merecedor de una visita en sí mismo.
 
-![Momiji-gari]({filename}/images/momiji_gari.jpg)
+![Momiji-gari]({static}/images/momiji_gari.jpg)
 
 ## La tradición de momiji
 
@@ -36,7 +36,7 @@ Las noticias del poder y de la maldad de *Momiji* y sus nuevas compañeras no ta
 
 En algunas versiones, *Momiji* se disfrazó de monje y ofreció *sake* envenenado a *Komimochi*, matándolo después. Otras versiones indican que los soldados le dieron el *sake* envenenado a *Momiji*, matándola después. Las versiones mas aceptadas indican que el ejército no se detuvo y luchó contra una *Momiji* transformada en demonio, que mató a muchos de ellos hasta que *Komimochi* pudo vencerla con el apoyo de las plegarias que recitaba a *Buda* mientras luchaba.
 
-![Momiji Oni]({filename}/images/momiji_oni.jpg)
+![Momiji Oni]({static}/images/momiji_oni.jpg)
 
 Entonces, lo de *momiji-gari*, o "caza de *Momiji*" puede referirse literalmente a lo que dice la leyenda.
 
@@ -49,7 +49,7 @@ Hay algunos árboles de hoja caduca que ofrecen un espectáculo mas impresionant
 * ***Nana kamado* o serbal** &rarr; De frutos rojos, sus hojas se vuelven del mismo color.
 * ***Nurude* o zumaque chino** &rarr; Sus hojas se vuelven anaranjadas y rojas, ofreciendo un espectáculo digno de ver.
 
-![Hoja de arce]({filename}/images/momiji_maple_leaf.jpg)
+![Hoja de arce]({static}/images/momiji_maple_leaf.jpg)
 
 ## Cuando observar el momiji
 
@@ -59,6 +59,6 @@ La **Agencia Meteorológica de Japón** suele mantener informaciones periódicas
 
 Para ir abriendo boca, las vistas que ofrece el templo *Kiyomizu-dera*.
 
-![Momiji Kiyomizudera]({filename}/images/momiji_kiyomizudera.jpg)
+![Momiji Kiyomizudera]({static}/images/momiji_kiyomizudera.jpg)
 
 ***Si tenéis la suerte de encontrar un viaje barato, ¡no os lo perdáis!***

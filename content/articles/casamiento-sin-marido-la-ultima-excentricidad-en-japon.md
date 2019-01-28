@@ -12,7 +12,7 @@ La idea se puso en marcha en 2014 por la agencia **Cerca Travel**, ubicada en **
 
 La propuesta causó furor en el país asiático y cada vez encuentra más y nuevos adeptos. "En apenas los primeros seis meses, más de 130 mujeres optaron por una boda a solas.", expresó la presidenta de la compañía, **Yukiki Inoue**.
 
-![Casamiento sin marido - 01]({filename}/images/casamiento-sin-marido-01.jpg)
+![Casamiento sin marido - 01]({static}/images/casamiento-sin-marido-01.jpg)
 
 La iniciativa responde al nombre de **"solo wedding"** (casamiento en soledad) y ofrece varios paquetes diferentes. Aquellas interesadas pueden elegir entre celebrar una boda tradicional japonesa o apelar a las características clásicas de los casamientos "occidentales": un vestido blanco con cola larga y un ramo de flores entre las manos.
 
@@ -20,7 +20,7 @@ La experiencia se divide en dos días. Durante el primero, la futura novia será
 
 Luego, se acude al emblemático jardín de **Shugakuin Kirara Sanso** para realizar la sesión de fotos y la jornada finaliza con el casamiento, la fiesta y la noche de bodas en un hotel de lujo. Las mujeres que decidan dar el paso adelante pagan hasta 2.500 dólares.
 
-![Casamiento sin marido - 02]({filename}/images/casamiento-sin-marido-02.jpg)
+![Casamiento sin marido - 02]({static}/images/casamiento-sin-marido-02.jpg)
 
 Para la psicóloga **Beatriz Goldberg**, el fenómeno indaga sobre la autoestima: "El casamiento es un fenómeno de individualismo al máximo. Sólo se vive de apariencias. De hecho, mucha gente compra premios y títulos y no le interesa si se los felicita por logros reales o no. En este caso sucede eso. Uno aplaude y elogia algo irreal; el novio es un muñeco de tarta".
 

@@ -12,7 +12,7 @@ El libro es una colección de 49 *haikus* del poeta dominicano *Keiselim A. Mont
 
 Un río que cruza un jardín *zen*, una lluvia que no interrumpe la construcción de un *torii* y un puente que cruza un riachuelo y une el bullicio del mundo real con la tranquilidad de la naturaleza. Estas son algunas de las imágenes que podemos encontrar en muchos poemas y pinturas, y nos dan una idea de la importancia que se le da al agua en la cultura japonesa.
 
-![Jardín Zen]({filename}/images/jardin-zen-haiku.jpg)
+![Jardín Zen]({static}/images/jardin-zen-haiku.jpg)
 
 Solo hay que contrastar con la presencia de templos dedicados al agua pura (*kiyomizudera*, en *Kioto*). De hecho, en mi proveedor habitual de té, se puede encontrar un bello pasaje en el que se aprecia el valor que le dan al agua:
 
@@ -22,7 +22,7 @@ Todos aquellos que apreciamos la belleza de la naturaleza y de las costumbres ja
 
 El libro está estructurado en cuatro apartados, inspirados en el agua, la naturaleza, la vida y la escritura. Sin embargo, la división no es clara, ya que los *haikus* fluyen exactamente como el agua, de forma fluida y natural. La idea o concepto del poema viene marcado por un término japonés escrito en rojo y con una tipografía algo más grande, y se podría ver como un título o resumen; seguro que os dará que pensar.
 
-![Como el agua - portada]({filename}/images/como-el-agua-portada.jpg)
+![Como el agua - portada]({static}/images/como-el-agua-portada.jpg)
 
 El acabado del libro queda completo con unas ilustraciones y fotografías que acompañan a cada *haiku* y nos ayudan a empaparnos de ese sentimiento *aware* y ponernos en una escena adecuada para la reflexión y nos transporta mentalmente al entorno que pretenden ilustrar.
 

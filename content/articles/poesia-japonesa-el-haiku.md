@@ -8,7 +8,7 @@ Tags: haiku, poesía
 
 El *haiku* es un género poético de origen japonés adoptado por occidente. Los* haikus* se escriben, según la tradición, en tres versos sin rima, de 5, 7 y 5 sílabas, respectivamente. Suelen hacer referencia a escenas de la naturaleza o de la vida cotidiana, y a menudo incluyen un *kigo*.
 
-![Haiku de la rana - Basho]({filename}/images/haiku-rana-basho.jpg)
+![Haiku de la rana - Basho]({static}/images/haiku-rana-basho.jpg)
 
 El *haiku*, verdadera joya de la poesía japonesa, se ha extendido por todo el mundo. Internet, y las redes sociales en particular, han contribuido a ello. Lamentablemente, no todo lo que se publica bajo la etiqueta *haiku* lo es, y esto embrutece el género. ¿Qué es, en realidad, un *haiku*? ¿Qué no lo es? En este artículo, y con el ánimo de ayudar en la correcta difusión de este género literario, te lo explicamos.
 

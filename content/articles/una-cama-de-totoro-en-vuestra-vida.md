@@ -12,6 +12,6 @@ Creo que es el momento de actualizar mi dormitorio. No tiene que haber nada mas 
 
 Estoy segura de que se pensó inicialmente para niños, pero conociéndonos, seguro que la versión grande la hicieron para mayores...
 
-![Cama de Totoro]({filename}/images/totoro-bed.jpg)
+![Cama de Totoro]({static}/images/totoro-bed.jpg)
 
 Y como va a caer seguro, me voy guardando [el link](http://www.ebay.com/itm/2015-New-Huge-Comfortable-Cute-Cartoon-Totoro-Bed-Sleeping-Bag-Pad-290-160cm/321698893621?_trksid=p2047675.c100011.m1850&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D20140602152332%26meid%3D2c99b69d17c14efdb6fdcb5d8edceeaa%26pid%3D100011%26rk%3D3%26rkt%3D10%26sd%3D280982469215). Espero que os guste.

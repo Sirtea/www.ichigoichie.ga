@@ -8,7 +8,7 @@ Tags: receta, gyoza, empanadilla
 
 Para aquellos que no conozcáis las **gyozas**, se trata de la versión japonesa de las empanadillas chinas. Muchos de los restaurantes asiáticos -o con inspiración asiática- ofrecen una versión de las mismas, y es un entrante que merece la pena probar, aunque si lo hacéis alguna vez, vais a repetir.
 
-![Gyoza casera - empanadillas japonesas]({filename}/images/gyoza-casera-empanadillas-japonesas.jpg)
+![Gyoza casera - empanadillas japonesas]({static}/images/gyoza-casera-empanadillas-japonesas.jpg)
 
 Como son relativamente fáciles de hacer, suelen ser un añadido habitual a mis **obentos**, y más de un compañero de trabajo que las ha probado, se ha quedado encantado. Hoy quiero compartir la receta con vosotros.
 

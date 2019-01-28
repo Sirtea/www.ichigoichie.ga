@@ -10,7 +10,7 @@ Muchas veces me he hecho una pregunta por pura curiosidad... ¿Cual es el valor 
 
 En la isla septentrional de *Hokkaido*, una línea ferroviaria durante años ha brindado servicio a un sólo pasajero: **Kana Harada**, una chica de secundaria que usa el tren para ir a su escuela.
 
-![Estación de Kyu-Shirataki]({filename}/images/estacion-de-kyu-shirataki.jpg)
+![Estación de Kyu-Shirataki]({static}/images/estacion-de-kyu-shirataki.jpg)
 
 En 2013, **Japan Railways**, la compañía encargada de operar esta estación, había tomado la decisión de cerrar la estación de *Kyu-Shirataki*, debido a que el servicio de transporte de mercancías que existía en esta región se cerró, lo que provocó que el tráfico de pasajeros cayera drásticamente, agravado por ser una de las ubicaciones más remotas dentro del país.
 
@@ -22,7 +22,7 @@ Desde que esta historia saliera a la luz en los medios occidentales, no han falt
 
 Por su parte, **Japan Railways** ha tomado una decisión tan práctica como curiosa: ha adaptado sus horarios para hacer los de la chica. El tren se detiene en una estación dos veces al día, una para recogerla y otra para dejarla después que la jornada escolar ha terminado. Está previsto que la chica se gradúe a finales de marzo; hasta entonces, **Japan Railways** se ha comprometido a mantener este servicio.
 
-![Horarios de Kyu-Shirataki]({filename}/images/horarios-de-kyu-shirataki.jpg)
+![Horarios de Kyu-Shirataki]({static}/images/horarios-de-kyu-shirataki.jpg)
 
 ## Y como no podía ser menos...
 

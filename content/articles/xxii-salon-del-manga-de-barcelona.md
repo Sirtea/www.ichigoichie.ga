@@ -16,11 +16,11 @@ Como cada año, la asociación [Ficomic](http://ficomic.com/inici.cfm) nos vuelv
 
 El Salón del manga de Barcelona es el evento por excelencia del manga y anime en nuestro país, en donde autores, editoriales y aficionados se dan cita durante 4 mágicos días; no importa si te interesa el mundo del manga y el anime, la gastronomía, la música o su cultura en general: este es tu sitio.
 
-![Cartel XXII Salon Manga Barcelona]({filename}/images/xxii-salon-manga-barcelona-cartel.jpg)
+![Cartel XXII Salon Manga Barcelona]({static}/images/xxii-salon-manga-barcelona-cartel.jpg)
 
 Este año, solo echando una mirada al programa, podemos ver que siguen con su intento de ofrecer algo mas atractivo que una evento puramente comercial; aunque si que van a estar la mayoría de las grandes editoriales, hay mucho espacio dedicado a otras facetas de la cultura nipona.
 
-![Palacios XXII Salon Manga Barcelona]({filename}/images/xxii-salon-manga-barcelona-palacios.jpg)
+![Palacios XXII Salon Manga Barcelona]({static}/images/xxii-salon-manga-barcelona-palacios.jpg)
 
 Desde este *blog* vamos a intentar cubrir este evento, ya que estamos especialmente interesados en la cultura, tanto en el manga y el anime como con aspectos culturales como el *chado* y las artes marciales. Desgraciadamente, el espacio de comida vuelve a estar agrupado todo junto. Esto nos augura los mismos problemas de cada año para la hora de comer... Supongo que es un buen momento para llevar un *obento*.
 

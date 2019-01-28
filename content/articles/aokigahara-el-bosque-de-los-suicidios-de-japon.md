@@ -14,7 +14,7 @@ La posición del gobierno ante el problema es clara y se puede leer en una de la
 
 > Pensemos una vez más en la vida que te fue dada, tus padres, tus hermanos y hermanas, y los niños. No sufras solo, antes, contacta a alguien
 
-![Cartel Aokigahara]({filename}/images/aokigahara_cartel.jpg)
+![Cartel Aokigahara]({static}/images/aokigahara_cartel.jpg)
 
 También existen redes de comunicación y propaganda entre los habitantes locales para que observen de manera voluntaria a los visitantes y den aviso sobre cualquier comportamiento extraño.
 
@@ -26,7 +26,7 @@ Otros creen que el bosque se usa para este fin desde la práctica del *ubasute* 
 
 Incluso el libro de *Tsurumi Wataru* "El manual completo del suicidio", publicado en 1993, se refiere a *Aokigahara* como un lugar perfecto para morir y destaca el ahorcamiento como una obra de arte. La publicación vendió millones de copias pero fue vetado recientemente en el país.
 
-![Restos humanos Aokigahara]({filename}/images/aokigahara_restos_humanos.jpg)
+![Restos humanos Aokigahara]({static}/images/aokigahara_restos_humanos.jpg)
 
 ## Causas del suicido
 

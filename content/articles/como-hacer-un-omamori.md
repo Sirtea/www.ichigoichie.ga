@@ -20,7 +20,7 @@ Es muy simple hacer uno nosotros mismos; solo necesitamos algunos materiales fá
 
 Doblamos la tela en dos partes, para hacer el delante y el detrás. Vamos a dibujar un rectángulo del tamaño que queramos, y dibujamos dos líneas inclinadas en la parte alta del rectángulo, tal como se ve en el dibujo.
 
-![Omamori paso 1]({filename}/images/omamori_paso1.jpg)
+![Omamori paso 1]({static}/images/omamori_paso1.jpg)
 
 Este dibujo va a quedar dentro del amuleto, así que elegid bien el lado de la tela a usar. Dejamos también un poco de margen en el dibujo, que es por donde vamos a cortar la tela sobrante.
 
@@ -30,13 +30,13 @@ Cosemos las líneas interiores del dibujo, para hacer la forma de saco. Hay que 
 
 Aprovechando la apertura de la parte de arriba, giramos la tela del revés, escondiendo el dibujo y la sutura en el interior del saco.
 
-![Omamori paso 2]({filename}/images/omamori_paso2.jpg)
+![Omamori paso 2]({static}/images/omamori_paso2.jpg)
 
 ## Paso 3: Insertar el encantamiento
 
 Escribimos en el papel el encantamiento o deseo que queramos y lo doblamos lo suficiente para que quepa en el interior del amuleto.
 
-![Omamori ofuda]({filename}/images/omamori_ofuda.jpg)
+![Omamori ofuda]({static}/images/omamori_ofuda.jpg)
 
 Si os falta inspiración para el encantamiento, una búsqueda en internet puede ayudaros. Otra opción es traducir directamente con una herramienta *online*.
 
@@ -44,7 +44,7 @@ Si os falta inspiración para el encantamiento, una búsqueda en internet puede 
 
 Con un objeto punzante, por ejemplo un bolígrafo, hacemos un agujero suficiente para pasar la cuerda del nudo.
 
-![Omamori paso 3]({filename}/images/omamori_paso3.jpg)
+![Omamori paso 3]({static}/images/omamori_paso3.jpg)
 
 En el caso del bolígrafo, tened cuidado con el tinte; en mi caso, dejé la tela con un tono azulado.
 
@@ -60,6 +60,6 @@ Desgraciadamente, este paso me sale siempre como un churro, así que os dejo el 
 
 Tras 14 intentos me quedó un nudo bastante potable... Espero que os sirva como inspiración al menos.
 
-![Omamori paso 4]({filename}/images/omamori_paso4.jpg)
+![Omamori paso 4]({static}/images/omamori_paso4.jpg)
 
 ***Ahora tengo este amuleto colgando de mi móvil***

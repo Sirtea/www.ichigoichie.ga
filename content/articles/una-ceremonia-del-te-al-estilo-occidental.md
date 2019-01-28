@@ -10,7 +10,7 @@ Estaba yo el otro día de compras en [una conocida cadena de supermercados]({fil
 
 En ese momento dado se me había acabado el *matcha* oriundo de Japón, y estaba esperando que me llegara el siguiente pedido. Dado el envase individual de los sobres y la facilidad de llevarlos por ahí, creí conveniente coger una caja de 10 sobres.
 
-![Bol de matcha con accesorios]({filename}/images/matcha-bowl-and-accessories.jpg)
+![Bol de matcha con accesorios]({static}/images/matcha-bowl-and-accessories.jpg)
 
 **NOTA**: Este no es un tutorial sobre como preparar el *matcha*; si estáis buscando esto, podéis buscar en [este otro artículo]({filename}/articles/la-preparacion-del-te-matcha.md).
 
@@ -22,7 +22,7 @@ No tenía *mochis* ni otros dulces japoneses, pero eso no fue suficiente para de
 
 Sin corto ni perezoso, decidí el nuevo acompañante para el bol de té:
 
-![Algunos donuts]({filename}/images/some-donuts.jpg)
+![Algunos donuts]({static}/images/some-donuts.jpg)
 
 **DISCULPA**: Si algún lector japonés me lee y se siente horrorizado, lo hice sin maldad. Yo mismo creo que fue una herejía en toda regla, y espero no tener que repetirlo; aunque respeto que mis lectores quieran intentarlo.
 

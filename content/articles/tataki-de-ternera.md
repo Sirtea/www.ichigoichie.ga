@@ -8,7 +8,7 @@ Tags: receta, tataki, ternera
 
 Nunca he dejado de maravillarme de la simplicidad y la complejidad de gustos de la cocina nipona. El otro día pedí en un restaurante un plato llamado *tataki*, que me dejó boquiabierto. Tras investigar un poco sobre como reproducirlo, lo intenté por mi propia cuenta. Esta es la receta usada.
 
-![Tataki de ternera]({filename}/images/tataki-de-ternera.jpg)
+![Tataki de ternera]({static}/images/tataki-de-ternera.jpg)
 
 ## Ingredientes (para 4 personas)
 

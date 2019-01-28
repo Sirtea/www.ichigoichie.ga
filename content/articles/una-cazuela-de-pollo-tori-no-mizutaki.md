@@ -10,7 +10,7 @@ Tags: cazuela, pollo
 
 Se trata de una cazuela de pollo con col china, todo ello hervido y servido en un caldo del propio pollo. Se suele comer "pescando con los palillos" los ingredientes y remojándolos en salsa *ponzu*.
 
-![Tori no mizutaki]({filename}/images/tori-no-mizutaki.jpg)
+![Tori no mizutaki]({static}/images/tori-no-mizutaki.jpg)
 
 ## Ingredientes (para 4 comensales)
 

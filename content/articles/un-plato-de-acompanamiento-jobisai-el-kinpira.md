@@ -10,7 +10,7 @@ Una de las cosas que más me llama la atención de la comida japonesa es su simp
 
 En japonés se denomina *jobisai* a los platos que se pueden conservar en el refrigerador por varios días. El **kinpira** es uno de los más populares. Los *jobisai* desempeñan un papel importante, ya que en la cocina japonesa se busca lograr un buen equilibrio nutricional comiendo una variedad de platos acompañados de arroz blanco.
 
-![Plato de kinpira]({filename}/images/kinpira01.jpg)
+![Plato de kinpira]({static}/images/kinpira01.jpg)
 
 A base de estos platos saludables podemos montar una comida tradicional japonesa como la que ya vimos en [otro artículo]({filename}/articles/introduccion-a-la-gastronomia-japonesa.md).
 
@@ -28,8 +28,8 @@ A base de estos platos saludables podemos montar una comida tradicional japonesa
 2. Caliente el aceite en una sartén a fuego medio y sofría la zanahoria. Tape la sartén cuando la zanahoria se ponga traslúcida y siga cocinando 2 a 3 minutos a fuego bajo.
 3. Destape la sartén cuando la zanahoria esté cocida pero firme, agregue el azúcar, la salsa de soja y el chile y cocine a fuego medio hasta que no quede más humedad.
 
-![Kinpira - paso 1]({filename}/images/kinpira02.jpg)
+![Kinpira - paso 1]({static}/images/kinpira02.jpg)
 
-![Kinpira - paso 2]({filename}/images/kinpira03.jpg)
+![Kinpira - paso 2]({static}/images/kinpira03.jpg)
 
 ***¡Itadakimasu!***

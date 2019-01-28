@@ -22,7 +22,7 @@ Fue en algún momento del siglo XIV, cuando la influencia de los monasterios *ze
 
 En algún lugar alrededor del período **Azuchi-Momoyama**, el arte japonés vio la introducción del oro y la lámina de plata en las formas de arte. Varios estilos diferentes se introdujeron en el arte japonés en el período **Edo**. Paisajes monumentales y pinturas murales embellecieron las puertas correderas y los castillos, respectivamente.
 
-![Arte japonés: pintura]({filename}/images/japanese-arts-paintings.jpg)
+![Arte japonés: pintura]({static}/images/japanese-arts-paintings.jpg)
 
 Durante el período **Meiji**, el arte japonés se convirtió bajo la fuerte influencia del arte occidental, sin embargo, los críticos de arte en Japón hicieron un gran trabajo en la reactivación del arte japonés en su forma original, como el arte *Nihonga*.
 
@@ -36,7 +36,7 @@ Por otro lado, la escultura japonesa es conocida por sus características propia
 
 Con el paso del tiempo, se introdujeron nuevas ideas y material para crear diferentes esculturas. Un progreso importante fue el florecimiento de las esculturas al aire libre que ahora se utilizan en los parques u otros paisajes.
 
-![Arte japonés: cerámica]({filename}/images/japanese-arts-pottery.jpg)
+![Arte japonés: cerámica]({static}/images/japanese-arts-pottery.jpg)
 
 ## Bonsai
 
@@ -68,7 +68,7 @@ Fue en el siglo XVII cuando la caligrafía comenzó a ser popular en Japón. El 
 
 Fue en la época medieval cuando las artes marciales comenzaron a ganar popularidad en Japón. La clase *samurai* practicaba artes marciales. El arte marcial es un arte de pelear. Ayuda a las personas a defenderse de los ataques de los enemigos.
 
-![Arte japonés: artes marciales]({filename}/images/japanese-arts-martial-arts.jpg)
+![Arte japonés: artes marciales]({static}/images/japanese-arts-martial-arts.jpg)
 
 ## Ukiyo-E
 

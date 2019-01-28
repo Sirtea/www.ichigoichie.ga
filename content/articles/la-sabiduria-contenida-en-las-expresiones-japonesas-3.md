@@ -15,7 +15,7 @@ Concluimos esta serie dedicada a los proverbios japoneses con este tercer artíc
 
 Sé respetuoso con los demás. Adáptate a las costumbres locales y trata de no destacar para mal. Si vas de viaje, evita dar la nota. **Nadie quiere un vecino problemático**.
 
-![Cuando se una a otro pueblo, siga las reglas]({filename}/images/when-you-join-another-village-follow-the-rules.jpg)
+![Cuando se una a otro pueblo, siga las reglas]({static}/images/when-you-join-another-village-follow-the-rules.jpg)
 
 ## Makeru ga kachi
 
@@ -23,7 +23,7 @@ Sé respetuoso con los demás. Adáptate a las costumbres locales y trata de no 
 
 Algunas veces, hay que llegar a un acuerdo sacrificando algunas de nuestras exigencias, de acuerdo al bien común. Otras veces, quedar al margen de discusiones inútiles o aburridas es mejor opción. La mayoría de veces es mejor abandonar una discusión cuando ya no se va a llegar a nada. **La mayoría de las energías empleadas en una discusión son energías desperdiciadas**.
 
-![Perder significa ganar]({filename}/images/to-lose-means-to-win.jpg)
+![Perder significa ganar]({static}/images/to-lose-means-to-win.jpg)
 
 ## Jigou jitoku
 
@@ -31,4 +31,4 @@ Algunas veces, hay que llegar a un acuerdo sacrificando algunas de nuestras exig
 
 Lo que consigues en la vida depende de lo que haces. Sé consecuente de tus actos. **Compórtate de forma responsable**.
 
-![Se obtiene lo que se merece]({filename}/images/you-get-what-you-deserve.jpg)
+![Se obtiene lo que se merece]({static}/images/you-get-what-you-deserve.jpg)

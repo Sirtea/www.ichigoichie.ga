@@ -16,7 +16,7 @@ Se cree que el plato recibió su nombre actual en la década de 1970, cuando se 
 
 Las tiendas de alimentación de EEUU preparan decenas de variedades de *poke*. El estandarte culinario hawaiano ha llegado también a la cocina de los chefs más célebres que no dejan de innovar elaborando sofisticadas creaciones, deliciosamente únicas. La nueva tendencia es preparar *poke* salteado y en versiones vegetarianas.
 
-![Poke de atún]({filename}/images/poke-de-atun.jpg)
+![Poke de atún]({static}/images/poke-de-atun.jpg)
 
 Las diferentes culturas que llegaron a la isla aportaron cambios al *poke* original. Se empezaron a utilizar peces de alta mar. Los chiles y las cebollas vinieron con los exploradores de Europa y misioneros de América. Los descendientes de los trabajadores japoneses, chinos y coreanos (mano de obra en las plantaciones de azúcar y piña de *Hawai*) influyeron con sus propias tradiciones de pescado crudo y reemplazaron la sal y la *inamona* con aceite de *shoyu* y sésamo. Más tarde surgieron variedades con *tofu* y pulpo como alternativa al *poke* de atún.
 

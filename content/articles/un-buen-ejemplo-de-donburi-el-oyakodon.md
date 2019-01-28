@@ -10,7 +10,7 @@ Cuando hablamos de gastronomía japonesa, todo el mundo va a pensar en *sushi*, 
 
 La terminación *don* de la palabra *oyakodon* es una abreviación de *donburi*, una especie de cuenco grande. Los platos que se sirven en estos cuencos y que consisten en arroz cubierto con diversas preparaciones se llaman *donburimono*.
 
-![Donburi de pollo]({filename}/images/donburi-de-pollo.jpg)
+![Donburi de pollo]({static}/images/donburi-de-pollo.jpg)
 
 En Japón hay una gran variedad de *donburi*; entre los más comunes se encuentran el *tempuradon* (arroz con tempura, aderezado a base de salsa de soja) y el *gyudon* (arroz con carne de ternera cocida).
 
@@ -31,7 +31,7 @@ La verdad es que es un plato muy genérico y agradecido, y no es de extrañar qu
 
 ## Preparación
 
-![Preparación de donburi]({filename}/images/donburi-preparacion.jpg)
+![Preparación de donburi]({static}/images/donburi-preparacion.jpg)
 
 1. Cocer el arroz.
 2. Cortar el pollo en tiras de unos 2 cm de ancho y 5 mm de grueso. Cortar la cebolla en rebanadas de unos 5 mm. Romper los huevos y mezclarlos bien en un recipiente.

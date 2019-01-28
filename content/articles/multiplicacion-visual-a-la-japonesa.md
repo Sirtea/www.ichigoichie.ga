@@ -14,7 +14,7 @@ En Japón es habitual enseñar a los niños a multiplicar de una forma muy disti
 
 Dibujamos un grupo de líneas paralelas por cada dígito del primer número y lo mismo para el otro, solo que perpendicularmente. Por ejemplo, las líneas verdes son las decenas de 32 y las rojas son las unidades. Las azules y las lilas representan el segundo factor. Pintamos todos los puntos de cruce.
 
-![Multiplicacion 32x31]({filename}/images/multiplicacion_32x31.png)
+![Multiplicacion 32x31]({static}/images/multiplicacion_32x31.png)
 
 Ahora se trata de sumar los puntos de las columnas, que representan los dígitos del resultado. En este caso, tenemos 2 puntos en la primera columna (color oliva), 9 en la segunda (color celeste) y otros nuevas en la tercera columna (color amarillo). Así pues, este es nuestro resultado: 9, 9, 2 = 992.
 
@@ -26,7 +26,7 @@ En este método, la primera columna representa las unidades, la segunda represen
 
 En este caso basta con arrastrar las decenas de la columna a la siguiente columna, tal como se muestra en la siguiente figura.
 
-![Multiplicacion 15x21]({filename}/images/multiplicacion_15x21.jpg)
+![Multiplicacion 15x21]({static}/images/multiplicacion_15x21.jpg)
 
 El resultado intermedio es 2, 11, 5; pasando las decenas del segundo valor (como se muestra en la figura), nos queda 3, 1, 5. Así pues, el resultado final es 315.
 
@@ -34,7 +34,7 @@ El resultado intermedio es 2, 11, 5; pasando las decenas del segundo valor (como
 
 El método es extensible a multiplicaciones de mas dígitos (o de menos). Solamente hay que tener en cuenta que nos van a salir mas intersecciones y mas columnas en el dibujo de líneas. De hecho, si ambos factores no tienen la misma longitud, nos va a salir una figura parecida a un rectángulo rotado; también nos vale.
 
-![Multiplicacion 123x321]({filename}/images/multiplicacion_123x321.jpg)
+![Multiplicacion 123x321]({static}/images/multiplicacion_123x321.jpg)
 
 El resultado intermedio es 3, 8, 14, 8, 3. Pasamos el dígito sobrante de la tercera columna y nos queda 3, 9, 4, 8, 3; lo que equivale a 39483.
 

@@ -10,7 +10,7 @@ A tres estaciones de tren regional desde **Kioto** encontramos una pequeña ciud
 
 **Uji** es una pequeña ciudad de unos 180.000 habitantes situada entre **Kioto** y **Nara**, dos de los centros históricos y culturales más famosos de Japón. Su proximidad a estas dos antiguas capitales resultó en el desarrollo temprano de **Uji** como un centro cultural en sí mismo. En el apogeo del poder político del clan *Fujiwara* en el Período *Heian* (del año 794 al 1192), edificios como el *Templo Byodoin* y el *Santuario Ujigami*, el santuario más antiguo de Japón, fueron construidos en **Uji**.
 
-![Mapa de Uji]({filename}/images/un-paseo-por-uji-city-map.jpg)
+![Mapa de Uji]({static}/images/un-paseo-por-uji-city-map.jpg)
 
 Uji también es famoso por su té verde. Mientras que el templo *Kozanji* en Kyoto se cree que es el sitio original de cultivo de té en Japón, el té de **Uji** se hizo más conocido por su calidad superior en el siglo XIX. Como buena sibarita del té, fue para mí una parada obligada.
 
@@ -28,7 +28,7 @@ Siendo la ciudad en la que la cultura del té se desarrolló en Japón, no es de
 
 ### Templos y santuarios
 
-![Templo Byodoin]({filename}/images/un-paseo-por-uji-byodoin-temple.jpg)
+![Templo Byodoin]({static}/images/un-paseo-por-uji-byodoin-temple.jpg)
 
 * **Templo Byodoin**: Después de que **Kioto** se convirtiera en la capital de Japón en el año 794, **Uji**, bendecido con la naturaleza y al estar cerca de la capital, se convirtió en el lugar favorito de la nobleza japonesa. El templo Byodoin, también conocido como *salón del fénix*, era el corazón de la ciudad y se contruyó en el año 1052. Es patrimonio mundial de la humanidad y su entrada cuesta 600 yenes.
 * **Santuario Ujigami**: El santuario de **Ujigami** está dedicado al príncipe **Uji-No-Waki-Iratsuko**, y a los emperadores **Ojin** y **Nintoku**. Tras la muerte del emperador **Ojin**, su hijo **Uji-No-Waki-Iratsuko** se suicidó para ceder el trono a su hermano **Nintoku**, al que veía más capacitado para el trono. Contruído en el periodo *Heian*, también es patrimonio mundial de la humanidad, con una entrada de 300 yenes.
@@ -38,7 +38,7 @@ Siendo la ciudad en la que la cultura del té se desarrolló en Japón, no es de
 
 ### Cultura del té
 
-![Uji Taiho-an]({filename}/images/un-paseo-por-uji-taiho-an.jpg)
+![Uji Taiho-an]({static}/images/un-paseo-por-uji-taiho-an.jpg)
 
 * **Taiho-an**: El *Taiho-an* es una casa en donde te hacen una ceremonia del té, controlada por el ayuntamiento. Ubicada en la orilla del río *Uji*, se encuentra en las cercanías del templo **Byodoin**. La ceremonia cuesta 500 yenes.
 * Las tiendas callejeras ofrecen té de altísima calidad y sus derivados. Tanto si queréis comprar té, como tomar una taza o reventar a helado de *matcha*, la parada es obligada. No perdáis la oportunidad de curiosear.
@@ -50,7 +50,7 @@ Siendo la ciudad en la que la cultura del té se desarrolló en Japón, no es de
 
 ### Otros
 
-![Río Uji]({filename}/images/un-paseo-por-uji-river-bridge.jpg)
+![Río Uji]({static}/images/un-paseo-por-uji-river-bridge.jpg)
 
 * **El río Uji y su puente**: El río *Uji* se origina en el lago **Biwa**, que es uno de los más grandes de Japón. En el año 646 el sacerdote budista **Doto** hizo construir el puente para permitir el tráfico en todo el distrito, tanto por mar como por agua; se considera uno de los tres más famosos puentes antiguos de Japón. Un paseo por el mismo, o por la orilla del río, es una experiencia relajante y con unas vistas inmejorables del entorno.
 * Si seguís el curso del río podréis ver islas con pagodas de piedra en medio de su curso; depende de la época del año se pueden ver pescadores que utilizan cormoranes que pescan por ellos. No recomiento ir más allá del puente colgante Amagase, en donde se puede cruzar para seguir el paseo de vuelta por la otra orilla del río.

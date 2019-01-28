@@ -22,7 +22,7 @@ Incluso en la agencia espacial JAXA, doblar 1000 grullas es una de las pruebas p
 
 Os dejo las instrucciones para doblar la grulla para el que lo quiera intentar:
 
-![Grulla origami]({filename}/images/grulla_origami.jpg)
+![Grulla origami]({static}/images/grulla_origami.jpg)
 
 Y si lo preferís, en versión vídeo:
 

@@ -10,11 +10,11 @@ El otro día tenía ***mono de ramen***, pero no de *ramen* de estos deshidratad
 
 Todo esto empieza porque había visto previamente una foto en un *blog* de nutrición y *fitness*. Concretamente fue la imagen encontrada en [MyFitnessPal](https://blog.myfitnesspal.com/instant-pot-chicken-ramen/); juzgad vosotros mismos:
 
-![Tagliatelle ramen - 01]({filename}/images/tagliatelle-ramen-01.jpg)
+![Tagliatelle ramen - 01]({static}/images/tagliatelle-ramen-01.jpg)
 
 Llegados a este punto, y sin tener fideos de *ramen* a mano, se me ocurrió sustituirlos, aunque con algo de miedo, ya que la última vez que hice *ramen* con espaguetis me salió algo abominable. Así que un paseo por [un supermercado de una famosa cadena]({filename}/pages/spam.md) y ví lo que parecía la respuesta a mis problemas: era *tagliatelle*, o como lo venden, **cintas al huevo**.
 
-![Tagliatelle ramen - 02]({filename}/images/tagliatelle-ramen-02.jpg)
+![Tagliatelle ramen - 02]({static}/images/tagliatelle-ramen-02.jpg)
 
 Con la esperanza de que su grosor y el huevo los hiciera más apetecibles, puse el paquete en mi carrito, junto con huevos y cebollino. El plan era simple: la pasta, con un caldo de soja encima, un huevo duro flotando y algo verde para darle color y sabor.
 

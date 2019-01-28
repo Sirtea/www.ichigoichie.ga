@@ -8,7 +8,7 @@ Tags: introducción, gastronomía, shushoku, okazu, ichijuu-issai, ichijuu-sansa
 
 La gastronomía japonesa posee un largo pasado culinario y que se ha desarrollado en una gastronomía sofisticada, refinada y especializada para cada estación del año. Una comida se compone de alimentos básicos (*shushoku*) acompañados de platos principales (*okazu*) que tienen la función de aportar sabor y color a la comida.
 
-![Ejemplo de comida japonesa]({filename}/images/ejemplo_comida_japonesa.jpg)
+![Ejemplo de comida japonesa]({static}/images/ejemplo_comida_japonesa.jpg)
 
 Los alimentos básicos (*shushoku*) son alimentos ricos en hidratos de carbonos, que cultivan de forma regular en el archipiélago japonés: arroz, trigo, avena, judías y mijo.
 
@@ -20,7 +20,7 @@ En cuanto a las bebidas, suelen ser bebidas no alcohólicas (como agua o té) y 
 
 Una comida japonesa estándar siempre consiste en un *shushoku* (normalmente arroz *gohan*), acompañado de encurtidos *tsukemono*, una sopa y una variedad de platos *okazu*, que añaden las verduras y las carnes.
 
-![Esquema de una comida japonesa]({filename}/images/esquema_comida_japonesa.jpg)
+![Esquema de una comida japonesa]({static}/images/esquema_comida_japonesa.jpg)
 
 De hecho, los japoneses dan nombre a sus comidas según la cantidad de *okazu* de los que se componen. De esta forma, se acuñan dos términos relacionados que son el *ichijuu-issai* (una sopa, una plato) y el *ichijuu-sansai* (una sopa, tres platos); tened en  cuenta que la ración de *shushoku* (por ejemplo, arroz), se da por sobreentendida.
 
@@ -32,7 +32,7 @@ Otros alimentos principales son los fideos japoneses, como el *ramen*, el *udon*
 
 ## Tipos de okazu
 
-![Tipos de okazu]({filename}/images/tipos_de_okazu.jpg)
+![Tipos de okazu]({static}/images/tipos_de_okazu.jpg)
 
 Cualquier acompañamiento que se os ocurra va en esta categoría. Por mencionar los mas conocidos:
 

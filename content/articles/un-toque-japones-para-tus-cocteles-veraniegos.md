@@ -20,7 +20,7 @@ Para ello vamos a necesitar:
 * Limón
 * Soda o vodka (opcional)
 
-![Hojicha aisu]({filename}/images/hojicha-aisu.jpg)
+![Hojicha aisu]({static}/images/hojicha-aisu.jpg)
 
 Las instrucciones son bastante simples:
 
@@ -42,7 +42,7 @@ Los ingredientes son también fáciles de encontrar.
 * Azúcar
 * Soda, ron o ginebra (opcional)
 
-![Sencha mojito]({filename}/images/sencha-mojito.jpg)
+![Sencha mojito]({static}/images/sencha-mojito.jpg)
 
 La preparación no difiere mucho de la versión original:
 
@@ -66,7 +66,7 @@ Vamos a necesitar:
 * Frutas varias, por ejemplo manzanas, ciruelas o melocotones.
 * Soda (opcional)
 
-![Sandría de sake]({filename}/images/sangria-sake.jpg)
+![Sandría de sake]({static}/images/sangria-sake.jpg)
 
 Para la preparación, cada persona tiene la suya; lo importante es que las frutas maceren bien en el alcohol, durante suficientes horas.
 

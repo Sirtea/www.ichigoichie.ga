@@ -14,7 +14,7 @@ Como se trata de comida seca se suele conservar bien, pudiendo hacer mucha canti
 
 Hoy vamos a hacer *furikake* de salmón tostado, que por su gran sabor y la facilidad para comprarlo en una ciudad occidental, es muy conveniente y barato.
 
-![Furikake casero de salmón - obento]({filename}/images/furikake-casero-salmon-obento.jpg)
+![Furikake casero de salmón - obento]({static}/images/furikake-casero-salmon-obento.jpg)
 
 ## Ingredientes
 
@@ -36,9 +36,9 @@ Hoy vamos a hacer *furikake* de salmón tostado, que por su gran sabor y la faci
 9. Añada 2 cucharaditas de semillas de sésamo y tueste la mezcla unos momentos más.
 10. Retire la preparación a un plato. El condimento estará listo para usar cuando se haya secado.
 
-![Furikake casero de salmón - paso 1]({filename}/images/furikake-casero-salmon-paso1.jpg)
+![Furikake casero de salmón - paso 1]({static}/images/furikake-casero-salmon-paso1.jpg)
 
-![Furikake casero de salmón - paso 2]({filename}/images/furikake-casero-salmon-paso2.jpg)
+![Furikake casero de salmón - paso 2]({static}/images/furikake-casero-salmon-paso2.jpg)
 
 **TRUCO**: En total, lleva unos 6 minutos tostar los ingredientes del *furikake* de salmón.
 
