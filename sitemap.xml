@@ -5,35 +5,42 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/</loc>
-<lastmod>2019-01-28T12:35:55-00:00</lastmod>
+<lastmod>2019-02-19T18:20:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/archives.html</loc>
-<lastmod>2019-01-28T12:35:55-00:00</lastmod>
+<lastmod>2019-02-19T18:20:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/tags.html</loc>
-<lastmod>2019-01-28T12:35:55-00:00</lastmod>
+<lastmod>2019-02-19T18:20:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/categories.html</loc>
-<lastmod>2019-01-28T12:35:55-00:00</lastmod>
+<lastmod>2019-02-19T18:20:15-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>https://www.ichigoichie.tk/about.html</loc>
-<lastmod>2019-01-28T12:35:55-00:00</lastmod>
+<lastmod>2019-02-19T18:20:15-00:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/2019/02/quitando-el-envase-de-un-onigiri-de-conbini.html</loc>
+<lastmod>2019-02-19T19:00:00+01:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1300,7 +1307,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/category/miscelanea.html</loc>
-<lastmod>2018-12-17T10:00:00-00:15</lastmod>
+<lastmod>2019-02-19T19:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -1322,6 +1329,27 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>https://www.ichigoichie.tk/category/viajes.html</loc>
 <lastmod>2018-09-17T10:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/onigiris.html</loc>
+<lastmod>2019-02-19T19:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/envase.html</loc>
+<lastmod>2019-02-19T19:00:00-00:15</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>https://www.ichigoichie.tk/tag/quitar.html</loc>
+<lastmod>2019-02-19T19:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -3252,13 +3280,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>https://www.ichigoichie.tk/tag/onigiris.html</loc>
-<lastmod>2016-11-14T08:00:00-00:15</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>https://www.ichigoichie.tk/tag/bolas-de-arroz.html</loc>
 <lastmod>2016-11-14T08:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
@@ -4345,7 +4366,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>https://www.ichigoichie.tk/author/aki.html</loc>
-<lastmod>2019-01-28T09:00:00-00:15</lastmod>
+<lastmod>2019-02-19T19:00:00-00:15</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
